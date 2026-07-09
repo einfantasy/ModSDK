@@ -1,0 +1,43 @@
+<JSB068_Tsurugi_1944_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.5067 0.7102 1.9268 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.5060 0.7102 1.9270 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.3130 0.9498 -0.0008 0.0000	</row0>
+			<row1>	-1.8736 -0.6172 0.3295 0.0000	</row1>
+			<row2>	0.1562 0.0523 0.9863 0.0000	</row2>
+			<row3>	-0.7440 0.2030 4.6070 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.3130 0.9498 -0.0008 0.0000	</row0>
+			<row1>	1.8736 -0.6172 0.3295 0.0000	</row1>
+			<row2>	0.1562 -0.0523 -0.9863 0.0000	</row2>
+			<row3>	0.7440 0.2030 4.6070 1.0000	</row3>
+		</transform>
+	</node>
+</JSB068_Tsurugi_1944_MidFront_dp.skel_ext>

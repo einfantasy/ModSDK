@@ -1,0 +1,43 @@
+<ASC078_Tulsa_1951_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.2442 0.9697 -0.0041 0.0000	</row0>
+			<row1>	-1.1544 -0.2901 0.1520 0.0000	</row1>
+			<row2>	0.1218 0.0349 0.9919 0.0000	</row2>
+			<row3>	-0.4350 0.1670 3.7470 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.2442 0.9697 -0.0041 0.0000	</row0>
+			<row1>	1.1544 -0.2901 0.1520 0.0000	</row1>
+			<row2>	0.1218 -0.0349 -0.9919 0.0000	</row2>
+			<row3>	0.4310 0.1670 3.7470 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.1499 1.0919 0.4658 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.1500 1.0919 0.4660 1.0000	</row3>
+		</transform>
+	</node>
+</ASC078_Tulsa_1951_MidFront_dp.skel_ext>

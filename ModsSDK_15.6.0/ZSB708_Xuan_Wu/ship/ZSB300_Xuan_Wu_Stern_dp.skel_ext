@@ -1,0 +1,23 @@
+<ZSB300_Xuan_Wu_Stern_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	-0.1733 0.9848 -0.0106 0.0000	</row0>
+			<row1>	-0.9830 -0.1736 -0.0601 0.0000	</row1>
+			<row2>	-0.0610 0.0000 0.9981 0.0000	</row2>
+			<row3>	-1.0280 0.1840 -4.2440 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	0.1733 0.9848 -0.0106 0.0000	</row0>
+			<row1>	0.9830 -0.1736 -0.0601 0.0000	</row1>
+			<row2>	-0.0610 0.0000 -0.9981 0.0000	</row2>
+			<row3>	1.0330 0.1840 -4.2440 1.0000	</row3>
+		</transform>
+	</node>
+</ZSB300_Xuan_Wu_Stern_dp.skel_ext>

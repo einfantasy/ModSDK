@@ -1,0 +1,43 @@
+<JSD029_Kitakaze_1945_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-3.0000 0.0000 0.0006 0.0000	</row1>
+			<row2>	0.0002 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.1717 0.6332 1.7153 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	3.0000 0.0000 0.0006 0.0000	</row1>
+			<row2>	0.0002 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.1731 0.6332 1.7153 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.1852 0.9827 0.0098 0.0000	</row0>
+			<row1>	-0.9813 -0.1855 0.0520 0.0000	</row1>
+			<row2>	0.0530 0.0000 0.9986 0.0000	</row2>
+			<row3>	-0.3370 0.1729 1.8665 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.1852 0.9827 0.0098 0.0000	</row0>
+			<row1>	0.9813 -0.1855 0.0520 0.0000	</row1>
+			<row2>	0.0530 0.0000 -0.9986 0.0000	</row2>
+			<row3>	0.3356 0.1729 1.8796 1.0000	</row3>
+		</transform>
+	</node>
+</JSD029_Kitakaze_1945_MidFront_dp.skel_ext>

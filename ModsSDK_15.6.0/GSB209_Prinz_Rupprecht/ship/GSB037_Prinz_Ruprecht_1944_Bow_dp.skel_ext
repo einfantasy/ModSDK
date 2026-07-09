@@ -1,0 +1,23 @@
+<GSB037_Prinz_Ruprecht_1944_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.2356 0.9710 0.0399 0.0000	</row0>
+			<row1>	-2.8723 -0.7168 0.4861 0.0000	</row1>
+			<row2>	0.1669 0.0000 0.9860 0.0000	</row2>
+			<row3>	-0.5227 0.2419 5.2292 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.2380 0.9704 0.0402 0.0000	</row0>
+			<row1>	2.8707 -0.7242 0.4844 0.0000	</row1>
+			<row2>	0.1664 0.0000 -0.9861 0.0000	</row2>
+			<row3>	0.5429 0.2419 5.2292 1.0000	</row3>
+		</transform>
+	</node>
+</GSB037_Prinz_Ruprecht_1944_Bow_dp.skel_ext>

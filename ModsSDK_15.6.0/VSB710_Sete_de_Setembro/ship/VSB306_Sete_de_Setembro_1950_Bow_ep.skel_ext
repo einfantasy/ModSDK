@@ -1,0 +1,73 @@
+<VSB306_Sete_de_Setembro_1950_Bow_ep.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	EP_Death_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0000 4.5641 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Fire_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.4729 5.2596 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Flood_water_left	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.9879 0.0000 0.1551 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	-0.1551 0.0000 -0.9879 0.0000	</row2>
+			<row3>	-0.1744 0.0176 5.9175 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Flood_water_right_3	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9818 0.0000 0.1896 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	-0.1896 0.0000 0.9818 0.0000	</row2>
+			<row3>	1.0284 0.0317 3.5527 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Flood_water_right_4	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9371 0.0000 0.3491 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	-0.3491 0.0000 0.9371 0.0000	</row2>
+			<row3>	0.6945 0.0313 4.7046 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_RepairLight_left_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.1690 0.0000 0.9856 0.0000	</row0>
+			<row1>	-0.1843 0.9824 0.0316 0.0000	</row1>
+			<row2>	-0.9683 -0.1870 0.1660 0.0000	</row2>
+			<row3>	-0.8911 0.4744 4.1795 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_WakeTrace	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0000 6.7070 1.0000	</row3>
+		</transform>
+	</node>
+</VSB306_Sete_de_Setembro_1950_Bow_ep.skel_ext>

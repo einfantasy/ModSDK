@@ -1,0 +1,123 @@
+<ISS303_Calvi_1935_MidBack_ep.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	EP_Fire_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.2929 -0.4008 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Flood_water_left	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	-0.1514 0.1262 -0.2732 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Flood_water_right	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.1541 0.1252 -0.2739 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_RepairLight_right_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.0060 0.0000 -1.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	1.0000 0.0000 0.0060 0.0000	</row2>
+			<row3>	0.1427 0.1381 -1.3343 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Runoff_deluge_left_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-1.0000 0.0000 0.0069 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	-0.0069 0.0000 -1.0000 0.0000	</row2>
+			<row3>	-0.1593 0.0672 -1.2205 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Runoff_tower_left_2	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.9968 0.0787 0.0012 0.0000	</row0>
+			<row1>	0.0786 0.9969 0.0002 0.0000	</row1>
+			<row2>	-0.0012 0.0003 -0.9999 0.0000	</row2>
+			<row3>	-0.0989 0.2947 -0.3464 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Runoff_tower_left_3	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.7198 0.0787 -0.6896 0.0000	</row0>
+			<row1>	0.0566 0.9969 0.0546 0.0000	</row1>
+			<row2>	0.6917 0.0003 -0.7220 0.0000	</row2>
+			<row3>	-0.0796 0.2953 -0.5424 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Runoff_tower_right_2	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.9969 0.0787 -0.0012 0.0000	</row0>
+			<row1>	0.0787 0.9969 0.0004 0.0000	</row1>
+			<row2>	0.0012 0.0003 -1.0000 0.0000	</row2>
+			<row3>	0.0933 0.2985 -0.3341 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Runoff_tower_right_3	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.5574 0.0787 -0.8265 0.0000	</row0>
+			<row1>	-0.0443 0.9969 0.0651 0.0000	</row1>
+			<row2>	0.8290 0.0003 0.5592 0.0000	</row2>
+			<row3>	0.0664 0.2995 -0.5401 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Runoff_up_left_3	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.9998 0.0004 -0.0208 0.0000	</row0>
+			<row1>	0.0004 1.0000 0.0003 0.0000	</row1>
+			<row2>	0.0208 0.0003 -0.9998 0.0000	</row2>
+			<row3>	-0.0886 0.1411 -1.3213 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Runoff_up_right_3	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9998 0.0000 -0.0209 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0003 0.0000	</row1>
+			<row2>	0.0209 -0.0003 0.9998 0.0000	</row2>
+			<row3>	0.0758 0.1409 -1.5397 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_WakeTraceBack_tower	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.0003 0.1443 -0.7200 1.0000	</row3>
+		</transform>
+	</node>
+</ISS303_Calvi_1935_MidBack_ep.skel_ext>

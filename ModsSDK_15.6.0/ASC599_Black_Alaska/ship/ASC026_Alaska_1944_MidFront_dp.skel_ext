@@ -1,0 +1,23 @@
+<ASC026_Alaska_1944_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.1543 0.9332 0.5038 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.1540 0.9330 0.5040 1.0000	</row3>
+		</transform>
+	</node>
+</ASC026_Alaska_1944_MidFront_dp.skel_ext>

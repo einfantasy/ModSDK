@@ -1,0 +1,23 @@
+<WSD304_Blyskawica_1952_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.3455 0.9384 -0.0011 0.0000	</row0>
+			<row1>	-1.0209 -0.3757 0.1634 0.0000	</row1>
+			<row2>	0.1390 0.0523 0.9889 0.0000	</row2>
+			<row3>	-0.2090 0.1590 2.8370 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.3429 0.9394 0.0053 0.0000	</row0>
+			<row1>	1.0289 -0.3761 0.0999 0.0000	</row1>
+			<row2>	0.0871 -0.0262 -0.9959 0.0000	</row2>
+			<row3>	0.2050 0.1590 2.8370 1.0000	</row3>
+		</transform>
+	</node>
+</WSD304_Blyskawica_1952_Bow_dp.skel_ext>

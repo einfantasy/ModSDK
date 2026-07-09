@@ -1,0 +1,43 @@
+<WSD304_Blyskawica_1952_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.1560 0.7260 1.6340 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.1560 0.7260 1.6340 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0872 0.9962 0.0000 0.0000	</row0>
+			<row1>	-0.9962 0.0872 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.3520 0.1240 0.4010 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.0872 0.9962 0.0000 0.0000	</row0>
+			<row1>	0.9962 0.0872 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.3520 0.1240 0.4010 1.0000	</row3>
+		</transform>
+	</node>
+</WSD304_Blyskawica_1952_MidFront_dp.skel_ext>

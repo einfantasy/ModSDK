@@ -1,0 +1,10 @@
+<VAS005_Vought_OS2U_wire.mfm>
+	<fx>	PnFMods/ModsSDK.zip/VSB710_Sete_de_Setembro/aircraft/wire_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/ModsSDK.zip/VSB710_Sete_de_Setembro/aircraft/VAS005_Vought_OS2U_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/ModsSDK.zip/VSB710_Sete_de_Setembro/aircraft/default_wires_mg.dds	</Texture>
+	</property>
+</VAS005_Vought_OS2U_wire.mfm>

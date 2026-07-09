@@ -1,0 +1,23 @@
+<ISC301_Ferrante_Gonzaga_1944_MidBack_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	-0.1214 0.9925 -0.0106 0.0000	</row0>
+			<row1>	-0.9888 -0.1219 -0.0865 0.0000	</row1>
+			<row2>	-0.0872 0.0000 0.9962 0.0000	</row2>
+			<row3>	-0.5290 0.1630 -2.9490 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.1214 0.9925 -0.0106 0.0000	</row0>
+			<row1>	0.9888 -0.1219 -0.0865 0.0000	</row1>
+			<row2>	-0.0872 0.0000 -0.9962 0.0000	</row2>
+			<row3>	0.5340 0.1630 -2.9490 1.0000	</row3>
+		</transform>
+	</node>
+</ISC301_Ferrante_Gonzaga_1944_MidBack_dp.skel_ext>

@@ -1,0 +1,23 @@
+<GSD008_Z46_1945_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.4129 0.9062 0.0913 0.0000	</row0>
+			<row1>	-0.8848 -0.4229 0.1956 0.0000	</row1>
+			<row2>	0.2159 0.0000 0.9764 0.0000	</row2>
+			<row3>	-0.1500 0.2260 3.6460 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.4129 0.9062 0.0913 0.0000	</row0>
+			<row1>	0.8848 -0.4229 0.1956 0.0000	</row1>
+			<row2>	0.2159 0.0000 -0.9764 0.0000	</row2>
+			<row3>	0.1480 0.2260 3.6460 1.0000	</row3>
+		</transform>
+	</node>
+</GSD008_Z46_1945_Bow_dp.skel_ext>

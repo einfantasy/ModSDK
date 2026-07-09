@@ -1,0 +1,23 @@
+<USC002_Hector_1945_Stern_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	-0.1210 0.9925 -0.0149 0.0000	</row0>
+			<row1>	-0.9851 -0.1219 -0.1210 0.0000	</row1>
+			<row2>	-0.1219 0.0000 0.9925 0.0000	</row2>
+			<row3>	-0.4560 0.1400 -4.4440 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	0.1210 0.9925 -0.0149 0.0000	</row0>
+			<row1>	0.9851 -0.1219 -0.1210 0.0000	</row1>
+			<row2>	-0.1219 0.0000 -0.9925 0.0000	</row2>
+			<row3>	0.4550 0.1400 -4.4440 1.0000	</row3>
+		</transform>
+	</node>
+</USC002_Hector_1945_Stern_dp.skel_ext>

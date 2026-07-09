@@ -1,0 +1,23 @@
+<BSC302_Aberdeen_1963_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.6515 0.7528 0.0941 0.0000	</row0>
+			<row1>	-0.7451 -0.6582 0.1077 0.0000	</row1>
+			<row2>	0.1430 0.0000 0.9897 0.0000	</row2>
+			<row3>	-0.4190 0.2525 4.6775 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.6515 0.7528 0.0941 0.0000	</row0>
+			<row1>	0.7451 -0.6582 0.1077 0.0000	</row1>
+			<row2>	0.1430 0.0000 -0.9897 0.0000	</row2>
+			<row3>	0.4150 0.2525 4.6775 1.0000	</row3>
+		</transform>
+	</node>
+</BSC302_Aberdeen_1963_Bow_dp.skel_ext>

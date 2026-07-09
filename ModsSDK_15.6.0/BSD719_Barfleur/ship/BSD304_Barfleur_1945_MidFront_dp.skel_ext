@@ -1,0 +1,63 @@
+<BSD304_Barfleur_1945_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.2404 0.9703 0.0274 0.0000	</row0>
+			<row1>	-0.9641 -0.2419 0.1098 0.0000	</row1>
+			<row2>	0.1132 0.0000 0.9936 0.0000	</row2>
+			<row3>	-0.2630 0.1240 2.5630 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.2071 0.9781 0.0181 0.0000	</row0>
+			<row1>	0.9744 -0.2079 0.0853 0.0000	</row1>
+			<row2>	0.0872 0.0000 -0.9962 0.0000	</row2>
+			<row3>	0.2750 0.1240 2.5630 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.3000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.1630 0.5920 1.0070 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.3000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.1630 0.5920 1.0070 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.4070 0.0750 0.0510 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.4060 0.0750 0.0510 1.0000	</row3>
+		</transform>
+	</node>
+</BSD304_Barfleur_1945_MidFront_dp.skel_ext>

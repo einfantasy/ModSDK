@@ -1,0 +1,23 @@
+<JSB023_Izumo_1945_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.1906 0.9815 0.0196 0.0000	</row0>
+			<row1>	-1.9259 -0.3816 0.3811 0.0000	</row1>
+			<row2>	0.1908 0.0175 0.9815 0.0000	</row2>
+			<row3>	-0.9280 0.2180 3.8390 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.2754 0.9609 0.0279 0.0000	</row0>
+			<row1>	1.8844 -0.5511 0.3810 0.0000	</row1>
+			<row2>	0.1907 -0.0262 -0.9813 0.0000	</row2>
+			<row3>	0.9310 0.2180 3.8390 1.0000	</row3>
+		</transform>
+	</node>
+</JSB023_Izumo_1945_MidFront_dp.skel_ext>

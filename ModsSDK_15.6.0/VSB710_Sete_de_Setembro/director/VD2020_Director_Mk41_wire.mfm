@@ -1,0 +1,10 @@
+<VD2020_Director_Mk41_wire.mfm>
+	<fx>	PnFMods/ModsSDK.zip/VSB710_Sete_de_Setembro/director/wire_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/ModsSDK.zip/VSB710_Sete_de_Setembro/director/VD2020_Director_Mk41_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/ModsSDK.zip/VSB710_Sete_de_Setembro/director/default_wires_mg.dds	</Texture>
+	</property>
+</VD2020_Director_Mk41_wire.mfm>

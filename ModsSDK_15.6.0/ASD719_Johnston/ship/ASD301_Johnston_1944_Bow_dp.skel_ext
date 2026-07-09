@@ -1,0 +1,23 @@
+<ASD301_Johnston_1944_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.2562 0.9660 0.0354 0.0000	</row0>
+			<row1>	-0.9569 -0.2587 0.1324 0.0000	</row1>
+			<row2>	0.1370 0.0000 0.9906 0.0000	</row2>
+			<row3>	-0.2256 0.1261 2.5233 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.3052 0.9513 0.0428 0.0000	</row0>
+			<row1>	0.9421 -0.3082 0.1320 0.0000	</row1>
+			<row2>	0.1388 0.0000 -0.9903 0.0000	</row2>
+			<row3>	0.2280 0.1260 2.5230 1.0000	</row3>
+		</transform>
+	</node>
+</ASD301_Johnston_1944_Bow_dp.skel_ext>

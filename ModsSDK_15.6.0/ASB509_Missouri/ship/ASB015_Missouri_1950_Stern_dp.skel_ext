@@ -1,0 +1,23 @@
+<ASB015_Missouri_1950_Stern_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.2084 0.9780 -0.0127 0.0000	</row0>
+			<row1>	-1.1714 -0.2506 -0.0713 0.0000	</row1>
+			<row2>	-0.0607 0.0000 0.9982 0.0000	</row2>
+			<row3>	-1.0320 0.2130 -4.2790 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.2084 0.9780 -0.0127 0.0000	</row0>
+			<row1>	1.1714 -0.2506 -0.0713 0.0000	</row1>
+			<row2>	-0.0607 0.0000 -0.9982 0.0000	</row2>
+			<row3>	1.0090 0.2130 -4.2790 1.0000	</row3>
+		</transform>
+	</node>
+</ASB015_Missouri_1950_Stern_dp.skel_ext>

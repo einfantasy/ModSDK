@@ -1,0 +1,43 @@
+<WSB306_Gustav_den_Store_1949_MidBack_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_midback_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.7000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.8510 0.1560 -4.7925 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midback_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.7000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.8540 0.1560 -4.7925 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-0.9980 0.0000 -0.0626 0.0000	</row1>
+			<row2>	-0.0626 0.0000 0.9980 0.0000	</row2>
+			<row3>	-1.0560 0.1788 -2.8000 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	0.9974 0.0000 -0.0719 0.0000	</row1>
+			<row2>	-0.0719 0.0000 -0.9974 0.0000	</row2>
+			<row3>	1.0556 0.1788 -2.7999 1.0000	</row3>
+		</transform>
+	</node>
+</WSB306_Gustav_den_Store_1949_MidBack_dp.skel_ext>

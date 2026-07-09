@@ -1,0 +1,7 @@
+<C034_Glass_Ship_alpha.mfm>
+	<fx>	PnFMods/ModsSDK.zip/ISS106_Foca/ship/glass_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/ModsSDK.zip/ISS106_Foca/ship/C034_Glass_Ship_alpha_a.dds	</Texture>
+	</property>
+</C034_Glass_Ship_alpha.mfm>

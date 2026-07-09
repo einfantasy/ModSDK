@@ -1,0 +1,23 @@
+<GSB030_Ludendorff_1945_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.4983 0.8657 0.0471 0.0000	</row0>
+			<row1>	-1.7116 -0.9997 0.2670 0.0000	</row1>
+			<row2>	0.1391 0.0262 0.9899 0.0000	</row2>
+			<row3>	-0.8540 0.2040 5.1250 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.5004 0.8652 0.0322 0.0000	</row0>
+			<row1>	1.7091 -0.9990 0.2842 0.0000	</row1>
+			<row2>	0.1390 -0.0436 -0.9893 0.0000	</row2>
+			<row3>	0.8490 0.2040 5.1250 1.0000	</row3>
+		</transform>
+	</node>
+</GSB030_Ludendorff_1945_Bow_dp.skel_ext>

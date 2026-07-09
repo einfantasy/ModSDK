@@ -1,0 +1,23 @@
+<BSC024_Drake_1944_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.2911 0.9564 0.0226 0.0000	</row0>
+			<row1>	-2.8607 -0.8759 0.2221 0.0000	</row1>
+			<row2>	0.0774 0.0000 0.9970 0.0000	</row2>
+			<row3>	-0.5450 0.2080 4.3090 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.2911 0.9564 0.0226 0.0000	</row0>
+			<row1>	2.8607 -0.8759 0.2221 0.0000	</row1>
+			<row2>	0.0774 0.0000 -0.9970 0.0000	</row2>
+			<row3>	0.5650 0.2081 4.3090 1.0000	</row3>
+		</transform>
+	</node>
+</BSC024_Drake_1944_Bow_dp.skel_ext>

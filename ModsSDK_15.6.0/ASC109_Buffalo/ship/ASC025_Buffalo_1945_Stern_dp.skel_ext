@@ -1,0 +1,23 @@
+<ASC025_Buffalo_1945_Stern_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	-0.1216 0.9926 -0.0072 0.0000	</row0>
+			<row1>	-1.9816 -0.2435 -0.1176 0.0000	</row1>
+			<row2>	-0.0592 0.0000 0.9983 0.0000	</row2>
+			<row3>	-0.6614 0.1285 -5.3479 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	0.1216 0.9926 -0.0072 0.0000	</row0>
+			<row1>	1.9816 -0.2435 -0.1176 0.0000	</row1>
+			<row2>	-0.0592 0.0000 -0.9983 0.0000	</row2>
+			<row3>	0.6625 0.1285 -5.3479 1.0000	</row3>
+		</transform>
+	</node>
+</ASC025_Buffalo_1945_Stern_dp.skel_ext>

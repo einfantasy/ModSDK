@@ -1,0 +1,23 @@
+<JSB043_Hizen_1944_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.3383 0.9396 0.0521 0.0000	</row0>
+			<row1>	-1.1058 -0.4104 0.2209 0.0000	</row1>
+			<row2>	0.1908 0.0143 0.9815 0.0000	</row2>
+			<row3>	-0.8140 0.2230 4.1930 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.3825 0.9224 0.0540 0.0000	</row0>
+			<row1>	2.2688 -0.9650 0.4139 0.0000	</row1>
+			<row2>	0.1735 -0.0143 -0.9847 0.0000	</row2>
+			<row3>	0.7930 0.2230 4.1930 1.0000	</row3>
+		</transform>
+	</node>
+</JSB043_Hizen_1944_Bow_dp.skel_ext>

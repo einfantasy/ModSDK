@@ -1,0 +1,63 @@
+<GSA001_Graf_Zeppelin_1945_Stern_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_009	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9971 0.0000 0.0756 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	-0.0756 0.0000 0.9971 0.0000	</row2>
+			<row3>	-0.8906 0.8022 -6.7152 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_010	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9388 0.0000 -0.3442 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.3442 0.0000 0.9388 0.0000	</row2>
+			<row3>	0.1925 0.3999 -8.2550 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_025	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.0202 0.0000 -0.9998 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.9998 0.0000 -0.0202 0.0000	</row2>
+			<row3>	-0.0405 0.9017 -5.1365 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_039	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.2186 0.9755 -0.0237 0.0000	</row0>
+			<row1>	0.9699 -0.2199 -0.1052 0.0000	</row1>
+			<row2>	-0.1079 0.0000 -0.9942 0.0000	</row2>
+			<row3>	0.6753 0.4208 -6.7097 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_041	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.9998 0.0106 -0.0151 0.0000	</row0>
+			<row1>	0.0106 0.9999 0.0001 0.0000	</row1>
+			<row2>	0.0151 0.0000 -0.9999 0.0000	</row2>
+			<row3>	0.3170 0.8960 -7.0660 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_GRAF_ZEPPELIN_STERN_TEST	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0001 0.0001 0.0001 1.0000	</row3>
+		</transform>
+	</node>
+</GSA001_Graf_Zeppelin_1945_Stern_dp.skel_ext>

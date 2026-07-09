@@ -1,0 +1,23 @@
+<ISC015_Torino_1943_Stern_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	-0.1331 0.9911 -0.0112 0.0000	</row0>
+			<row1>	-1.9751 -0.2671 -0.1664 0.0000	</row1>
+			<row2>	-0.0840 0.0000 0.9965 0.0000	</row2>
+			<row3>	-0.6128 0.2021 -4.6103 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	0.1331 0.9911 -0.0112 0.0000	</row0>
+			<row1>	1.9751 -0.2671 -0.1664 0.0000	</row1>
+			<row2>	-0.0840 0.0000 -0.9965 0.0000	</row2>
+			<row3>	0.6098 0.2021 -4.6103 1.0000	</row3>
+		</transform>
+	</node>
+</ISC015_Torino_1943_Stern_dp.skel_ext>

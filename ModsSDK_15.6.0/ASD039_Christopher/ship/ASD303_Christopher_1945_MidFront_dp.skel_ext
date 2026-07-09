@@ -1,0 +1,63 @@
+<ASD303_Christopher_1945_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.3465 0.9369 0.0462 0.0000	</row0>
+			<row1>	-0.9287 -0.3495 0.1237 0.0000	</row1>
+			<row2>	0.1320 0.0000 0.9913 0.0000	</row2>
+			<row3>	-0.2827 0.2051 2.9032 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.3465 0.9369 0.0462 0.0000	</row0>
+			<row1>	0.9287 -0.3495 0.1237 0.0000	</row1>
+			<row2>	0.1321 0.0000 -0.9913 0.0000	</row2>
+			<row3>	0.2807 0.2051 2.9032 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.2737 0.7961 1.0460 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.2737 0.7961 1.0460 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0274 0.9996 0.0000 0.0000	</row0>
+			<row1>	-0.9996 0.0274 -0.0024 0.0000	</row1>
+			<row2>	-0.0024 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.4658 0.1021 -0.5750 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.0274 0.9996 0.0000 0.0000	</row0>
+			<row1>	0.9996 0.0274 -0.0024 0.0000	</row1>
+			<row2>	-0.0024 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.4657 0.1021 -0.5750 1.0000	</row3>
+		</transform>
+	</node>
+</ASD303_Christopher_1945_MidFront_dp.skel_ext>

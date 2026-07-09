@@ -1,0 +1,113 @@
+<VSB306_Sete_de_Setembro_1950_MidFront_ep.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	EP_Fire_2	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 1.2713 1.4544 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Fire_2_side_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.7647 0.5669 2.1002 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Fire_2_side_2	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.6760 0.8957 0.8949 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_FloodLight_left_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	-0.1261 1.2607 1.0655 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_FloodLight_right_2	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.1254 1.2632 1.0618 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Flood_steam_left	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.9803 0.0000 0.1973 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	-0.1973 0.0000 -0.9803 0.0000	</row2>
+			<row3>	-0.2548 0.8958 0.9654 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Flood_water_left_2	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.9954 0.0297 0.0913 0.0000	</row0>
+			<row1>	0.0290 0.9995 -0.0093 0.0000	</row1>
+			<row2>	-0.0915 -0.0066 -0.9958 0.0000	</row2>
+			<row3>	-1.2095 0.0313 2.2686 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Flood_water_right_2	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9991 0.0000 0.0411 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	-0.0411 0.0000 0.9991 0.0000	</row2>
+			<row3>	1.2600 0.0309 0.8720 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Rage_beam_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+			<row3>	-0.2760 1.5900 0.7420 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Rage_beam_4	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+			<row3>	0.2762 1.5900 0.7420 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_RepairLight_right_2	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.1425 0.0000 -0.9898 0.0000	</row0>
+			<row1>	0.1855 0.9823 0.0268 0.0000	</row1>
+			<row2>	0.9723 -0.1874 0.1400 0.0000	</row2>
+			<row3>	1.1615 0.4733 2.7974 1.0000	</row3>
+		</transform>
+	</node>
+</VSB306_Sete_de_Setembro_1950_MidFront_ep.skel_ext>

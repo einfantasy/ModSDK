@@ -1,0 +1,23 @@
+<GSB037_Prinz_Ruprecht_1944_Stern_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	-0.0864 0.9962 -0.0107 0.0000	</row0>
+			<row1>	-1.9774 -0.1741 -0.2439 0.0000	</row1>
+			<row2>	-0.1224 0.0000 0.9925 0.0000	</row2>
+			<row3>	-0.8530 0.1317 -4.4553 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	0.0862 0.9962 -0.0114 0.0000	</row0>
+			<row1>	1.9751 -0.1739 -0.2622 0.0000	</row1>
+			<row2>	-0.1316 0.0000 -0.9913 0.0000	</row2>
+			<row3>	0.8378 0.1317 -4.4553 1.0000	</row3>
+		</transform>
+	</node>
+</GSB037_Prinz_Ruprecht_1944_Stern_dp.skel_ext>

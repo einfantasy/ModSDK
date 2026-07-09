@@ -1,0 +1,43 @@
+<HSC303_Menno_Van_Coehoorn_1955_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.0000 0.0000 0.0003 0.0000	</row1>
+			<row2>	0.0003 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.2332 0.9048 2.4306 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.0000 0.0000 0.0003 0.0000	</row1>
+			<row2>	0.0003 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.2332 0.9048 2.4306 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.2896 0.9568 0.0271 0.0000	</row0>
+			<row1>	-1.4289 -0.4363 0.1336 0.0000	</row1>
+			<row2>	0.0931 0.0000 0.9957 0.0000	</row2>
+			<row3>	-0.4880 0.2360 2.8230 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.2898 0.9568 0.0243 0.0000	</row0>
+			<row1>	1.4302 -0.4363 0.1197 0.0000	</row1>
+			<row2>	0.0834 0.0000 -0.9965 0.0000	</row2>
+			<row3>	0.4880 0.2360 2.8230 1.0000	</row3>
+		</transform>
+	</node>
+</HSC303_Menno_Van_Coehoorn_1955_MidFront_dp.skel_ext>

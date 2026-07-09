@@ -1,0 +1,10 @@
+<ZSC304_Baotou_1960_wire.mfm>
+	<fx>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/wire_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/default_wires_mg.dds	</Texture>
+	</property>
+</ZSC304_Baotou_1960_wire.mfm>

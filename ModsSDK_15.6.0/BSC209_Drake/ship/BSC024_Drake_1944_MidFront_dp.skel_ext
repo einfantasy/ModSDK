@@ -1,0 +1,43 @@
+<BSC024_Drake_1944_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.0000 0.0000 0.0002 0.0000	</row1>
+			<row2>	0.0002 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.3515 0.8915 1.9468 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.0000 0.0000 0.0002 0.0000	</row1>
+			<row2>	0.0002 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.3515 0.8915 1.9468 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.1852 0.9826 0.0098 0.0000	</row0>
+			<row1>	-2.9438 -0.5564 0.1562 0.0000	</row1>
+			<row2>	0.0530 0.0000 0.9986 0.0000	</row2>
+			<row3>	-0.7870 0.2300 1.2170 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.1852 0.9826 0.0098 0.0000	</row0>
+			<row1>	2.9438 -0.5564 0.1562 0.0000	</row1>
+			<row2>	0.0530 0.0000 -0.9986 0.0000	</row2>
+			<row3>	0.7870 0.2300 1.2170 1.0000	</row3>
+		</transform>
+	</node>
+</BSC024_Drake_1944_MidFront_dp.skel_ext>

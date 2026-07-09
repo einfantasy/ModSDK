@@ -1,0 +1,9 @@
+<VRS2021_Radar_SP_1M.model>
+	<visual>	PnFMods/ModsSDK.zip/VSB710_Sete_de_Setembro/radar/VRS2021_Radar_SP_1M.visual	</visual>
+	<animations>
+		<animation>	content/animation_state_machines/legacy/gameplay/ARS065_Radar_SP/ARS065_Radar_SP.ssm	</animation>
+	</animations>
+	<dyes />
+	<skeletonExtenders />
+	<metaData>	Wargaming.net	</metaData>
+</VRS2021_Radar_SP_1M.model>

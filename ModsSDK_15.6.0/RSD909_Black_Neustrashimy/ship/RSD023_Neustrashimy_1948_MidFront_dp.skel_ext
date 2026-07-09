@@ -1,0 +1,43 @@
+<RSD023_Neustrashimy_1948_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.2200 0.4581 1.2791 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.2200 0.4580 1.2790 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.1735 0.9848 0.0061 0.0000	</row0>
+			<row1>	-0.9842 -0.1736 0.0344 0.0000	</row1>
+			<row2>	0.0349 0.0000 0.9994 0.0000	</row2>
+			<row3>	-0.4150 0.1280 1.1420 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.1735 0.9848 0.0061 0.0000	</row0>
+			<row1>	0.9842 -0.1736 0.0344 0.0000	</row1>
+			<row2>	0.0349 0.0000 -0.9994 0.0000	</row2>
+			<row3>	0.4150 0.1280 1.1420 1.0000	</row3>
+		</transform>
+	</node>
+</RSD023_Neustrashimy_1948_MidFront_dp.skel_ext>

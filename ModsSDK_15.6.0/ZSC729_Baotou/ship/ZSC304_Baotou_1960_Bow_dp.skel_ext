@@ -1,0 +1,23 @@
+<ZSC304_Baotou_1960_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.3821 0.9223 0.0577 0.0000	</row0>
+			<row1>	-0.9043 -0.3860 0.1823 0.0000	</row1>
+			<row2>	0.1904 0.0175 0.9815 0.0000	</row2>
+			<row3>	-0.4860 0.1660 4.6230 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.3725 0.9272 0.0402 0.0000	</row0>
+			<row1>	0.9158 -0.3742 0.1457 0.0000	</row1>
+			<row2>	0.1501 -0.0175 -0.9885 0.0000	</row2>
+			<row3>	0.4840 0.1660 4.6230 1.0000	</row3>
+		</transform>
+	</node>
+</ZSC304_Baotou_1960_Bow_dp.skel_ext>

@@ -1,0 +1,23 @@
+<ASD030_Black_1943_Stern_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	-0.0349 0.9994 -0.0018 0.0000	</row0>
+			<row1>	-0.9980 -0.0349 -0.0523 0.0000	</row1>
+			<row2>	-0.0523 0.0000 0.9986 0.0000	</row2>
+			<row3>	-0.3540 0.0945 -2.5625 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	0.0349 0.9994 -0.0018 0.0000	</row0>
+			<row1>	0.9980 -0.0349 -0.0523 0.0000	</row1>
+			<row2>	-0.0523 0.0000 -0.9986 0.0000	</row2>
+			<row3>	0.3539 0.0945 -2.5625 1.0000	</row3>
+		</transform>
+	</node>
+</ASD030_Black_1943_Stern_dp.skel_ext>

@@ -1,0 +1,23 @@
+<GSC031_Admiral_Schroder_1945_Stern_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	-0.0692 0.9976 -0.0085 0.0000	</row0>
+			<row1>	-0.9901 -0.0698 -0.1216 0.0000	</row1>
+			<row2>	-0.1219 0.0000 0.9925 0.0000	</row2>
+			<row3>	-0.7470 0.1250 -4.7900 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	0.0692 0.9976 -0.0085 0.0000	</row0>
+			<row1>	0.9901 -0.0698 -0.1216 0.0000	</row1>
+			<row2>	-0.1219 0.0000 -0.9925 0.0000	</row2>
+			<row3>	0.7450 0.1250 -4.7900 1.0000	</row3>
+		</transform>
+	</node>
+</GSC031_Admiral_Schroder_1945_Stern_dp.skel_ext>

@@ -1,0 +1,23 @@
+<ASB028_Iowa_1945_Stern_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	-0.1390 0.9903 -0.0073 0.0000	</row0>
+			<row1>	-0.9889 -0.1392 -0.0518 0.0000	</row1>
+			<row2>	-0.0523 0.0000 0.9986 0.0000	</row2>
+			<row3>	-1.0220 0.2230 -4.3540 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	0.1390 0.9903 -0.0073 0.0000	</row0>
+			<row1>	0.9889 -0.1392 -0.0518 0.0000	</row1>
+			<row2>	-0.0523 0.0000 -0.9986 0.0000	</row2>
+			<row3>	1.0200 0.2230 -4.3540 1.0000	</row3>
+		</transform>
+	</node>
+</ASB028_Iowa_1945_Stern_dp.skel_ext>

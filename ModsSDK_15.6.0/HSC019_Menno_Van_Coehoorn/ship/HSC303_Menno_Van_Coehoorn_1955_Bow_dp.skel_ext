@@ -1,0 +1,23 @@
+<HSC303_Menno_Van_Coehoorn_1955_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.3454 0.9359 0.0693 0.0000	</row0>
+			<row1>	-2.7529 -1.0569 0.5519 0.0000	</row1>
+			<row2>	0.1966 0.0000 0.9805 0.0000	</row2>
+			<row3>	-0.1548 0.2728 5.2062 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.4548 0.8866 0.0839 0.0000	</row0>
+			<row1>	2.6157 -1.3876 0.4824 0.0000	</row1>
+			<row2>	0.1814 0.0000 -0.9834 0.0000	</row2>
+			<row3>	0.1683 0.2728 5.2062 1.0000	</row3>
+		</transform>
+	</node>
+</HSC303_Menno_Van_Coehoorn_1955_Bow_dp.skel_ext>

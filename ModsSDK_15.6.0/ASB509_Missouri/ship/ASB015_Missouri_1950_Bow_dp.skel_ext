@@ -1,0 +1,23 @@
+<ASB015_Missouri_1950_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.1624 0.9865 0.0233 0.0000	</row0>
+			<row1>	-1.2694 -0.2133 0.1822 0.0000	</row1>
+			<row2>	0.1421 0.0000 0.9899 0.0000	</row2>
+			<row3>	-0.7760 0.2180 4.1300 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.1491 0.9886 0.0224 0.0000	</row0>
+			<row1>	1.2709 -0.1961 0.1908 0.0000	</row1>
+			<row2>	0.1484 0.0000 -0.9889 0.0000	</row2>
+			<row3>	0.7640 0.2180 4.1440 1.0000	</row3>
+		</transform>
+	</node>
+</ASB015_Missouri_1950_Bow_dp.skel_ext>

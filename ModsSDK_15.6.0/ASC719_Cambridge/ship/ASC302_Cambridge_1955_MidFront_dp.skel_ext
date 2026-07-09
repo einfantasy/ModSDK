@@ -1,0 +1,43 @@
+<ASC302_Cambridge_1955_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.2588 0.9658 0.0170 0.0000	</row0>
+			<row1>	-0.9571 -0.2588 0.1306 0.0000	</row1>
+			<row2>	0.1306 0.0175 0.9913 0.0000	</row2>
+			<row3>	-0.4410 0.1860 3.7440 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.2610 0.9653 0.0004 0.0000	</row0>
+			<row1>	0.9565 -0.2587 0.1350 0.0000	</row1>
+			<row2>	0.1304 -0.0349 -0.9908 0.0000	</row2>
+			<row3>	0.4413 0.1860 3.7440 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.1499 1.0989 0.4692 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.1500 1.0990 0.4690 1.0000	</row3>
+		</transform>
+	</node>
+</ASC302_Cambridge_1955_MidFront_dp.skel_ext>

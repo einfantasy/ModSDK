@@ -1,0 +1,7 @@
+<C044_Grid_USA_alpha.mfm>
+	<fx>	PnFMods/ModsSDK.zip/ASC729_Fort_Worth/ship/grid_alpha.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/ModsSDK.zip/ASC729_Fort_Worth/ship/C044_Grid_USA_alpha_a.dds	</Texture>
+	</property>
+</C044_Grid_USA_alpha.mfm>

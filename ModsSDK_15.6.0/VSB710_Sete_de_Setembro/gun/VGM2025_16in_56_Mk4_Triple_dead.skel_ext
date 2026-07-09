@@ -1,0 +1,93 @@
+<VGM2025_16in_56_Mk4_Triple_dead.skel_ext>
+	<exported>	true	</exported>
+	<node>
+		<identifier>	SP_YMS101_YGCS_M_1	</identifier>
+		<parent>	Turret_dead	</parent>
+		<transform>
+			<row0>	1.3292 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.3292 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.3292 0.0000	</row2>
+			<row3>	-0.1959 0.0166 0.4062 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS101_YGCS_M_1.001	</identifier>
+		<parent>	Turret_dead	</parent>
+		<transform>
+			<row0>	1.3292 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.3292 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.3292 0.0000	</row2>
+			<row3>	0.0000 0.0166 0.4062 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS102_YGFL_M_1	</identifier>
+		<parent>	Turret_dead	</parent>
+		<transform>
+			<row0>	1.6360 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.6360 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.6360 0.0000	</row2>
+			<row3>	-0.3205 0.1994 -0.4432 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS103_YGFR_M_1	</identifier>
+		<parent>	Turret_dead	</parent>
+		<transform>
+			<row0>	1.6356 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.6356 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.6356 0.0000	</row2>
+			<row3>	0.3205 0.1994 -0.4432 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS104_YGRS_M_1	</identifier>
+		<parent>	Turret_dead	</parent>
+		<transform>
+			<row0>	1.1080 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0431 -0.3737 0.0000	</row1>
+			<row2>	0.0000 0.3737 1.0431 0.0000	</row2>
+			<row3>	-0.1961 0.3782 1.1919 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS104_YGRS_M_1.001	</identifier>
+		<parent>	Turret_dead	</parent>
+		<transform>
+			<row0>	1.1034 0.0004 0.1009 0.0000	</row0>
+			<row1>	0.0073 1.1048 -0.0842 0.0000	</row1>
+			<row2>	-0.1006 0.0845 1.1002 0.0000	</row2>
+			<row3>	-0.0825 0.1749 1.2050 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS104_YGRS_M_1.002	</identifier>
+		<parent>	Turret_dead	</parent>
+		<transform>
+			<row0>	1.1080 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.1041 -0.0933 0.0000	</row1>
+			<row2>	0.0000 0.0933 1.1041 0.0000	</row2>
+			<row3>	0.1961 0.1700 1.2103 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS106_YGLL_M_1	</identifier>
+		<parent>	Turret_dead	</parent>
+		<transform>
+			<row0>	1.1460 -0.1875 0.1161 0.0000	</row0>
+			<row1>	0.1851 1.1517 0.0336 0.0000	</row1>
+			<row2>	-0.1200 -0.0146 1.1607 0.0000	</row2>
+			<row3>	-0.3554 0.1068 -0.1880 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS107_YGLR_M_1	</identifier>
+		<parent>	Turret_dead	</parent>
+		<transform>
+			<row0>	1.1462 0.1876 -0.1162 0.0000	</row0>
+			<row1>	-0.1851 1.1520 0.0336 0.0000	</row1>
+			<row2>	0.1200 -0.0146 1.1609 0.0000	</row2>
+			<row3>	0.3554 0.1068 -0.1880 1.0000	</row3>
+		</transform>
+	</node>
+</VGM2025_16in_56_Mk4_Triple_dead.skel_ext>

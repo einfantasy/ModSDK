@@ -1,0 +1,183 @@
+<IGM2007_203mm_55_quadruple.skel_ext>
+	<exported>	true	</exported>
+	<node>
+		<identifier>	MP_IM5025_Dome_preset	</identifier>
+		<parent>	Rotate_Y	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 -0.0352 0.0000 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS100_YGBS_M_1	</identifier>
+		<parent>	Rotate_Y	</parent>
+		<transform>
+			<row0>	0.8113 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.8113 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 0.9234 0.0000	</row2>
+			<row3>	-0.1600 0.0287 0.0648 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS100_YGBS_M_1.001	</identifier>
+		<parent>	Rotate_Y	</parent>
+		<transform>
+			<row0>	0.8113 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.8113 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 0.9234 0.0000	</row2>
+			<row3>	-0.0533 0.0287 0.0648 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS100_YGBS_M_1.002	</identifier>
+		<parent>	Rotate_Y	</parent>
+		<transform>
+			<row0>	0.8113 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.8113 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 0.9234 0.0000	</row2>
+			<row3>	0.1600 0.0287 0.0648 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS100_YGBS_M_1.003	</identifier>
+		<parent>	Rotate_Y	</parent>
+		<transform>
+			<row0>	0.8113 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.8113 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 0.9234 0.0000	</row2>
+			<row3>	0.0533 0.0287 0.0648 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS101_YGCS_M_1	</identifier>
+		<parent>	Rotate_X	</parent>
+		<transform>
+			<row0>	0.8055 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.9076 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 0.8055 0.0000	</row2>
+			<row3>	0.0533 -0.0503 0.1145 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS101_YGCS_M_1.001	</identifier>
+		<parent>	Rotate_X	</parent>
+		<transform>
+			<row0>	0.8055 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.9076 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 0.8055 0.0000	</row2>
+			<row3>	-0.0533 -0.0503 0.1145 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS101_YGCS_M_1.002	</identifier>
+		<parent>	Rotate_X	</parent>
+		<transform>
+			<row0>	0.8055 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.9076 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 0.8055 0.0000	</row2>
+			<row3>	0.1600 -0.0503 0.1145 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS101_YGCS_M_1.003	</identifier>
+		<parent>	Rotate_X	</parent>
+		<transform>
+			<row0>	0.8055 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.9076 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 0.8055 0.0000	</row2>
+			<row3>	-0.1600 -0.0503 0.1145 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS102_YGFL_M_1	</identifier>
+		<parent>	Rotate_Y	</parent>
+		<transform>
+			<row0>	1.0460 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0616 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.1210 0.0000	</row2>
+			<row3>	-0.2405 0.1312 -0.2543 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS103_YGFR_M_1	</identifier>
+		<parent>	Rotate_Y	</parent>
+		<transform>
+			<row0>	1.0458 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0614 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.1213 0.0000	</row2>
+			<row3>	0.2405 0.1312 -0.2543 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS104_YGRS_M_1	</identifier>
+		<parent>	Roll_Back1	</parent>
+		<transform>
+			<row0>	0.7642 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.7642 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 0.8860 0.0000	</row2>
+			<row3>	-0.1600 0.0000 0.0000 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS104_YGRS_M_1.001	</identifier>
+		<parent>	Roll_Back1	</parent>
+		<transform>
+			<row0>	0.7642 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.7642 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 0.8860 0.0000	</row2>
+			<row3>	0.0533 0.0000 0.0000 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS104_YGRS_M_1.002	</identifier>
+		<parent>	Roll_Back1	</parent>
+		<transform>
+			<row0>	0.7642 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.7642 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 0.8860 0.0000	</row2>
+			<row3>	0.1600 0.0000 0.0000 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS104_YGRS_M_1.003	</identifier>
+		<parent>	Roll_Back1	</parent>
+		<transform>
+			<row0>	0.7642 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.7642 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 0.8860 0.0000	</row2>
+			<row3>	-0.0533 0.0000 0.0000 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS105_YGLC_M_1	</identifier>
+		<parent>	Rotate_Y	</parent>
+		<transform>
+			<row0>	0.7773 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.7773 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 0.7773 0.0000	</row2>
+			<row3>	0.0000 0.1301 -0.2899 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS106_YGLL_M_1	</identifier>
+		<parent>	Rotate_Y	</parent>
+		<transform>
+			<row0>	0.9586 -0.1992 -0.2035 0.0000	</row0>
+			<row1>	0.1948 0.9800 -0.0414 0.0000	</row1>
+			<row2>	0.2077 0.0000 0.9782 0.0000	</row2>
+			<row3>	-0.2662 0.0677 0.0189 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS107_YGLR_M_1	</identifier>
+		<parent>	Rotate_Y	</parent>
+		<transform>
+			<row0>	0.9586 0.1992 0.2035 0.0000	</row0>
+			<row1>	-0.1948 0.9800 -0.0414 0.0000	</row1>
+			<row2>	-0.2077 0.0000 0.9782 0.0000	</row2>
+			<row3>	0.2662 0.0677 0.0189 1.0000	</row3>
+		</transform>
+	</node>
+</IGM2007_203mm_55_quadruple.skel_ext>

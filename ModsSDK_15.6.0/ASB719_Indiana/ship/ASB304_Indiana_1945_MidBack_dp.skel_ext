@@ -1,0 +1,63 @@
+<ASB304_Indiana_1945_MidBack_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-2.9000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.1800 1.3140 -0.0400 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	2.9000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.1800 1.3140 -0.0400 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midback_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	-0.1736 0.9848 0.0000 0.0000	</row0>
+			<row1>	-2.9544 -0.5209 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-1.0960 0.1800 0.0220 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midback_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.1736 0.9848 0.0000 0.0000	</row0>
+			<row1>	2.9544 -0.5209 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	1.0930 0.1802 0.0220 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	-0.0349 0.9994 -0.0012 0.0000	</row0>
+			<row1>	-0.9988 -0.0349 -0.0349 0.0000	</row1>
+			<row2>	-0.0349 0.0000 0.9994 0.0000	</row2>
+			<row3>	-1.0650 0.1720 -3.1660 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0523 0.9986 0.0000 0.0000	</row0>
+			<row1>	0.9986 -0.0523 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	1.0640 0.1720 -3.1660 1.0000	</row3>
+		</transform>
+	</node>
+</ASB304_Indiana_1945_MidBack_dp.skel_ext>

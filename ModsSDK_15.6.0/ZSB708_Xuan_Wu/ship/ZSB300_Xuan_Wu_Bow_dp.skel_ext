@@ -1,0 +1,23 @@
+<ZSB300_Xuan_Wu_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.1720 0.9848 0.0242 0.0000	</row0>
+			<row1>	-0.9752 -0.1736 0.1371 0.0000	</row1>
+			<row2>	0.1392 0.0000 0.9903 0.0000	</row2>
+			<row3>	-0.7940 0.1842 3.9610 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.1720 0.9848 0.0242 0.0000	</row0>
+			<row1>	0.9752 -0.1736 0.1371 0.0000	</row1>
+			<row2>	0.1392 0.0000 -0.9903 0.0000	</row2>
+			<row3>	0.7930 0.1840 3.9610 1.0000	</row3>
+		</transform>
+	</node>
+</ZSB300_Xuan_Wu_Bow_dp.skel_ext>

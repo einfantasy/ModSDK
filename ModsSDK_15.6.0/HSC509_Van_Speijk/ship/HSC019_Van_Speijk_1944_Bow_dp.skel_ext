@@ -1,0 +1,23 @@
+<HSC019_Van_Speijk_1944_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.1727 0.9848 0.0182 0.0000	</row0>
+			<row1>	-1.9588 -0.3473 0.2059 0.0000	</row1>
+			<row2>	0.1045 0.0000 0.9945 0.0000	</row2>
+			<row3>	-0.6330 0.1670 3.0650 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.1727 0.9848 0.0182 0.0000	</row0>
+			<row1>	1.9588 -0.3473 0.2059 0.0000	</row1>
+			<row2>	0.1045 0.0000 -0.9945 0.0000	</row2>
+			<row3>	0.6340 0.1670 3.0650 1.0000	</row3>
+		</transform>
+	</node>
+</HSC019_Van_Speijk_1944_Bow_dp.skel_ext>

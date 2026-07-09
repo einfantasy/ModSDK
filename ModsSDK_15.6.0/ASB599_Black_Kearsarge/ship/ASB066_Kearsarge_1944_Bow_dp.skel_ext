@@ -1,0 +1,23 @@
+<ASB066_Kearsarge_1944_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.3739 0.9266 0.0397 0.0000	</row0>
+			<row1>	-0.9077 -0.3744 0.1897 0.0000	</row1>
+			<row2>	0.1907 0.0349 0.9810 0.0000	</row2>
+			<row3>	-0.7050 0.3720 6.0320 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.3429 0.9391 0.0211 0.0000	</row0>
+			<row1>	0.9263 -0.3418 0.1588 0.0000	</row1>
+			<row2>	0.1563 -0.0349 -0.9871 0.0000	</row2>
+			<row3>	0.6870 0.3720 6.0320 1.0000	</row3>
+		</transform>
+	</node>
+</ASB066_Kearsarge_1944_Bow_dp.skel_ext>

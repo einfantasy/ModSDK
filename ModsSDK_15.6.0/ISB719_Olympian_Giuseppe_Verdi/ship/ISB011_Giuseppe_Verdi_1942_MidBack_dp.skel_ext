@@ -1,0 +1,23 @@
+<ISB011_Giuseppe_Verdi_1942_MidBack_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_midback_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	-0.0519 0.9986 -0.0068 0.0000	</row0>
+			<row1>	-1.4851 -0.0785 -0.1955 0.0000	</row1>
+			<row2>	-0.1305 0.0000 0.9914 0.0000	</row2>
+			<row3>	-0.9780 0.2540 -4.5090 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midback_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.4888 0.0000 -0.1828 0.0000	</row1>
+			<row2>	-0.1219 0.0000 -0.9925 0.0000	</row2>
+			<row3>	0.9870 0.2540 -4.5090 1.0000	</row3>
+		</transform>
+	</node>
+</ISB011_Giuseppe_Verdi_1942_MidBack_dp.skel_ext>

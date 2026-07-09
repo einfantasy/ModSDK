@@ -1,0 +1,23 @@
+<ASD030_Black_1943_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.3027 0.9517 0.0511 0.0000	</row0>
+			<row1>	-0.9385 -0.3070 0.1583 0.0000	</row1>
+			<row2>	0.1663 0.0000 0.9861 0.0000	</row2>
+			<row3>	-0.1878 0.2049 2.8472 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.3027 0.9517 0.0511 0.0000	</row0>
+			<row1>	0.9385 -0.3070 0.1583 0.0000	</row1>
+			<row2>	0.1663 0.0000 -0.9861 0.0000	</row2>
+			<row3>	0.1836 0.2049 2.8472 1.0000	</row3>
+		</transform>
+	</node>
+</ASD030_Black_1943_Bow_dp.skel_ext>

@@ -1,0 +1,23 @@
+<GSC016_Roon_1945_Stern_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	-0.2079 0.9781 -0.0096 0.0000	</row0>
+			<row1>	-1.4614 -0.3119 -0.1306 0.0000	</row1>
+			<row2>	-0.0872 -0.0087 0.9962 0.0000	</row2>
+			<row3>	-0.5990 0.1590 -4.3520 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	0.1730 0.9848 -0.0151 0.0000	</row0>
+			<row1>	1.4716 -0.2605 -0.1287 0.0000	</row1>
+			<row2>	-0.0872 0.0000 -0.9962 0.0000	</row2>
+			<row3>	0.5950 0.1590 -4.3520 1.0000	</row3>
+		</transform>
+	</node>
+</GSC016_Roon_1945_Stern_dp.skel_ext>

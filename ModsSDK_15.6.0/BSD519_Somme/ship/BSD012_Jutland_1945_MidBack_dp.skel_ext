@@ -1,0 +1,23 @@
+<BSD012_Jutland_1945_MidBack_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_midback_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	-0.0682 0.9977 -0.0054 0.0000	</row0>
+			<row1>	-0.9946 -0.0684 -0.0783 0.0000	</row1>
+			<row2>	-0.0785 0.0000 0.9969 0.0000	</row2>
+			<row3>	-0.3540 0.0673 -2.5973 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midback_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0684 0.9977 -0.0030 0.0000	</row0>
+			<row1>	0.9967 -0.0685 -0.0438 0.0000	</row1>
+			<row2>	-0.0439 0.0000 -0.9990 0.0000	</row2>
+			<row3>	0.3557 0.0673 -2.5973 1.0000	</row3>
+		</transform>
+	</node>
+</BSD012_Jutland_1945_MidBack_dp.skel_ext>

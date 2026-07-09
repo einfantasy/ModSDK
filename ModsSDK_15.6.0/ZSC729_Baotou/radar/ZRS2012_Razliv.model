@@ -1,0 +1,9 @@
+<ZRS2012_Razliv.model>
+	<visual>	PnFMods/ModsSDK.zip/ZSC729_Baotou/radar/ZRS2012_Razliv.visual	</visual>
+	<animations>
+		<animation>	content/animation_state_machines/legacy/gameplay/RRS092_Razliv/RRS092_Razliv.ssm	</animation>
+	</animations>
+	<dyes />
+	<skeletonExtenders />
+	<metaData>	Wargaming.net	</metaData>
+</ZRS2012_Razliv.model>

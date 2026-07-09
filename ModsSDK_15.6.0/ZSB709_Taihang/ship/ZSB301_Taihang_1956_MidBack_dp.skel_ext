@@ -1,0 +1,43 @@
+<ZSB301_Taihang_1956_MidBack_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-5.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.2040 1.1710 1.8195 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	5.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.2210 1.1710 1.8200 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	-0.0871 0.9962 0.0023 0.0000	</row0>
+			<row1>	-0.9959 -0.0872 0.0261 0.0000	</row1>
+			<row2>	0.0262 0.0000 0.9997 0.0000	</row2>
+			<row3>	-1.2540 0.1400 0.1300 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0871 0.9962 0.0023 0.0000	</row0>
+			<row1>	0.9959 -0.0872 0.0261 0.0000	</row1>
+			<row2>	0.0262 0.0000 -0.9997 0.0000	</row2>
+			<row3>	1.2550 0.1400 0.1300 1.0000	</row3>
+		</transform>
+	</node>
+</ZSB301_Taihang_1956_MidBack_dp.skel_ext>

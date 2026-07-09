@@ -1,0 +1,10 @@
+<ISB305_Conte_Verde_1944_wire.mfm>
+	<fx>	PnFMods/ModsSDK.zip/ISB720_Conte_Verde/ship/wire_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/ModsSDK.zip/ISB720_Conte_Verde/ship/ISB305_Conte_Verde_1944_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/ModsSDK.zip/ISB720_Conte_Verde/ship/default_wires_mg.dds	</Texture>
+	</property>
+</ISB305_Conte_Verde_1944_wire.mfm>

@@ -1,0 +1,23 @@
+<WSB002_Karl_XIV_Johan_1952_MidBack_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_midback_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-2.9945 0.0000 0.1809 0.0000	</row1>
+			<row2>	0.0603 0.0000 0.9982 0.0000	</row2>
+			<row3>	-1.1016 0.2301 -0.1209 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midback_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	2.9959 0.0000 0.1572 0.0000	</row1>
+			<row2>	0.0524 0.0000 -0.9986 0.0000	</row2>
+			<row3>	1.1016 0.2301 -0.0715 1.0000	</row3>
+		</transform>
+	</node>
+</WSB002_Karl_XIV_Johan_1952_MidBack_dp.skel_ext>

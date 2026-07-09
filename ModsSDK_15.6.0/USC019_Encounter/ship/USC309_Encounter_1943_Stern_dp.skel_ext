@@ -1,0 +1,23 @@
+<USC309_Encounter_1943_Stern_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	-0.2718 0.9620 -0.0278 0.0000	</row0>
+			<row1>	-1.9139 -0.5464 -0.1956 0.0000	</row1>
+			<row2>	-0.1017 0.0000 0.9948 0.0000	</row2>
+			<row3>	-0.4820 0.0900 -4.3980 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	0.2722 0.9620 -0.0238 0.0000	</row0>
+			<row1>	1.9166 -0.5464 -0.1677 0.0000	</row1>
+			<row2>	-0.0872 0.0000 -0.9962 0.0000	</row2>
+			<row3>	0.4817 0.0902 -4.3983 1.0000	</row3>
+		</transform>
+	</node>
+</USC309_Encounter_1943_Stern_dp.skel_ext>

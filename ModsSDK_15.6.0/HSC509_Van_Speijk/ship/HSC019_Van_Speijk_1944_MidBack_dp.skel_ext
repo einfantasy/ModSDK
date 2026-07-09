@@ -1,0 +1,23 @@
+<HSC019_Van_Speijk_1944_MidBack_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_midback_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	-0.1730 0.9848 -0.0151 0.0000	</row0>
+			<row1>	-2.9432 -0.5209 -0.2575 0.0000	</row1>
+			<row2>	-0.0872 0.0000 0.9962 0.0000	</row2>
+			<row3>	-0.6810 0.2020 -3.7130 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midback_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.1730 0.9848 -0.0151 0.0000	</row0>
+			<row1>	2.9432 -0.5209 -0.2575 0.0000	</row1>
+			<row2>	-0.0872 0.0000 -0.9962 0.0000	</row2>
+			<row3>	0.7010 0.2020 -3.7130 1.0000	</row3>
+		</transform>
+	</node>
+</HSC019_Van_Speijk_1944_MidBack_dp.skel_ext>

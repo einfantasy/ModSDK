@@ -1,0 +1,23 @@
+<FSB006_Alsace_1945_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.3500 0.9334 0.0790 0.0000	</row0>
+			<row1>	-2.7316 -1.0764 0.6165 0.0000	</row1>
+			<row2>	0.2201 0.0000 0.9755 0.0000	</row2>
+			<row3>	-0.4625 0.2312 6.1861 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.2029 0.9784 0.0397 0.0000	</row0>
+			<row1>	2.8806 -0.6201 0.5638 0.0000	</row1>
+			<row2>	0.1921 0.0000 -0.9814 0.0000	</row2>
+			<row3>	0.4630 0.2310 6.1860 1.0000	</row3>
+		</transform>
+	</node>
+</FSB006_Alsace_1945_Bow_dp.skel_ext>

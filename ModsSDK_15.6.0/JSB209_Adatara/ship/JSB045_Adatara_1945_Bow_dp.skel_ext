@@ -1,0 +1,23 @@
+<JSB045_Adatara_1945_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.2422 0.9701 0.0127 0.0000	</row0>
+			<row1>	-1.4438 -0.3628 0.1837 0.0000	</row1>
+			<row2>	0.1219 0.0175 0.9924 0.0000	</row2>
+			<row3>	-0.6770 0.1810 4.3970 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.2964 0.9550 0.0118 0.0000	</row0>
+			<row1>	1.3983 -0.4380 0.3207 0.0000	</row1>
+			<row2>	0.2076 -0.0523 -0.9768 0.0000	</row2>
+			<row3>	0.6780 0.1810 4.3970 1.0000	</row3>
+		</transform>
+	</node>
+</JSB045_Adatara_1945_Bow_dp.skel_ext>

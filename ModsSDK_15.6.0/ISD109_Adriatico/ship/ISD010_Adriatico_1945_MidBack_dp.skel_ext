@@ -1,0 +1,43 @@
+<ISD010_Adriatico_1945_MidBack_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.4385 0.1063 -1.2305 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.4376 0.1063 -1.2660 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	-0.1557 0.9877 -0.0150 0.0000	</row0>
+			<row1>	-0.9831 -0.1564 -0.0947 0.0000	</row1>
+			<row2>	-0.0958 0.0000 0.9954 0.0000	</row2>
+			<row3>	-0.3390 0.1000 -2.9370 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.1557 0.9877 -0.0150 0.0000	</row0>
+			<row1>	0.9831 -0.1564 -0.0947 0.0000	</row1>
+			<row2>	-0.0958 0.0000 -0.9954 0.0000	</row2>
+			<row3>	0.3400 0.1000 -2.9370 1.0000	</row3>
+		</transform>
+	</node>
+</ISD010_Adriatico_1945_MidBack_dp.skel_ext>

@@ -1,0 +1,9 @@
+<ZRS2011_Kaktus.model>
+	<visual>	PnFMods/ModsSDK.zip/ZSC729_Baotou/radar/ZRS2011_Kaktus.visual	</visual>
+	<animations>
+		<animation>	content/animation_state_machines/legacy/gameplay/RRS089_Kaktus/RRS089_Kaktus.ssm	</animation>
+	</animations>
+	<dyes />
+	<skeletonExtenders />
+	<metaData>	Wargaming.net	</metaData>
+</ZRS2011_Kaktus.model>

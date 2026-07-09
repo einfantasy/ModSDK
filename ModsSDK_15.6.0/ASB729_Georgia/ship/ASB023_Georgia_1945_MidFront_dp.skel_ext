@@ -1,0 +1,43 @@
+<ASB023_Georgia_1945_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0522 0.9986 0.0007 0.0000	</row0>
+			<row1>	-1.9971 0.1045 -0.0280 0.0000	</row1>
+			<row2>	-0.0140 0.0000 0.9999 0.0000	</row2>
+			<row3>	-0.1430 1.7850 0.5365 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.0522 0.9986 0.0007 0.0000	</row0>
+			<row1>	1.9971 0.1045 -0.0280 0.0000	</row1>
+			<row2>	-0.0140 0.0000 -0.9999 0.0000	</row2>
+			<row3>	0.1440 1.7850 0.5365 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-3.9848 0.0000 0.3486 0.0000	</row1>
+			<row2>	0.0872 0.0000 0.9962 0.0000	</row2>
+			<row3>	-1.0340 0.1910 2.1150 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	3.9848 0.0000 0.3486 0.0000	</row1>
+			<row2>	0.0872 0.0000 -0.9962 0.0000	</row2>
+			<row3>	1.0300 0.1912 2.1150 1.0000	</row3>
+		</transform>
+	</node>
+</ASB023_Georgia_1945_MidFront_dp.skel_ext>

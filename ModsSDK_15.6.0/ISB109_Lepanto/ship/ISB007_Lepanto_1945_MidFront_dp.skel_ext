@@ -1,0 +1,43 @@
+<ISB007_Lepanto_1945_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-0.9966 0.0000 -0.0818 0.0000	</row1>
+			<row2>	-0.0818 0.0000 0.9966 0.0000	</row2>
+			<row3>	-0.3005 0.8968 0.9385 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	0.9966 0.0000 -0.0818 0.0000	</row1>
+			<row2>	-0.0818 0.0000 -0.9966 0.0000	</row2>
+			<row3>	0.3008 0.8968 0.9385 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.0860 0.9963 0.0033 0.0000	</row0>
+			<row1>	-0.9956 -0.0861 0.0382 0.0000	</row1>
+			<row2>	0.0383 0.0000 0.9993 0.0000	</row2>
+			<row3>	-1.1550 0.2840 2.2580 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0860 0.9963 0.0033 0.0000	</row0>
+			<row1>	0.9956 -0.0861 0.0382 0.0000	</row1>
+			<row2>	0.0383 0.0000 -0.9993 0.0000	</row2>
+			<row3>	1.1588 0.2840 2.2580 1.0000	</row3>
+		</transform>
+	</node>
+</ISB007_Lepanto_1945_MidFront_dp.skel_ext>

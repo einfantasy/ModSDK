@@ -1,0 +1,23 @@
+<FSB006_Alsace_1945_MidBack_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_midback_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	-0.0180 0.9999 -0.0018 0.0000	</row0>
+			<row1>	-1.9900 -0.0362 -0.1966 0.0000	</row1>
+			<row2>	-0.0983 0.0000 0.9952 0.0000	</row2>
+			<row3>	-1.0357 0.2320 -4.1074 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midback_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.2205 0.9751 -0.0245 0.0000	</row0>
+			<row1>	1.9382 -0.4436 -0.2156 0.0000	</row1>
+			<row2>	-0.1106 0.0000 -0.9939 0.0000	</row2>
+			<row3>	1.0360 0.2320 -4.1070 1.0000	</row3>
+		</transform>
+	</node>
+</FSB006_Alsace_1945_MidBack_dp.skel_ext>

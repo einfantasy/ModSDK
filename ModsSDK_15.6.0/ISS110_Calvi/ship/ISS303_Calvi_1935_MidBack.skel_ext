@@ -1,0 +1,23 @@
+<ISS303_Calvi_1935_MidBack.skel_ext>
+	<exported>	true	</exported>
+	<node>
+		<identifier>	MP_IM5021_13_2mm_Breda_twin	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	-0.0362 0.2991 -0.1653 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_IM5021_13_2mm_Breda_twin.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.0379 0.2992 -0.4029 1.0000	</row3>
+		</transform>
+	</node>
+</ISS303_Calvi_1935_MidBack.skel_ext>

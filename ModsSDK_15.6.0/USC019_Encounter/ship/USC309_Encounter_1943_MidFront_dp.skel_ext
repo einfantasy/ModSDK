@@ -1,0 +1,43 @@
+<USC309_Encounter_1943_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-0.8585 0.0000 0.5129 0.0000	</row1>
+			<row2>	0.5129 0.0000 0.8585 0.0000	</row2>
+			<row3>	-0.2438 0.6478 2.3032 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	0.8585 0.0000 0.5129 0.0000	</row1>
+			<row2>	0.5129 0.0000 -0.8585 0.0000	</row2>
+			<row3>	0.2489 0.6478 2.3032 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.1734 0.9848 0.0091 0.0000	</row0>
+			<row1>	-0.9835 -0.1736 0.0515 0.0000	</row1>
+			<row2>	0.0523 0.0000 0.9986 0.0000	</row2>
+			<row3>	-0.5500 0.1870 2.7630 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.1734 0.9848 0.0091 0.0000	</row0>
+			<row1>	0.9835 -0.1736 0.0515 0.0000	</row1>
+			<row2>	0.0523 0.0000 -0.9986 0.0000	</row2>
+			<row3>	0.5499 0.1870 2.7630 1.0000	</row3>
+		</transform>
+	</node>
+</USC309_Encounter_1943_MidFront_dp.skel_ext>

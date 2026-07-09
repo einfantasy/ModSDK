@@ -1,0 +1,10 @@
+<ISS303_Calvi_1935_Stern.model>
+	<visual>	PnFMods/ModsSDK.zip/ISS110_Calvi/ship/ISS303_Calvi_1935_Stern.visual	</visual>
+	<animations />
+	<dyes />
+	<skeletonExtenders>
+		<skeletonExtender>	PnFMods/ModsSDK.zip/ISS110_Calvi/ship/ISS303_Calvi_1935_Stern.skel_ext	</skeletonExtender>
+		<skeletonExtender>	PnFMods/ModsSDK.zip/ISS110_Calvi/ship/ISS303_Calvi_1935_Stern_ep.skel_ext	</skeletonExtender>
+	</skeletonExtenders>
+	<metaData>	Wargaming.net	</metaData>
+</ISS303_Calvi_1935_Stern.model>

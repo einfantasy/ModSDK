@@ -1,0 +1,23 @@
+<GSC307_Manteuffel_1945_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.2443 0.9697 -0.0020 0.0000	</row0>
+			<row1>	-1.2492 -0.3143 0.1755 0.0000	</row1>
+			<row2>	0.1304 0.0349 0.9908 0.0000	</row2>
+			<row3>	-0.7610 0.2090 3.8860 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.3417 0.9397 0.0149 0.0000	</row0>
+			<row1>	0.9388 -0.3420 0.0410 0.0000	</row1>
+			<row2>	0.0436 0.0000 -0.9990 0.0000	</row2>
+			<row3>	0.7730 0.2090 3.8860 1.0000	</row3>
+		</transform>
+	</node>
+</GSC307_Manteuffel_1945_Bow_dp.skel_ext>

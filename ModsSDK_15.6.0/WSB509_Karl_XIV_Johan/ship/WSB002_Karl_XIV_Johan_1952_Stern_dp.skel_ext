@@ -1,0 +1,23 @@
+<WSB002_Karl_XIV_Johan_1952_Stern_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.5000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.7903 0.1511 -5.1975 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	0.1346 0.9908 -0.0104 0.0000	</row0>
+			<row1>	1.4819 -0.2025 -0.1143 0.0000	</row1>
+			<row2>	-0.0769 0.0000 -0.9970 0.0000	</row2>
+			<row3>	0.7788 0.1511 -5.2706 1.0000	</row3>
+		</transform>
+	</node>
+</WSB002_Karl_XIV_Johan_1952_Stern_dp.skel_ext>

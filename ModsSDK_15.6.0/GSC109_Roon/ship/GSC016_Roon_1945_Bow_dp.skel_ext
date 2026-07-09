@@ -1,0 +1,23 @@
+<GSC016_Roon_1945_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.1720 0.9848 0.0242 0.0000	</row0>
+			<row1>	-1.9504 -0.3473 0.2741 0.0000	</row1>
+			<row2>	0.1392 0.0000 0.9903 0.0000	</row2>
+			<row3>	-0.4750 0.1410 4.3010 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.1724 0.9848 0.0212 0.0000	</row0>
+			<row1>	2.4437 -0.4341 0.3000 0.0000	</row1>
+			<row2>	0.1219 0.0000 -0.9925 0.0000	</row2>
+			<row3>	0.4730 0.1410 4.3010 1.0000	</row3>
+		</transform>
+	</node>
+</GSC016_Roon_1945_Bow_dp.skel_ext>

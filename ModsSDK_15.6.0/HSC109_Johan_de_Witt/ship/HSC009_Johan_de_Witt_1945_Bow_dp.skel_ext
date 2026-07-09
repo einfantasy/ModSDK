@@ -1,0 +1,23 @@
+<HSC009_Johan_de_Witt_1945_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.2578 0.9659 0.0226 0.0000	</row0>
+			<row1>	-0.9623 -0.2588 0.0842 0.0000	</row1>
+			<row2>	0.0872 0.0000 0.9962 0.0000	</row2>
+			<row3>	-0.6720 0.1660 3.1410 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.2578 0.9659 0.0226 0.0000	</row0>
+			<row1>	0.9623 -0.2588 0.0842 0.0000	</row1>
+			<row2>	0.0872 0.0000 -0.9962 0.0000	</row2>
+			<row3>	0.6750 0.1660 3.1410 1.0000	</row3>
+		</transform>
+	</node>
+</HSC009_Johan_de_Witt_1945_Bow_dp.skel_ext>

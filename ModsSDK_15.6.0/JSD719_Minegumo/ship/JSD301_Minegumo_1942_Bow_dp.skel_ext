@@ -1,0 +1,23 @@
+<JSD301_Minegumo_1942_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.3060 0.9511 0.0430 0.0000	</row0>
+			<row1>	-0.9418 -0.3090 0.1324 0.0000	</row1>
+			<row2>	0.1392 0.0000 0.9903 0.0000	</row2>
+			<row3>	-0.2020 0.1260 2.7170 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.3060 0.9511 0.0430 0.0000	</row0>
+			<row1>	0.9418 -0.3090 0.1324 0.0000	</row1>
+			<row2>	0.1392 0.0000 -0.9903 0.0000	</row2>
+			<row3>	0.2020 0.1260 2.7170 1.0000	</row3>
+		</transform>
+	</node>
+</JSD301_Minegumo_1942_Bow_dp.skel_ext>

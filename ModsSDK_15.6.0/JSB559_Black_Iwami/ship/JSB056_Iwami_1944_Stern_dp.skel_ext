@@ -1,0 +1,23 @@
+<JSB056_Iwami_1944_Stern_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	-0.1402 0.9901 0.0002 0.0000	</row0>
+			<row1>	-0.9826 -0.1392 -0.1231 0.0000	</row1>
+			<row2>	-0.1219 -0.0175 0.9924 0.0000	</row2>
+			<row3>	-1.0313 0.1859 -4.5920 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	0.1402 0.9901 0.0002 0.0000	</row0>
+			<row1>	0.9826 -0.1392 -0.1231 0.0000	</row1>
+			<row2>	-0.1219 0.0175 -0.9924 0.0000	</row2>
+			<row3>	1.0306 0.1859 -4.6018 1.0000	</row3>
+		</transform>
+	</node>
+</JSB056_Iwami_1944_Stern_dp.skel_ext>

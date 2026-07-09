@@ -1,0 +1,23 @@
+<RSC034_Kronshtadt_1937_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.4246 0.9025 0.0722 0.0000	</row0>
+			<row1>	-2.6691 -1.2921 0.4540 0.0000	</row1>
+			<row2>	0.1677 0.0000 0.9858 0.0000	</row2>
+			<row3>	-0.4002 0.1809 6.3891 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.4246 0.9025 0.0722 0.0000	</row0>
+			<row1>	2.6691 -1.2922 0.4540 0.0000	</row1>
+			<row2>	0.1677 0.0000 -0.9858 0.0000	</row2>
+			<row3>	0.4048 0.1809 6.3891 1.0000	</row3>
+		</transform>
+	</node>
+</RSC034_Kronshtadt_1937_Bow_dp.skel_ext>

@@ -1,0 +1,43 @@
+<GSA001_Graf_Zeppelin_1945_MidBack_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_005	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.0524 0.9986 0.0065 0.0000	</row0>
+			<row1>	-0.9910 -0.0528 0.1229 0.0000	</row1>
+			<row2>	0.1231 0.0000 0.9924 0.0000	</row2>
+			<row3>	-0.8785 0.4733 -4.8479 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_016	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.0634 0.0000 0.9980 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	-0.9980 0.0000 0.0634 0.0000	</row2>
+			<row3>	0.8125 0.9017 -1.6728 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_017	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.0819 0.9966 0.0095 0.0000	</row0>
+			<row1>	0.9899 -0.0825 0.1150 0.0000	</row1>
+			<row2>	0.1154 0.0000 -0.9933 0.0000	</row2>
+			<row3>	0.8478 0.5180 -4.8269 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_040	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9999 0.0000 -0.0126 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0126 0.0000 0.9999 0.0000	</row2>
+			<row3>	-0.6068 0.9017 -2.5393 1.0000	</row3>
+		</transform>
+	</node>
+</GSA001_Graf_Zeppelin_1945_MidBack_dp.skel_ext>

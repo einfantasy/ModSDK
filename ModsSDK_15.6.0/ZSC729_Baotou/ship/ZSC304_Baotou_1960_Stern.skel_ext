@@ -1,0 +1,983 @@
+<ZSC304_Baotou_1960_Stern.skel_ext>
+	<exported>	true	</exported>
+	<node>
+		<identifier>	MP_CM001_Propeller3_L	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.3428 0.0000 -0.0256 0.0000	</row0>
+			<row1>	0.0000 1.3430 0.0000 0.0000	</row1>
+			<row2>	0.0256 0.0000 1.3428 0.0000	</row2>
+			<row3>	-0.3048 -0.3604 -5.7986 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_CM001_Propeller3_L.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.3427 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.3427 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.3427 0.0000	</row2>
+			<row3>	0.0000 -0.3600 -6.8769 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_CM011_Fire_Fighting_Gear	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.0788 0.3344 -6.9246 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_CM032_Propeller3_R	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.3428 -0.0035 0.0256 0.0000	</row0>
+			<row1>	0.0035 1.3430 0.0001 0.0000	</row1>
+			<row2>	-0.0256 0.0000 1.3428 0.0000	</row2>
+			<row3>	0.3048 -0.3604 -5.7986 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM013_Antenna_UCV	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.4774 0.3640 -6.0421 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM071_Barrel_DV	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.1339 -0.0167 0.9909 0.0000	</row0>
+			<row1>	0.0032 0.9998 0.0173 0.0000	</row1>
+			<row2>	-0.9910 0.0055 -0.1338 0.0000	</row2>
+			<row3>	-0.4582 0.3187 -6.1365 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM071_Barrel_DV.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.1397 0.0167 -0.9901 0.0000	</row0>
+			<row1>	-0.0032 0.9998 0.0173 0.0000	</row1>
+			<row2>	0.9902 0.0056 -0.1396 0.0000	</row2>
+			<row3>	0.4435 0.3204 -6.2333 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM071_Barrel_DV.002	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.1397 -0.0167 0.9901 0.0000	</row0>
+			<row1>	0.0032 0.9998 0.0173 0.0000	</row1>
+			<row2>	-0.9902 0.0056 -0.1396 0.0000	</row2>
+			<row3>	-0.4435 0.3204 -6.2333 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM071_Barrel_DV.003	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.1217 0.0168 -0.9924 0.0000	</row0>
+			<row1>	-0.0032 0.9998 0.0173 0.0000	</row1>
+			<row2>	0.9926 0.0053 -0.1217 0.0000	</row2>
+			<row3>	0.5624 0.3044 -5.3256 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM071_Barrel_DV.004	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.1225 -0.0176 0.9923 0.0000	</row0>
+			<row1>	-0.0032 0.9998 0.0173 0.0000	</row1>
+			<row2>	-0.9925 -0.0011 -0.1226 0.0000	</row2>
+			<row3>	-0.5623 0.3044 -5.3256 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM071_Barrel_DV.005	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.1339 0.0167 -0.9909 0.0000	</row0>
+			<row1>	-0.0032 0.9998 0.0173 0.0000	</row1>
+			<row2>	0.9910 0.0055 -0.1338 0.0000	</row2>
+			<row3>	0.4582 0.3187 -6.1365 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM135_Screened_speed_light	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.0000 0.6261 -7.5662 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM178_Smoke_bomb	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.1418 0.0237 -0.9896 0.0000	</row0>
+			<row1>	-0.0034 0.9997 0.0235 0.0000	</row1>
+			<row2>	0.9899 0.0000 0.1418 0.0000	</row2>
+			<row3>	-0.4330 0.3235 -6.3834 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM178_Smoke_bomb.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.1418 0.0237 -0.9896 0.0000	</row0>
+			<row1>	-0.0034 0.9997 0.0235 0.0000	</row1>
+			<row2>	0.9899 0.0000 0.1418 0.0000	</row2>
+			<row3>	-0.4161 0.3256 -6.5027 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM178_Smoke_bomb.002	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.8394 -0.0109 0.5433 0.0000	</row0>
+			<row1>	0.0015 0.9998 0.0176 0.0000	</row1>
+			<row2>	-0.5435 -0.0139 0.8393 0.0000	</row2>
+			<row3>	0.1609 0.3442 -7.4520 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM178_Smoke_bomb.003	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.1418 -0.0237 0.9896 0.0000	</row0>
+			<row1>	0.0034 0.9997 0.0235 0.0000	</row1>
+			<row2>	-0.9899 0.0000 0.1418 0.0000	</row2>
+			<row3>	0.4218 0.3249 -6.4629 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM178_Smoke_bomb.004	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.1418 0.0237 -0.9896 0.0000	</row0>
+			<row1>	-0.0034 0.9997 0.0235 0.0000	</row1>
+			<row2>	0.9899 0.0000 0.1418 0.0000	</row2>
+			<row3>	-0.4273 0.3242 -6.4236 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM178_Smoke_bomb.005	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.1418 -0.0237 0.9896 0.0000	</row0>
+			<row1>	0.0034 0.9997 0.0235 0.0000	</row1>
+			<row2>	-0.9899 0.0000 0.1418 0.0000	</row2>
+			<row3>	0.4273 0.3242 -6.4236 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM178_Smoke_bomb.006	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.1418 0.0237 -0.9896 0.0000	</row0>
+			<row1>	-0.0034 0.9997 0.0235 0.0000	</row1>
+			<row2>	0.9899 0.0000 0.1418 0.0000	</row2>
+			<row3>	-0.4442 0.3221 -6.3044 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM178_Smoke_bomb.007	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9651 -0.0064 0.2618 0.0000	</row0>
+			<row1>	0.0019 0.9998 0.0176 0.0000	</row1>
+			<row2>	-0.2619 -0.0164 0.9650 0.0000	</row2>
+			<row3>	0.0828 0.3446 -7.4875 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM178_Smoke_bomb.008	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.8978 0.0088 -0.4404 0.0000	</row0>
+			<row1>	-0.0012 0.9998 0.0176 0.0000	</row1>
+			<row2>	0.4405 -0.0153 0.8976 0.0000	</row2>
+			<row3>	-0.1243 0.3446 -7.4727 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM178_Smoke_bomb.009	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.1418 0.0237 -0.9896 0.0000	</row0>
+			<row1>	-0.0034 0.9997 0.0235 0.0000	</row1>
+			<row2>	0.9899 0.0000 0.1418 0.0000	</row2>
+			<row3>	-0.4218 0.3249 -6.4629 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM178_Smoke_bomb.010	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.1418 -0.0237 0.9896 0.0000	</row0>
+			<row1>	0.0034 0.9997 0.0235 0.0000	</row1>
+			<row2>	-0.9899 0.0000 0.1418 0.0000	</row2>
+			<row3>	0.4442 0.3221 -6.3044 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM178_Smoke_bomb.011	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.1418 -0.0237 0.9896 0.0000	</row0>
+			<row1>	0.0034 0.9997 0.0235 0.0000	</row1>
+			<row2>	-0.9899 0.0000 0.1418 0.0000	</row2>
+			<row3>	0.4387 0.3228 -6.3435 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM178_Smoke_bomb.012	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.1418 -0.0237 0.9896 0.0000	</row0>
+			<row1>	0.0034 0.9997 0.0235 0.0000	</row1>
+			<row2>	-0.9899 0.0000 0.1418 0.0000	</row2>
+			<row3>	0.4330 0.3235 -6.3834 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM178_Smoke_bomb.013	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.8978 -0.0088 0.4404 0.0000	</row0>
+			<row1>	0.0012 0.9998 0.0176 0.0000	</row1>
+			<row2>	-0.4405 -0.0153 0.8976 0.0000	</row2>
+			<row3>	0.1245 0.3446 -7.4719 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM178_Smoke_bomb.014	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.1418 0.0237 -0.9896 0.0000	</row0>
+			<row1>	-0.0034 0.9997 0.0235 0.0000	</row1>
+			<row2>	0.9899 0.0000 0.1418 0.0000	</row2>
+			<row3>	-0.4387 0.3228 -6.3435 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM178_Smoke_bomb.015	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9651 0.0064 -0.2618 0.0000	</row0>
+			<row1>	-0.0019 0.9998 0.0176 0.0000	</row1>
+			<row2>	0.2619 -0.0164 0.9650 0.0000	</row2>
+			<row3>	-0.0828 0.3446 -7.4874 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM178_Smoke_bomb.016	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.8394 0.0109 -0.5433 0.0000	</row0>
+			<row1>	-0.0015 0.9998 0.0176 0.0000	</row1>
+			<row2>	0.5435 -0.0139 0.8393 0.0000	</row2>
+			<row3>	-0.1608 0.3442 -7.4524 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM178_Smoke_bomb.017	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.1418 -0.0237 0.9896 0.0000	</row0>
+			<row1>	0.0034 0.9997 0.0235 0.0000	</row1>
+			<row2>	-0.9899 0.0000 0.1418 0.0000	</row2>
+			<row3>	0.4161 0.3256 -6.5027 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM2958_Fairled	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9997 -0.0031 0.0245 0.0000	</row0>
+			<row1>	0.0028 1.0000 0.0085 0.0000	</row1>
+			<row2>	-0.0245 -0.0085 0.9997 0.0000	</row2>
+			<row3>	-0.1835 0.3400 -7.2717 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM2964_Fairlead	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9974 -0.0059 -0.0724 0.0000	</row0>
+			<row1>	0.0074 0.9998 0.0211 0.0000	</row1>
+			<row2>	0.0723 -0.0216 0.9972 0.0000	</row2>
+			<row3>	0.6773 0.2953 -4.3370 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM2964_Fairlead.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9927 -0.0048 -0.1202 0.0000	</row0>
+			<row1>	0.0074 0.9998 0.0211 0.0000	</row1>
+			<row2>	0.1201 -0.0218 0.9925 0.0000	</row2>
+			<row3>	0.5649 0.3159 -5.4458 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM2964_Fairlead.002	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9974 0.0059 0.0724 0.0000	</row0>
+			<row1>	-0.0074 0.9998 0.0211 0.0000	</row1>
+			<row2>	-0.0723 -0.0216 0.9972 0.0000	</row2>
+			<row3>	-0.6773 0.2953 -4.3370 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM2964_Fairlead.003	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9927 0.0048 0.1202 0.0000	</row0>
+			<row1>	-0.0074 0.9998 0.0211 0.0000	</row1>
+			<row2>	-0.1201 -0.0218 0.9925 0.0000	</row2>
+			<row3>	-0.5649 0.3159 -5.4458 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM2965_Fairlead	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9835 -0.0034 0.1808 0.0000	</row0>
+			<row1>	0.0000 0.9998 0.0190 0.0000	</row1>
+			<row2>	-0.1808 -0.0187 0.9833 0.0000	</row2>
+			<row3>	-0.3250 0.3465 -7.0340 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM2965_Fairlead.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9835 0.0034 -0.1808 0.0000	</row0>
+			<row1>	0.0000 0.9998 0.0190 0.0000	</row1>
+			<row2>	0.1808 -0.0187 0.9833 0.0000	</row2>
+			<row3>	0.3250 0.3465 -7.0340 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM5056_Bollard	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.9998 0.0190 0.0000	</row1>
+			<row2>	0.0000 -0.0190 0.9998 0.0000	</row2>
+			<row3>	0.3277 0.3266 -6.6313 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM5056_Bollard.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.9998 0.0190 0.0000	</row1>
+			<row2>	0.0000 -0.0190 0.9998 0.0000	</row2>
+			<row3>	-0.3277 0.3266 -6.6313 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM5056_Bollard.002	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.9998 0.0190 0.0000	</row1>
+			<row2>	0.0000 -0.0190 0.9998 0.0000	</row2>
+			<row3>	0.6338 0.2898 -4.5688 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM5056_Bollard.003	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.9998 0.0190 0.0000	</row1>
+			<row2>	0.0000 -0.0190 0.9998 0.0000	</row2>
+			<row3>	-0.4972 0.3076 -5.5982 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM5056_Bollard.004	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.9998 0.0190 0.0000	</row1>
+			<row2>	0.0000 -0.0190 0.9998 0.0000	</row2>
+			<row3>	0.4972 0.3076 -5.5982 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM5056_Bollard.005	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.9998 0.0190 0.0000	</row1>
+			<row2>	0.0000 -0.0190 0.9998 0.0000	</row2>
+			<row3>	-0.6338 0.2898 -4.5688 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM5057_Baotou_name	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.0856 -0.9940 0.0674 0.0000	</row0>
+			<row1>	0.9842 -0.0949 -0.1497 0.0000	</row1>
+			<row2>	0.1552 0.0535 0.9864 0.0000	</row2>
+			<row3>	0.3908 0.2442 -6.7348 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM5057_Baotou_name.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.1019 -0.9940 -0.0392 0.0000	</row0>
+			<row1>	-0.9842 -0.0949 -0.1497 0.0000	</row1>
+			<row2>	0.1451 0.0538 -0.9880 0.0000	</row2>
+			<row3>	-0.3908 0.2442 -6.7348 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM754_Hatch	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.1670 0.3323 -7.1023 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM754_Hatch.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.3675 0.2928 -4.9027 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM754_Hatch.002	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.3675 0.2928 -4.9027 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM754_Hatch.003	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.3008 0.3031 -5.4356 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM754_Hatch.004	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.3008 0.3031 -5.4356 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM773_Hatch	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	-0.3006 0.3152 -6.1994 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM773_Hatch.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	-0.1008 0.3344 -7.3323 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM773_Hatch.002	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	-0.2002 0.2819 -4.2655 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM773_Hatch.003	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.2998 0.3119 -5.9330 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM773_Hatch.004	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.0338 0.2982 -5.1996 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM773_Hatch.005	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.2999 0.2851 -4.4671 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM774_Hatch	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.7000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.7000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -0.7000 0.0000	</row2>
+			<row3>	0.3165 0.2889 -4.6158 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM774_Hatch.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.7000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.7000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -0.7000 0.0000	</row2>
+			<row3>	-0.2835 0.2889 -4.5495 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM804_Ventilation	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.7071 0.0000 0.7071 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	-0.7071 0.0000 0.7071 0.0000	</row2>
+			<row3>	-0.1220 0.3306 -6.9156 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM804_Ventilation.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.7071 0.0000 0.7071 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	-0.7071 0.0000 0.7071 0.0000	</row2>
+			<row3>	-0.0180 0.2906 -4.9832 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM804_Ventilation.002	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.7071 0.0000 0.7071 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	-0.7071 0.0000 0.7071 0.0000	</row2>
+			<row3>	0.2458 0.2906 -4.8441 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM804_Ventilation.003	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.7071 0.0000 0.7071 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	-0.7071 0.0000 0.7071 0.0000	</row2>
+			<row3>	0.2794 0.2922 -4.7553 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM804_Ventilation.004	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.7071 0.0000 0.7071 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	-0.7071 0.0000 0.7071 0.0000	</row2>
+			<row3>	-0.1797 0.2906 -4.9195 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM804_Ventilation.005	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0384 0.0000 1.0384 0.0000	</row0>
+			<row1>	0.0000 1.4685 0.0000 0.0000	</row1>
+			<row2>	-1.0384 0.0000 1.0384 0.0000	</row2>
+			<row3>	0.1470 0.3324 -7.2862 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM852_Running_Lights_B	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.0000 0.4313 -7.5058 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM857_Signal_Lamp	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.9596 -0.2815 0.0000	</row1>
+			<row2>	0.0000 -0.2815 -0.9596 0.0000	</row2>
+			<row3>	0.0000 0.8124 -7.5974 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM873_Signal_Lamp_4	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.0665 0.3645 -5.5661 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM980_Anchor_Capstan_Stern	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.9998 0.0176 0.0000	</row1>
+			<row2>	0.0000 -0.0176 0.9998 0.0000	</row2>
+			<row3>	0.1886 0.3112 -5.5664 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM980_Anchor_Capstan_Stern.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.9998 0.0176 0.0000	</row1>
+			<row2>	0.0000 -0.0176 0.9998 0.0000	</row2>
+			<row3>	-0.1886 0.3112 -5.5664 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM985_Reel	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0055 0.0000	</row1>
+			<row2>	0.0000 -0.0055 1.0000 0.0000	</row2>
+			<row3>	-0.1315 0.3035 -5.2972 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM985_Reel.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.9998 0.0183 0.0000	</row1>
+			<row2>	0.0000 -0.0183 0.9998 0.0000	</row2>
+			<row3>	-0.1956 0.3003 -5.1126 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM985_Reel.002	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0082 0.0000	</row1>
+			<row2>	0.0000 0.0082 -1.0000 0.0000	</row2>
+			<row3>	0.1315 0.3033 -5.2972 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM985_Reel.003	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.9998 0.0179 0.0000	</row1>
+			<row2>	0.0000 0.0179 -0.9998 0.0000	</row2>
+			<row3>	0.1956 0.3003 -5.1127 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM986_Winch_Provisions	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.0000 -0.0129 0.9999 0.0000	</row0>
+			<row1>	0.0000 0.9999 0.0129 0.0000	</row1>
+			<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+			<row3>	0.3383 0.2823 -4.1655 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_ZM986_Winch_Provisions.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.0000 0.0129 -0.9999 0.0000	</row0>
+			<row1>	0.0000 0.9999 0.0129 0.0000	</row1>
+			<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+			<row3>	-0.3383 0.2831 -4.1655 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS011_YHWL_M_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9525 0.1767 0.0500 0.0000	</row0>
+			<row1>	-0.1760 0.9537 -0.0170 0.0000	</row1>
+			<row2>	-0.0522 0.0076 0.9686 0.0000	</row2>
+			<row3>	-0.6435 0.0000 -4.3606 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS011_YHWL_M_1.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.8898 0.3686 0.1154 0.0000	</row0>
+			<row1>	-0.3657 0.8972 -0.0465 0.0000	</row1>
+			<row2>	-0.1244 -0.0008 0.9620 0.0000	</row2>
+			<row3>	-0.5528 0.0000 -5.1517 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS012_YHWR_M_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9525 -0.1767 -0.0500 0.0000	</row0>
+			<row1>	0.1760 0.9537 -0.0170 0.0000	</row1>
+			<row2>	0.0522 0.0076 0.9686 0.0000	</row2>
+			<row3>	0.6435 0.0000 -4.3606 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS012_YHWR_M_1.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.8898 -0.3686 -0.1154 0.0000	</row0>
+			<row1>	0.3657 0.8972 -0.0465 0.0000	</row1>
+			<row2>	0.1244 -0.0008 0.9620 0.0000	</row2>
+			<row3>	0.5528 0.0000 -5.1517 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS023_YHUC_L_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.6747 0.0000 -0.0129 0.0000	</row0>
+			<row1>	0.0000 0.6748 0.0000 0.0000	</row1>
+			<row2>	0.0129 0.0000 0.6747 0.0000	</row2>
+			<row3>	-0.3048 -0.3604 -5.7986 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS023_YHUC_L_1.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.6747 -0.0018 0.0129 0.0000	</row0>
+			<row1>	0.0018 0.6748 0.0000 0.0000	</row1>
+			<row2>	-0.0129 0.0000 0.6747 0.0000	</row2>
+			<row3>	0.3048 -0.3604 -5.7986 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS023_YHUC_L_1.002	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.6748 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.6748 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 0.6748 0.0000	</row2>
+			<row3>	0.0000 -0.3600 -6.8769 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS030_YHAM_M_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.6350 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.6350 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 0.6350 0.0000	</row2>
+			<row3>	0.0000 0.2337 -7.5277 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS031_YHAL_M_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.1270 0.1676 0.2201 0.0000	</row0>
+			<row1>	-0.1685 1.1482 -0.0114 0.0000	</row1>
+			<row2>	-0.2194 -0.0209 1.1394 0.0000	</row2>
+			<row3>	-0.3379 0.1859 -6.9722 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS032_YHAR_M_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.1270 -0.1676 -0.2201 0.0000	</row0>
+			<row1>	0.1685 1.1482 -0.0114 0.0000	</row1>
+			<row2>	0.2194 -0.0209 1.1394 0.0000	</row2>
+			<row3>	0.3379 0.1859 -6.9722 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS053_YHDC_S_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0095 0.0000	</row1>
+			<row2>	0.0000 -0.0095 1.0000 0.0000	</row2>
+			<row3>	-0.3526 0.3172 -5.6534 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS053_YHDC_S_1.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0095 0.0000	</row1>
+			<row2>	0.0000 -0.0095 1.0000 0.0000	</row2>
+			<row3>	0.3526 0.3172 -5.6534 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS053_YHDC_S_1.002	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.8000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.8000 0.0076 0.0000	</row1>
+			<row2>	0.0000 -0.0076 0.8000 0.0000	</row2>
+			<row3>	0.0000 0.3471 -6.4184 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS053_YHDC_S_1.003	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.8000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.8000 0.0076 0.0000	</row1>
+			<row2>	0.0000 -0.0076 0.8000 0.0000	</row2>
+			<row3>	0.0000 0.3500 -6.6091 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS053_YHDC_S_1.004	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.8000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.8000 0.0076 0.0000	</row1>
+			<row2>	0.0000 -0.0076 0.8000 0.0000	</row2>
+			<row3>	0.0000 0.3526 -6.7863 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS080_YHSL_M_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.6949 0.1145 0.0836 0.0000	</row0>
+			<row1>	-0.1137 0.6999 -0.0138 0.0000	</row1>
+			<row2>	-0.0847 0.0000 0.7041 0.0000	</row2>
+			<row3>	-0.5324 0.1868 -5.6002 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS080_YHSL_M_1.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.6890 0.1288 0.1079 0.0000	</row0>
+			<row1>	-0.1282 0.6974 -0.0138 0.0000	</row1>
+			<row2>	-0.1086 -0.0061 0.7008 0.0000	</row2>
+			<row3>	-0.4546 0.1868 -6.1785 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS081_YHSR_M_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.6949 -0.1145 -0.0836 0.0000	</row0>
+			<row1>	0.1137 0.6999 -0.0138 0.0000	</row1>
+			<row2>	0.0847 0.0000 0.7041 0.0000	</row2>
+			<row3>	0.5324 0.1868 -5.6002 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS081_YHSR_M_1.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.6890 -0.1288 -0.1079 0.0000	</row0>
+			<row1>	0.1282 0.6974 -0.0138 0.0000	</row1>
+			<row2>	0.1086 -0.0061 0.7008 0.0000	</row2>
+			<row3>	0.4545 0.1868 -6.1785 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS082_YHSC_M_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.1419 0.0063 -1.3928 0.0000	</row0>
+			<row1>	-0.1427 1.3927 -0.0082 0.0000	</row1>
+			<row2>	1.3855 0.1428 0.1418 0.0000	</row2>
+			<row3>	-0.6132 0.1742 -4.9606 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS082_YHSC_M_1.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.1419 -0.0063 1.3928 0.0000	</row0>
+			<row1>	0.1427 1.3927 -0.0082 0.0000	</row1>
+			<row2>	-1.3855 0.1428 0.1418 0.0000	</row2>
+			<row3>	0.6132 0.1742 -4.9606 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS082_YHSC_M_1.002	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.1332 -0.0054 1.3936 0.0000	</row0>
+			<row1>	0.1150 1.3953 -0.0055 0.0000	</row1>
+			<row2>	-1.3889 0.1150 0.1332 0.0000	</row2>
+			<row3>	0.6718 0.1711 -4.3867 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS082_YHSC_M_1.003	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.1332 0.0054 -1.3936 0.0000	</row0>
+			<row1>	-0.1150 1.3953 -0.0055 0.0000	</row1>
+			<row2>	1.3889 0.1150 0.1332 0.0000	</row2>
+			<row3>	-0.6718 0.1711 -4.3867 1.0000	</row3>
+		</transform>
+	</node>
+</ZSC304_Baotou_1960_Stern.skel_ext>

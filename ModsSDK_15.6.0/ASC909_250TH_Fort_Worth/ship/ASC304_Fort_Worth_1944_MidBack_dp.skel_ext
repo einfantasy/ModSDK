@@ -1,0 +1,63 @@
+<ASC304_Fort_Worth_1944_MidBack_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.1169 1.4288 0.7325 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.1170 1.4288 0.7320 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.8430 0.1092 -0.4130 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.8420 0.1092 -0.4130 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	-0.1218 0.9925 0.0074 0.0000	</row0>
+			<row1>	-0.9892 -0.1208 -0.0830 0.0000	</row1>
+			<row2>	-0.0815 -0.0175 0.9965 0.0000	</row2>
+			<row3>	-0.7708 0.1888 -4.7936 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.1359 0.9907 0.0069 0.0000	</row0>
+			<row1>	0.9877 -0.1350 -0.0786 0.0000	</row1>
+			<row2>	-0.0769 0.0175 -0.9969 0.0000	</row2>
+			<row3>	0.7710 0.1888 -4.7940 1.0000	</row3>
+		</transform>
+	</node>
+</ASC304_Fort_Worth_1944_MidBack_dp.skel_ext>

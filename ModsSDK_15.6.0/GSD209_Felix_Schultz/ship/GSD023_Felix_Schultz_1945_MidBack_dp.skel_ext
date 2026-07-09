@@ -1,0 +1,23 @@
+<GSD023_Felix_Schultz_1945_MidBack_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	-0.0237 0.9997 -0.0018 0.0000	</row0>
+			<row1>	-1.9938 -0.0475 -0.1493 0.0000	</row1>
+			<row2>	-0.0747 0.0000 0.9972 0.0000	</row2>
+			<row3>	-0.3107 0.1361 -4.6058 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0247 0.9997 -0.0018 0.0000	</row0>
+			<row1>	1.9940 -0.0495 -0.1469 0.0000	</row1>
+			<row2>	-0.0735 0.0000 -0.9973 0.0000	</row2>
+			<row3>	0.3083 0.1361 -4.6058 1.0000	</row3>
+		</transform>
+	</node>
+</GSD023_Felix_Schultz_1945_MidBack_dp.skel_ext>

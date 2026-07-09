@@ -1,0 +1,43 @@
+<RSC034_Kronshtadt_1937_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.1010 0.9949 0.0000 0.0000	</row0>
+			<row1>	-0.9949 0.1010 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.2296 0.8677 1.5943 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.1010 0.9949 0.0000 0.0000	</row0>
+			<row1>	0.9949 0.1010 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.2286 0.8677 1.5943 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.0921 0.9958 0.0040 0.0000	</row0>
+			<row1>	-0.9949 -0.0921 0.0428 0.0000	</row1>
+			<row2>	0.0430 0.0000 0.9991 0.0000	</row2>
+			<row3>	-0.9287 0.1834 2.3525 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0921 0.9958 0.0040 0.0000	</row0>
+			<row1>	0.9949 -0.0921 0.0428 0.0000	</row1>
+			<row2>	0.0430 0.0000 -0.9991 0.0000	</row2>
+			<row3>	0.9301 0.1834 2.3525 1.0000	</row3>
+		</transform>
+	</node>
+</RSC034_Kronshtadt_1937_MidFront_dp.skel_ext>

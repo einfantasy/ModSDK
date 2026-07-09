@@ -1,0 +1,63 @@
+<ASD048_Fletcher_1945_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.3501 0.9344 0.0657 0.0000	</row0>
+			<row1>	-2.7551 -1.0688 0.5170 0.0000	</row1>
+			<row2>	0.1844 0.0000 0.9828 0.0000	</row2>
+			<row3>	-0.1180 0.2170 3.2833 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.3501 0.9344 0.0657 0.0000	</row0>
+			<row1>	2.7551 -1.0688 0.5170 0.0000	</row1>
+			<row2>	0.1844 0.0000 -0.9828 0.0000	</row2>
+			<row3>	0.1112 0.2170 3.2833 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-0.4069 0.0000 0.2906 0.0000	</row1>
+			<row2>	0.5812 0.0000 0.8137 0.0000	</row2>
+			<row3>	-0.2644 0.6499 1.5094 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	0.4069 0.0000 0.2906 0.0000	</row1>
+			<row2>	0.5812 0.0000 -0.8137 0.0000	</row2>
+			<row3>	0.2690 0.6499 1.5094 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.9924 0.0000 0.1743 0.0000	</row1>
+			<row2>	0.0872 0.0000 0.9962 0.0000	</row2>
+			<row3>	-0.3150 0.1350 1.7310 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.9924 0.0000 0.1743 0.0000	</row1>
+			<row2>	0.0872 0.0000 -0.9962 0.0000	</row2>
+			<row3>	0.3190 0.1350 1.7310 1.0000	</row3>
+		</transform>
+	</node>
+</ASD048_Fletcher_1945_MidFront_dp.skel_ext>

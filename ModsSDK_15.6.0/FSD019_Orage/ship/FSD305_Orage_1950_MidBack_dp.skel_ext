@@ -1,0 +1,43 @@
+<FSD305_Orage_1950_MidBack_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_midback_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	-0.0025 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.0000 -0.0025 -0.0008 0.0000	</row1>
+			<row2>	-0.0008 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.4162 0.1200 -0.1450 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midback_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0025 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.0000 -0.0025 -0.0008 0.0000	</row1>
+			<row2>	-0.0008 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.4160 0.1200 -0.1450 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.3330 0.1090 -2.7730 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.1346 0.9908 -0.0104 0.0000	</row0>
+			<row1>	0.9879 -0.1350 -0.0762 0.0000	</row1>
+			<row2>	-0.0769 0.0000 -0.9970 0.0000	</row2>
+			<row3>	0.3330 0.1090 -2.7730 1.0000	</row3>
+		</transform>
+	</node>
+</FSD305_Orage_1950_MidBack_dp.skel_ext>

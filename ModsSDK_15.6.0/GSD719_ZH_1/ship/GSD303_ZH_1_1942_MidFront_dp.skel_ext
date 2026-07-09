@@ -1,0 +1,63 @@
+<GSD303_ZH_1_1942_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.3505 0.9342 0.0658 0.0000	</row0>
+			<row1>	-1.3773 -0.5350 0.2587 0.0000	</row1>
+			<row2>	0.1846 0.0000 0.9828 0.0000	</row2>
+			<row3>	-0.1602 0.1821 2.9645 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.2485 0.9673 0.0509 0.0000	</row0>
+			<row1>	1.4214 -0.3805 0.2911 0.0000	</row1>
+			<row2>	0.2006 0.0000 -0.9797 0.0000	</row2>
+			<row3>	0.1488 0.1821 2.9645 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.1571 0.6439 1.6429 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.1571 0.6439 1.6429 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.1354 0.9908 0.0073 0.0000	</row0>
+			<row1>	-0.9893 -0.1356 0.0531 0.0000	</row1>
+			<row2>	0.0536 0.0000 0.9986 0.0000	</row2>
+			<row3>	-0.2830 0.1580 1.8380 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.1975 0.9803 0.0081 0.0000	</row0>
+			<row1>	0.9794 -0.1977 0.0402 0.0000	</row1>
+			<row2>	0.0410 0.0000 -0.9992 0.0000	</row2>
+			<row3>	0.2820 0.1580 1.8380 1.0000	</row3>
+		</transform>
+	</node>
+</GSD303_ZH_1_1942_MidFront_dp.skel_ext>

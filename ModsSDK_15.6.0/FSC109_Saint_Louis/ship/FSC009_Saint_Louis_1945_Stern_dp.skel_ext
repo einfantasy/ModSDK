@@ -1,0 +1,23 @@
+<FSC009_Saint_Louis_1945_Stern_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	0.0567 0.9984 0.0036 0.0000	</row0>
+			<row1>	-1.9927 0.1136 -0.1268 0.0000	</row1>
+			<row2>	-0.0635 0.0000 0.9980 0.0000	</row2>
+			<row3>	-0.5863 0.1788 -3.6813 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	-0.0567 0.9984 0.0036 0.0000	</row0>
+			<row1>	1.9927 0.1136 -0.1268 0.0000	</row1>
+			<row2>	-0.0635 0.0000 -0.9980 0.0000	</row2>
+			<row3>	0.5781 0.1788 -3.6813 1.0000	</row3>
+		</transform>
+	</node>
+</FSC009_Saint_Louis_1945_Stern_dp.skel_ext>

@@ -1,0 +1,43 @@
+<GSC028_Aegir_1945_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-2.0000 0.0000 0.0004 0.0000	</row1>
+			<row2>	0.0002 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.1341 1.6448 1.3408 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	2.0000 0.0000 0.0004 0.0000	</row1>
+			<row2>	0.0002 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.1311 1.6448 1.3408 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.0869 0.9962 0.0068 0.0000	</row0>
+			<row1>	-0.9931 -0.0872 0.0782 0.0000	</row1>
+			<row2>	0.0785 0.0000 0.9969 0.0000	</row2>
+			<row3>	-0.9180 0.2490 2.6480 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.1733 0.9848 0.0106 0.0000	</row0>
+			<row1>	0.9830 -0.1736 0.0601 0.0000	</row1>
+			<row2>	0.0610 0.0000 -0.9981 0.0000	</row2>
+			<row3>	0.9030 0.2490 2.6480 1.0000	</row3>
+		</transform>
+	</node>
+</GSC028_Aegir_1945_MidFront_dp.skel_ext>

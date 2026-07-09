@@ -1,0 +1,23 @@
+<ASC025_Buffalo_1945_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.1492 0.9885 0.0236 0.0000	</row0>
+			<row1>	-2.9291 -0.4531 0.4635 0.0000	</row1>
+			<row2>	0.1563 0.0000 0.9877 0.0000	</row2>
+			<row3>	-0.3330 0.2709 5.0124 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.1363 0.9904 0.0215 0.0000	</row0>
+			<row1>	2.9349 -0.4140 0.4638 0.0000	</row1>
+			<row2>	0.1561 0.0000 -0.9877 0.0000	</row2>
+			<row3>	0.3151 0.2709 5.0124 1.0000	</row3>
+		</transform>
+	</node>
+</ASC025_Buffalo_1945_Bow_dp.skel_ext>

@@ -1,0 +1,43 @@
+<FSC009_Saint_Louis_1945_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.9764 0.0000 -0.3063 0.0000	</row1>
+			<row2>	-0.1532 0.0000 0.9882 0.0000	</row2>
+			<row3>	-0.1664 1.4543 1.5353 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	0.9882 0.0000 -0.1532 0.0000	</row1>
+			<row2>	-0.1532 0.0000 -0.9882 0.0000	</row2>
+			<row3>	0.1645 1.4543 1.5353 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0395 0.9992 -0.0004 0.0000	</row0>
+			<row1>	-1.5987 0.0631 0.0151 0.0000	</row1>
+			<row2>	0.0094 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.6978 0.2033 0.9300 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.0394 0.9992 -0.0012 0.0000	</row0>
+			<row1>	1.5980 0.0631 0.0492 0.0000	</row1>
+			<row2>	0.0308 0.0000 -0.9995 0.0000	</row2>
+			<row3>	0.7060 0.2033 0.9300 1.0000	</row3>
+		</transform>
+	</node>
+</FSC009_Saint_Louis_1945_MidFront_dp.skel_ext>

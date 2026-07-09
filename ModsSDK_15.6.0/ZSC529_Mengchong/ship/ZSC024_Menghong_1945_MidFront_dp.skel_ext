@@ -1,0 +1,43 @@
+<ZSC024_Menghong_1945_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-2.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.1330 1.5630 1.3554 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	2.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.1320 1.5630 1.3550 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.2263 0.9740 -0.0058 0.0000	</row0>
+			<row1>	-0.9701 -0.2249 0.0908 0.0000	</row1>
+			<row2>	0.0871 0.0262 0.9959 0.0000	</row2>
+			<row3>	-0.8160 0.2440 3.8130 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.2768 0.9609 -0.0010 0.0000	</row0>
+			<row1>	0.9570 -0.2755 0.0910 0.0000	</row1>
+			<row2>	0.0871 -0.0262 -0.9959 0.0000	</row2>
+			<row3>	0.8050 0.2440 3.8130 1.0000	</row3>
+		</transform>
+	</node>
+</ZSC024_Menghong_1945_MidFront_dp.skel_ext>

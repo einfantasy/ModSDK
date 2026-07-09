@@ -1,0 +1,63 @@
+<WSD024_Lambros_Katsonis_1950_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.0877 0.9960 0.0152 0.0000	</row0>
+			<row1>	-2.9442 -0.2670 0.5105 0.0000	</row1>
+			<row2>	0.1709 0.0000 0.9853 0.0000	</row2>
+			<row3>	-0.0994 0.1908 3.8780 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.1053 0.9942 0.0183 0.0000	</row0>
+			<row1>	2.9389 -0.3206 0.5102 0.0000	</row1>
+			<row2>	0.1710 0.0000 -0.9853 0.0000	</row2>
+			<row3>	0.1027 0.1908 3.8780 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.0000 0.0000 0.0003 0.0000	</row1>
+			<row2>	0.0003 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.1771 0.6965 2.1361 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.0000 0.0000 0.0003 0.0000	</row1>
+			<row2>	0.0003 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.1771 0.6965 2.1361 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.0868 0.9962 0.0076 0.0000	</row0>
+			<row1>	-0.9924 -0.0872 0.0868 0.0000	</row1>
+			<row2>	0.0872 0.0000 0.9962 0.0000	</row2>
+			<row3>	-0.3350 0.2220 2.1750 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0868 0.9962 0.0076 0.0000	</row0>
+			<row1>	0.9924 -0.0872 0.0868 0.0000	</row1>
+			<row2>	0.0872 0.0000 -0.9962 0.0000	</row2>
+			<row3>	0.3350 0.2220 2.1750 1.0000	</row3>
+		</transform>
+	</node>
+</WSD024_Lambros_Katsonis_1950_MidFront_dp.skel_ext>

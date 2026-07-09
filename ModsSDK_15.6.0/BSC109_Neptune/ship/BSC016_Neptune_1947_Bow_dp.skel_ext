@@ -1,0 +1,23 @@
+<BSC016_Neptune_1947_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.4019 0.9151 0.0321 0.0000	</row0>
+			<row1>	-2.7057 -1.2049 0.4770 0.0000	</row1>
+			<row2>	0.1584 0.0349 0.9868 0.0000	</row2>
+			<row3>	-0.4850 0.2960 4.6490 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.4019 0.9151 0.0321 0.0000	</row0>
+			<row1>	2.7057 -1.2049 0.4770 0.0000	</row1>
+			<row2>	0.1584 -0.0349 -0.9868 0.0000	</row2>
+			<row3>	0.4910 0.2960 4.6490 1.0000	</row3>
+		</transform>
+	</node>
+</BSC016_Neptune_1947_Bow_dp.skel_ext>

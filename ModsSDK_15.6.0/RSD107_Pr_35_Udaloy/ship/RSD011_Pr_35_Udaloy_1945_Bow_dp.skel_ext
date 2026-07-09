@@ -1,0 +1,23 @@
+<RSD011_Pr_35_Udaloy_1945_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.4380 0.8962 0.0708 0.0000	</row0>
+			<row1>	-2.6541 -1.3311 0.4292 0.0000	</row1>
+			<row2>	0.1596 0.0000 0.9872 0.0000	</row2>
+			<row3>	-0.1108 0.1913 3.3342 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.4818 0.8732 0.0736 0.0000	</row0>
+			<row1>	2.5896 -1.4622 0.3954 0.0000	</row1>
+			<row2>	0.1509 0.0000 -0.9885 0.0000	</row2>
+			<row3>	0.1356 0.1913 3.3342 1.0000	</row3>
+		</transform>
+	</node>
+</RSD011_Pr_35_Udaloy_1945_Bow_dp.skel_ext>

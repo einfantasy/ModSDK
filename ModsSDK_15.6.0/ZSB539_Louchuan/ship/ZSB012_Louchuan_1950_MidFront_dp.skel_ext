@@ -1,0 +1,43 @@
+<ZSB012_Louchuan_1950_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.1386 0.9903 0.0121 0.0000	</row0>
+			<row1>	-0.9865 -0.1392 0.0863 0.0000	</row1>
+			<row2>	0.0872 0.0000 0.9962 0.0000	</row2>
+			<row3>	-0.8720 0.1470 3.3340 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.1556 0.9877 0.0164 0.0000	</row0>
+			<row1>	0.9823 -0.1564 0.1032 0.0000	</row1>
+			<row2>	0.1045 0.0000 -0.9945 0.0000	</row2>
+			<row3>	0.8700 0.1470 3.3340 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.3458 0.9251 0.8673 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.3460 0.9250 0.8670 1.0000	</row3>
+		</transform>
+	</node>
+</ZSB012_Louchuan_1950_MidFront_dp.skel_ext>

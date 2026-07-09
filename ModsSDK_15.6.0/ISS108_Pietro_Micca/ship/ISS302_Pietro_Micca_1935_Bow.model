@@ -1,0 +1,18 @@
+<ISS302_Pietro_Micca_1935_Bow.model>
+	<visual>	PnFMods/ModsSDK.zip/ISS108_Pietro_Micca/ship/ISS302_Pietro_Micca_1935_Bow.visual	</visual>
+	<animations>
+		<animation>	content/animation_state_machines/gameplay/italy/ship/submarine/ISS302_Pietro_Micca_1935/ISS302_Pietro_Micca_1935_Bow/ISS302_Pietro_Micca_1935_Bow_periscope.ssm	</animation>
+		<animation>	content/animation_state_machines/gameplay/italy/ship/submarine/ISS302_Pietro_Micca_1935/ISS302_Pietro_Micca_1935_Bow/ISS302_Pietro_Micca_1935_Bow_cap_1.ssm	</animation>
+		<animation>	content/animation_state_machines/gameplay/italy/ship/submarine/ISS302_Pietro_Micca_1935/ISS302_Pietro_Micca_1935_Bow/ISS302_Pietro_Micca_1935_Bow_cap_2.ssm	</animation>
+		<animation>	content/animation_state_machines/gameplay/italy/ship/submarine/ISS302_Pietro_Micca_1935/ISS302_Pietro_Micca_1935_Bow/ISS302_Pietro_Micca_1935_Bow_cap_3.ssm	</animation>
+		<animation>	content/animation_state_machines/gameplay/italy/ship/submarine/ISS302_Pietro_Micca_1935/ISS302_Pietro_Micca_1935_Bow/ISS302_Pietro_Micca_1935_Bow_cap_4.ssm	</animation>
+		<animation>	content/animation_state_machines/gameplay/italy/ship/submarine/ISS302_Pietro_Micca_1935/ISS302_Pietro_Micca_1935_Bow/ISS302_Pietro_Micca_1935_Bow_cap_5_in.ssm	</animation>
+		<animation>	content/animation_state_machines/gameplay/italy/ship/submarine/ISS302_Pietro_Micca_1935/ISS302_Pietro_Micca_1935_Bow/ISS302_Pietro_Micca_1935_Bow_cap_6_in.ssm	</animation>
+	</animations>
+	<dyes />
+	<skeletonExtenders>
+		<skeletonExtender>	PnFMods/ModsSDK.zip/ISS108_Pietro_Micca/ship/ISS302_Pietro_Micca_1935_Bow.skel_ext	</skeletonExtender>
+		<skeletonExtender>	PnFMods/ModsSDK.zip/ISS108_Pietro_Micca/ship/ISS302_Pietro_Micca_1935_Bow_ep.skel_ext	</skeletonExtender>
+	</skeletonExtenders>
+	<metaData>	Wargaming.net	</metaData>
+</ISS302_Pietro_Micca_1935_Bow.model>

@@ -1,0 +1,23 @@
+<RSC025_Donskoy_1948_Stern_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	-0.0868 0.9962 -0.0076 0.0000	</row0>
+			<row1>	-1.1909 -0.1046 -0.1042 0.0000	</row1>
+			<row2>	-0.0872 0.0000 0.9962 0.0000	</row2>
+			<row3>	-0.5620 0.1000 -4.5310 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	0.0868 0.9962 -0.0076 0.0000	</row0>
+			<row1>	1.1909 -0.1046 -0.1042 0.0000	</row1>
+			<row2>	-0.0872 0.0000 -0.9962 0.0000	</row2>
+			<row3>	0.5720 0.1000 -4.5310 1.0000	</row3>
+		</transform>
+	</node>
+</RSC025_Donskoy_1948_Stern_dp.skel_ext>

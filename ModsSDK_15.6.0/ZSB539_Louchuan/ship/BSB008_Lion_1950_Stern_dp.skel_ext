@@ -1,0 +1,23 @@
+<BSB008_Lion_1950_Stern_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	-0.3156 0.9478 -0.0459 0.0000	</row0>
+			<row1>	-1.8758 -0.6378 -0.2726 0.0000	</row1>
+			<row2>	-0.1438 0.0000 0.9896 0.0000	</row2>
+			<row3>	-0.7068 0.1738 -5.8834 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	0.3156 0.9478 -0.0459 0.0000	</row0>
+			<row1>	1.8758 -0.6378 -0.2726 0.0000	</row1>
+			<row2>	-0.1438 0.0000 -0.9896 0.0000	</row2>
+			<row3>	0.6963 0.1738 -5.8834 1.0000	</row3>
+		</transform>
+	</node>
+</BSB008_Lion_1950_Stern_dp.skel_ext>

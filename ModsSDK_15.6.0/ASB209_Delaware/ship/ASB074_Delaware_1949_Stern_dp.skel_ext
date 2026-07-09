@@ -1,0 +1,23 @@
+<ASB074_Delaware_1949_Stern_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	-0.2485 0.9686 -0.0092 0.0000	</row0>
+			<row1>	-1.9321 -0.4970 -0.1416 0.0000	</row1>
+			<row2>	-0.0709 -0.0087 0.9974 0.0000	</row2>
+			<row3>	-0.9870 0.1835 -5.6110 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	0.2485 0.9686 -0.0092 0.0000	</row0>
+			<row1>	1.9321 -0.4970 -0.1416 0.0000	</row1>
+			<row2>	-0.0709 0.0087 -0.9974 0.0000	</row2>
+			<row3>	1.0160 0.1835 -5.6110 1.0000	</row3>
+		</transform>
+	</node>
+</ASB074_Delaware_1949_Stern_dp.skel_ext>

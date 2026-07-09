@@ -1,0 +1,23 @@
+<USC309_Encounter_1943_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.3725 0.9265 0.0526 0.0000	</row0>
+			<row1>	-2.7523 -1.1285 0.3888 0.0000	</row1>
+			<row2>	0.1399 0.0000 0.9902 0.0000	</row2>
+			<row3>	-0.3714 0.1860 4.7181 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.3736 0.9263 0.0483 0.0000	</row0>
+			<row1>	2.7561 -1.1301 0.3564 0.0000	</row1>
+			<row2>	0.1282 0.0000 -0.9917 0.0000	</row2>
+			<row3>	0.3754 0.1860 4.7181 1.0000	</row3>
+		</transform>
+	</node>
+</USC309_Encounter_1943_Bow_dp.skel_ext>

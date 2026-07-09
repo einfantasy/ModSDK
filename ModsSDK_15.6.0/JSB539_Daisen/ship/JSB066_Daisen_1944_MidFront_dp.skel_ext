@@ -1,0 +1,43 @@
+<JSB066_Daisen_1944_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.2800 0.9599 -0.0115 0.0000	</row0>
+			<row1>	-0.9499 -0.2753 0.1481 0.0000	</row1>
+			<row2>	0.1390 0.0523 0.9889 0.0000	</row2>
+			<row3>	-0.6260 0.2040 5.3190 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.2800 0.9599 -0.0115 0.0000	</row0>
+			<row1>	0.9499 -0.2753 0.1481 0.0000	</row1>
+			<row2>	0.1390 -0.0523 -0.9889 0.0000	</row2>
+			<row3>	0.6380 0.2040 5.3190 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-5.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.4490 0.7142 3.1240 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	5.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.4610 0.7142 3.1240 1.0000	</row3>
+		</transform>
+	</node>
+</JSB066_Daisen_1944_MidFront_dp.skel_ext>

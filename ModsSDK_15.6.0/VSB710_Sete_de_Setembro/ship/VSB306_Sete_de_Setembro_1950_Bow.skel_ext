@@ -1,0 +1,513 @@
+<VSB306_Sete_de_Setembro_1950_Bow.skel_ext>
+	<exported>	true	</exported>
+	<node>
+		<identifier>	MP_CM010_Fire_Hose_Reel	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.0000 -1.0000 0.0000 0.0000	</row0>
+			<row1>	1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.0185 0.4614 5.9173 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_CM010_Fire_Hose_Reel.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.0000 -1.0000 0.0000 0.0000	</row0>
+			<row1>	0.9659 0.0000 -0.2588 0.0000	</row1>
+			<row2>	0.2588 0.0000 0.9659 0.0000	</row2>
+			<row3>	-0.2252 0.4614 6.4822 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_CM010_Fire_Hose_Reel.002	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.0000 -1.0000 0.0000 0.0000	</row0>
+			<row1>	0.9659 0.0000 0.2588 0.0000	</row1>
+			<row2>	-0.2588 0.0000 0.9659 0.0000	</row2>
+			<row3>	0.2252 0.4614 6.4822 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_CM011_Fire_Fighting_Gear	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0263 0.4623 4.8968 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_CM011_Fire_Fighting_Gear.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0276 0.4621 5.9538 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_CM011_Fire_Fighting_Gear.002	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+			<row3>	0.2048 0.4621 6.5708 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_CM011_Fire_Fighting_Gear.003	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+			<row3>	-0.2048 0.4621 6.5708 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_CM109_Leadsman_Platform	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.1613 -0.9864 0.0325 0.0000	</row0>
+			<row1>	0.9675 0.1646 0.1921 0.0000	</row1>
+			<row2>	-0.1948 0.0004 0.9808 0.0000	</row2>
+			<row3>	1.0302 0.4730 3.5686 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_CM109_Leadsman_Platform.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.1614 -0.9864 0.0325 0.0000	</row0>
+			<row1>	-0.9675 0.1646 0.1921 0.0000	</row1>
+			<row2>	-0.1948 -0.0004 -0.9808 0.0000	</row2>
+			<row3>	-1.0302 0.4730 3.5686 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_VM004_Anchor_down	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.9525 0.2926 -0.0850 0.0000	</row0>
+			<row1>	0.2323 0.5167 -0.8240 0.0000	</row1>
+			<row2>	-0.1972 -0.8046 -0.5601 0.0000	</row2>
+			<row3>	0.1227 0.3390 6.8305 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_VM004_Anchor_down.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.9525 -0.2926 0.0850 0.0000	</row0>
+			<row1>	-0.2323 0.5167 -0.8240 0.0000	</row1>
+			<row2>	0.1972 -0.8046 -0.5601 0.0000	</row2>
+			<row3>	-0.1227 0.3390 6.8305 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_VM005_Anchor_top	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.9687 0.0719 0.2377 0.0000	</row0>
+			<row1>	-0.1510 0.5894 -0.7936 0.0000	</row1>
+			<row2>	-0.1972 -0.8046 -0.5601 0.0000	</row2>
+			<row3>	0.1211 0.3356 6.8362 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_VM005_Anchor_top.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.9687 -0.0719 -0.2377 0.0000	</row0>
+			<row1>	0.1510 0.5894 -0.7936 0.0000	</row1>
+			<row2>	0.1972 -0.8046 -0.5601 0.0000	</row2>
+			<row3>	-0.1211 0.3356 6.8362 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_VM007_Turtles_box	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.0314 0.5146 4.9054 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_VM015_Reels	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0480 0.4609 4.3489 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_VM015_Reels.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.0480 0.4609 4.3489 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_VM015_Reels.002	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+			<row3>	0.3033 0.4611 5.0441 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_VM015_Reels.003	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+			<row3>	-0.3035 0.4611 5.0441 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_VM052_Break_Handwheel	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	-0.3995 0.4619 4.1351 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_VM052_Break_Handwheel.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.3972 0.4619 4.1351 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_VM5094_Hatch	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.3406 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.3406 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.3406 0.0000	</row2>
+			<row3>	0.0600 0.4529 4.7929 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_VM850_Signal_Lamp	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.0000 0.8783 7.1715 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_VM989_Bollard	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.3073 0.0000 0.2795 0.0000	</row0>
+			<row1>	0.0000 1.3369 0.0000 0.0000	</row1>
+			<row2>	-0.2795 0.0000 1.3073 0.0000	</row2>
+			<row3>	0.3371 0.4611 5.8822 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_VM989_Bollard.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.2843 0.0000 -0.3713 0.0000	</row0>
+			<row1>	0.0000 1.3369 0.0000 0.0000	</row1>
+			<row2>	0.3713 0.0000 1.2843 0.0000	</row2>
+			<row3>	-0.7216 0.4611 4.5013 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_VM989_Bollard.002	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.3073 0.0000 -0.2795 0.0000	</row0>
+			<row1>	0.0000 1.3369 0.0000 0.0000	</row1>
+			<row2>	0.2795 0.0000 1.3073 0.0000	</row2>
+			<row3>	-0.3371 0.4611 5.8822 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_VM989_Bollard.003	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.3200 0.0000 0.2116 0.0000	</row0>
+			<row1>	0.0000 1.3369 0.0000 0.0000	</row1>
+			<row2>	-0.2116 0.0000 1.3200 0.0000	</row2>
+			<row3>	1.0236 0.4611 3.1718 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_VM989_Bollard.004	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.3200 0.0000 -0.2116 0.0000	</row0>
+			<row1>	0.0000 1.3369 0.0000 0.0000	</row1>
+			<row2>	0.2116 0.0000 1.3200 0.0000	</row2>
+			<row3>	-1.0236 0.4611 3.1718 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_VM989_Bollard.005	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.2843 0.0000 0.3713 0.0000	</row0>
+			<row1>	0.0000 1.3369 0.0000 0.0000	</row1>
+			<row2>	-0.3713 0.0000 1.2843 0.0000	</row2>
+			<row3>	0.7216 0.4611 4.5013 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_VM990_Paravane_Gear_Fairlead	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.1394 0.0000 -0.5836 0.0000	</row0>
+			<row1>	0.0000 0.6000 0.0000 0.0000	</row1>
+			<row2>	0.5836 0.0000 0.1394 0.0000	</row2>
+			<row3>	0.2515 0.4564 6.0941 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	MP_VM990_Paravane_Gear_Fairlead.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.1394 0.0000 0.5836 0.0000	</row0>
+			<row1>	0.0000 0.6000 0.0000 0.0000	</row1>
+			<row2>	-0.5836 0.0000 0.1394 0.0000	</row2>
+			<row3>	-0.2515 0.4564 6.0941 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS001_YHBM_M_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.9962 0.0865 0.0000	</row1>
+			<row2>	0.0000 -0.0865 0.9962 0.0000	</row2>
+			<row3>	0.0000 0.4687 7.1312 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS002_YHBL_M_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.8588 0.0000 -0.1078 0.0000	</row0>
+			<row1>	0.0000 0.8656 0.0000 0.0000	</row1>
+			<row2>	0.1078 0.0000 0.8588 0.0000	</row2>
+			<row3>	0.0000 0.4678 7.1413 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS003_YHBR_M_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.8588 0.0000 0.1078 0.0000	</row0>
+			<row1>	0.0000 0.8656 0.0000 0.0000	</row1>
+			<row2>	-0.1078 0.0000 0.8588 0.0000	</row2>
+			<row3>	0.0000 0.4678 7.1413 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS010_YHWM_L_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.6000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.6000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 0.6000 0.0000	</row2>
+			<row3>	0.0000 -0.0367 6.8565 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS011_YHWL_M_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0196 0.0066 -0.1869 0.0000	</row0>
+			<row1>	-0.0066 1.0366 0.0010 0.0000	</row1>
+			<row2>	0.1869 0.0002 1.0196 0.0000	</row2>
+			<row3>	-1.0850 -0.0298 3.2727 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS011_YHWL_M_1.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9914 0.0379 -0.3005 0.0000	</row0>
+			<row1>	-0.0364 1.0359 0.0105 0.0000	</row1>
+			<row2>	0.3007 0.0005 0.9920 0.0000	</row2>
+			<row3>	-0.8816 -0.0303 4.1337 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS011_YHWL_M_1.002	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9485 0.0989 -0.4062 0.0000	</row0>
+			<row1>	-0.0909 1.0319 0.0389 0.0000	</row1>
+			<row2>	0.4081 0.0000 0.9529 0.0000	</row2>
+			<row3>	-0.5796 -0.0301 4.9657 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS011_YHWL_M_1.003	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9724 0.0132 -0.3589 0.0000	</row0>
+			<row1>	-0.0129 1.0365 0.0032 0.0000	</row1>
+			<row2>	0.3589 0.0015 0.9725 0.0000	</row2>
+			<row3>	-0.2453 -0.0359 5.7818 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS012_YHWR_M_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9489 -0.0989 0.4064 0.0000	</row0>
+			<row1>	0.0909 1.0323 0.0389 0.0000	</row1>
+			<row2>	-0.4082 0.0000 0.9533 0.0000	</row2>
+			<row3>	0.5796 -0.0301 4.9657 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS012_YHWR_M_1.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0200 -0.0067 0.1869 0.0000	</row0>
+			<row1>	0.0066 1.0370 0.0010 0.0000	</row1>
+			<row2>	-0.1869 0.0002 1.0200 0.0000	</row2>
+			<row3>	1.0850 -0.0298 3.2727 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS012_YHWR_M_1.002	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9728 -0.0132 0.3591 0.0000	</row0>
+			<row1>	0.0129 1.0369 0.0032 0.0000	</row1>
+			<row2>	-0.3591 0.0015 0.9728 0.0000	</row2>
+			<row3>	0.2453 -0.0359 5.7818 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS012_YHWR_M_1.003	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9917 -0.0379 0.3006 0.0000	</row0>
+			<row1>	0.0365 1.0363 0.0105 0.0000	</row1>
+			<row2>	-0.3008 0.0005 0.9924 0.0000	</row2>
+			<row3>	0.8816 -0.0303 4.1337 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS020_YHBU_M_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0865 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0865 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0865 0.0000	</row2>
+			<row3>	0.0000 -0.3001 6.6059 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS051_YHDL_L_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.1963 0.0000 -0.2664 0.0000	</row0>
+			<row1>	0.0000 1.2256 0.0000 0.0000	</row1>
+			<row2>	0.2664 0.0000 1.1963 0.0000	</row2>
+			<row3>	-0.9819 0.4555 3.8356 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS052_YHDR_L_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.1963 0.0000 0.2664 0.0000	</row0>
+			<row1>	0.0000 1.2256 0.0000 0.0000	</row1>
+			<row2>	-0.2664 0.0000 1.1963 0.0000	</row2>
+			<row3>	0.9819 0.4555 3.8356 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS053_YHDC_S_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.2232 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.2232 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.2232 0.0000	</row2>
+			<row3>	-0.4239 0.4795 4.9034 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS053_YHDC_S_1.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.2232 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.2232 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.2232 0.0000	</row2>
+			<row3>	0.4239 0.4795 4.9034 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS080_YHSL_M_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9526 0.3948 -0.2548 0.0000	</row0>
+			<row1>	-0.3859 0.9860 0.0848 0.0000	</row1>
+			<row2>	0.2680 0.0165 1.0277 0.0000	</row2>
+			<row3>	-0.1067 0.3370 6.7614 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS081_YHSR_M_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.6997 -0.2530 0.2940 0.0000	</row0>
+			<row1>	0.2509 0.7577 0.0550 0.0000	</row1>
+			<row2>	-0.2958 0.0441 0.7420 0.0000	</row2>
+			<row3>	0.4526 0.3108 6.7294 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS085_YHSC_S_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.1371 0.0000 -0.4502 0.0000	</row0>
+			<row1>	0.0000 0.4706 0.0000 0.0000	</row1>
+			<row2>	0.4502 0.0000 -0.1371 0.0000	</row2>
+			<row3>	-0.6703 0.4494 4.9528 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS085_YHSC_S_1.001	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.1371 0.0000 0.4502 0.0000	</row0>
+			<row1>	0.0000 0.4706 0.0000 0.0000	</row1>
+			<row2>	-0.4502 0.0000 -0.1371 0.0000	</row2>
+			<row3>	0.6703 0.4494 4.9528 1.0000	</row3>
+		</transform>
+	</node>
+</VSB306_Sete_de_Setembro_1950_Bow.skel_ext>

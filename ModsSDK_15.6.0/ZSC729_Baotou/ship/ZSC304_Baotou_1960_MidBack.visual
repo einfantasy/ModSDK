@@ -1,0 +1,865 @@
+<ZSC304_Baotou_1960_MidBack.visual>
+	<skeleton>
+		<node>
+			<identifier>	Scene Root	</identifier>
+			<transform>
+				<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+				<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+				<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+			</transform>
+			<node>
+				<identifier>	MidBack	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+				<node>
+					<identifier>	HP_Ship_death_2	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 -0.3525 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_ZD_7	</identifier>
+					<transform>
+						<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+						<row3>	-0.2995 0.7704 -2.4319 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_ZD_8	</identifier>
+					<transform>
+						<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+						<row3>	0.2996 0.7704 -2.4319 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_ZF_3	</identifier>
+					<transform>
+						<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+						<row3>	0.0000 1.0609 -2.5710 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_ZGA_5	</identifier>
+					<transform>
+						<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+						<row3>	-0.4677 0.4584 -1.0990 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_ZGA_6	</identifier>
+					<transform>
+						<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+						<row3>	0.4677 0.4584 -1.0990 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_ZGM_3	</identifier>
+					<transform>
+						<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+						<row3>	0.0000 0.5487 -3.7642 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_ZGS_4	</identifier>
+					<transform>
+						<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+						<row3>	-0.6009 0.2744 -1.9008 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_ZGS_5	</identifier>
+					<transform>
+						<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+						<row3>	0.6009 0.2744 -1.9008 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_ZGS_6	</identifier>
+					<transform>
+						<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+						<row3>	0.0000 0.7438 -2.9640 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_ZGT_1	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	-0.7012 0.3111 -0.7000 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_ZGT_2	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.7012 0.3111 -0.7000 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_ZRS_13	</identifier>
+					<transform>
+						<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+						<row3>	-0.3334 0.6247 -0.7009 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_ZRS_14	</identifier>
+					<transform>
+						<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+						<row3>	0.3334 0.6247 -0.7009 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_ZRS_15	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.7711 -0.8993 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_ZRS_16	</identifier>
+					<transform>
+						<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+						<row3>	-0.3008 1.0703 -1.8166 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_ZRS_17	</identifier>
+					<transform>
+						<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+						<row3>	0.3008 1.0703 -1.8166 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_ZRS_18	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 3.0562 -1.9638 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_ZRS_19	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 2.2164 -2.0106 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_ZRS_20	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	-0.1000 2.7088 -2.1232 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_ZRS_21	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.1000 2.7085 -2.1232 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_ZRS_22	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 3.1072 -2.1258 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_ZRS_23	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 2.2651 -2.4959 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_ZRS_24	</identifier>
+					<transform>
+						<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+						<row3>	0.0000 1.5275 -2.5086 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_flag_nation	</identifier>
+					<transform>
+						<row0>	1.0000 -0.0037 0.0003 0.0000	</row0>
+						<row1>	0.0037 0.9871 -0.1601 0.0000	</row1>
+						<row2>	0.0003 0.1601 0.9871 0.0000	</row2>
+						<row3>	0.0304 3.0328 -2.2955 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MidBack_DeckHouse	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MidBack_crack_MidFront	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+					</transform>
+					<node>
+						<identifier>	MidBack_crack_MidFront_in	</identifier>
+						<transform>
+							<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+							<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+							<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+							<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+						</transform>
+					</node>
+				</node>
+				<node>
+					<identifier>	MidBack_crack_Stern	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+					</transform>
+					<node>
+						<identifier>	MidBack_crack_Stern_in	</identifier>
+						<transform>
+							<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+							<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+							<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+							<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+						</transform>
+					</node>
+				</node>
+				<node>
+					<identifier>	MidBack_hide	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MidBack_patch_Stern	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+					</transform>
+					<node>
+						<identifier>	MidBack_patch_Stern_wire	</identifier>
+						<transform>
+							<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+							<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+							<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+							<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+						</transform>
+					</node>
+				</node>
+				<node>
+					<identifier>	MidBack_wire	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MidBack_wire_flagfal	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+					</transform>
+				</node>
+			</node>
+		</node>
+	</skeleton>
+	<properties>
+		<underwaterModel>	false	</underwaterModel>
+		<abovewaterModel>	true	</abovewaterModel>
+	</properties>
+	<boundingBox>
+		<min>	-0.8095 -0.5461 -4.4211	</min>
+		<max>	0.8059 3.1077 -0.0495	</max>
+	</boundingBox>
+	<renderSets>
+		<renderSet>
+			<name>	MidBackShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_DeckHouseShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_DeckHouse	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_DeckHouse	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960_DeckHouse.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_DeckHouse_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_DeckHouse	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_DeckHouse	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960_DeckHouse.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_DeckHouse_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_DeckHouse	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_DeckHouse	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960_DeckHouse.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_DeckHouse_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_DeckHouse	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_DeckHouse	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960_DeckHouse.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFrontShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_inShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMAT_PBS_Crack	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_in_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMAT_PBS_Crack	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_in_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMAT_PBS_Crack	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_in_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMAT_PBS_Crack	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_MidFront_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_MidFront	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_SternShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_inShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMAT_PBS_Crack	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_in_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMAT_PBS_Crack	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_in_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMAT_PBS_Crack	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_in_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMAT_PBS_Crack	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_crack_Stern_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_crack_Stern	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_hideShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_hide	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_hide_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_hide	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_hide_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_hide	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_patch_SternShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_patch_Stern	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_patch_Stern_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_patch_Stern	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_patch_Stern_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_patch_Stern	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_patch_Stern_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_patch_Stern	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_patch_Stern_wireShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_patch_Stern_wire	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPWIRE_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_patch_Stern_wire_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_patch_Stern_wire	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPWIRE_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_wireShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_wire	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPWIRE_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_wire_flagfalShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_wire_flagfal	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPWIRE_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_wire_flagfal_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_wire_flagfal	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPWIRE_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_wire_flagfal_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_wire_flagfal	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPWIRE_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_wire_flagfal_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_wire_flagfal	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPWIRE_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_wire_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_wire	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPWIRE_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_wire_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_wire	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPWIRE_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_wire_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidBack_wire	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPWIRE_PBS_Hull	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/ZSC729_Baotou/ship/ZSC304_Baotou_1960_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+	</renderSets>
+	<lods>
+		<lod>
+			<extent>	17.0000	</extent>
+			<castsShadow>	true	</castsShadow>
+			<renderSets>
+				<renderSet>	MidBackShape	</renderSet>
+				<renderSet>	MidBack_DeckHouseShape	</renderSet>
+				<renderSet>	MidBack_crack_MidFrontShape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_inShape	</renderSet>
+				<renderSet>	MidBack_crack_SternShape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_inShape	</renderSet>
+				<renderSet>	MidBack_hideShape	</renderSet>
+				<renderSet>	MidBack_patch_SternShape	</renderSet>
+				<renderSet>	MidBack_patch_Stern_wireShape	</renderSet>
+				<renderSet>	MidBack_wireShape	</renderSet>
+				<renderSet>	MidBack_wire_flagfalShape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	35.0000	</extent>
+			<castsShadow>	true	</castsShadow>
+			<renderSets>
+				<renderSet>	MidBack_DeckHouse_lod1Shape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_in_lod1Shape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_lod1Shape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_in_lod1Shape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_lod1Shape	</renderSet>
+				<renderSet>	MidBack_hide_lod1Shape	</renderSet>
+				<renderSet>	MidBack_lod1Shape	</renderSet>
+				<renderSet>	MidBack_patch_Stern_lod1Shape	</renderSet>
+				<renderSet>	MidBack_patch_Stern_wire_lod1Shape	</renderSet>
+				<renderSet>	MidBack_wire_flagfal_lod1Shape	</renderSet>
+				<renderSet>	MidBack_wire_lod1Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	45.0000	</extent>
+			<castsShadow>	true	</castsShadow>
+			<renderSets>
+				<renderSet>	MidBack_DeckHouse_lod2Shape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_in_lod2Shape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_lod2Shape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_in_lod2Shape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_lod2Shape	</renderSet>
+				<renderSet>	MidBack_hide_lod2Shape	</renderSet>
+				<renderSet>	MidBack_lod2Shape	</renderSet>
+				<renderSet>	MidBack_patch_Stern_lod2Shape	</renderSet>
+				<renderSet>	MidBack_wire_flagfal_lod2Shape	</renderSet>
+				<renderSet>	MidBack_wire_lod2Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	400.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	MidBack_DeckHouse_lod3Shape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_in_lod3Shape	</renderSet>
+				<renderSet>	MidBack_crack_MidFront_lod3Shape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_in_lod3Shape	</renderSet>
+				<renderSet>	MidBack_crack_Stern_lod3Shape	</renderSet>
+				<renderSet>	MidBack_lod3Shape	</renderSet>
+				<renderSet>	MidBack_patch_Stern_lod3Shape	</renderSet>
+				<renderSet>	MidBack_wire_flagfal_lod3Shape	</renderSet>
+				<renderSet>	MidBack_wire_lod3Shape	</renderSet>
+			</renderSets>
+		</lod>
+	</lods>
+</ZSC304_Baotou_1960_MidBack.visual>

@@ -1,0 +1,23 @@
+<WSD024_Lambros_Katsonis_1950_MidBack_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	-0.2961 0.9545 -0.0361 0.0000	</row0>
+			<row1>	-1.8949 -0.5966 -0.2310 0.0000	</row1>
+			<row2>	-0.1210 0.0000 0.9927 0.0000	</row2>
+			<row3>	-0.2759 0.0851 -3.2577 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.2415 0.9700 -0.0283 0.0000	</row0>
+			<row1>	1.9268 -0.4862 -0.2257 0.0000	</row1>
+			<row2>	-0.1163 0.0000 -0.9932 0.0000	</row2>
+			<row3>	0.2770 0.0851 -3.2577 1.0000	</row3>
+		</transform>
+	</node>
+</WSD024_Lambros_Katsonis_1950_MidBack_dp.skel_ext>

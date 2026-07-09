@@ -1,0 +1,23 @@
+<ASB023_Georgia_1945_Stern_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	-0.1063 0.9943 -0.0062 0.0000	</row0>
+			<row1>	-1.9852 -0.2130 -0.1155 0.0000	</row1>
+			<row2>	-0.0581 0.0000 0.9983 0.0000	</row2>
+			<row3>	-1.0596 0.1755 -4.8329 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	0.1063 0.9943 -0.0062 0.0000	</row0>
+			<row1>	1.9852 -0.2130 -0.1155 0.0000	</row1>
+			<row2>	-0.0581 0.0000 -0.9983 0.0000	</row2>
+			<row3>	1.0676 0.1755 -4.8329 1.0000	</row3>
+		</transform>
+	</node>
+</ASB023_Georgia_1945_Stern_dp.skel_ext>

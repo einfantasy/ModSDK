@@ -1,0 +1,23 @@
+<HSC303_Menno_Van_Coehoorn_1955_Stern_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	-0.1532 0.9881 -0.0147 0.0000	</row0>
+			<row1>	-1.9671 -0.3078 -0.1889 0.0000	</row1>
+			<row2>	-0.0956 0.0000 0.9954 0.0000	</row2>
+			<row3>	-0.4480 0.1240 -3.7700 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	-0.0834 0.9965 0.0074 0.0000	</row0>
+			<row1>	1.9852 0.1675 -0.1754 0.0000	</row1>
+			<row2>	-0.0880 0.0000 -0.9962 0.0000	</row2>
+			<row3>	0.4479 0.1238 -3.7695 1.0000	</row3>
+		</transform>
+	</node>
+</HSC303_Menno_Van_Coehoorn_1955_Stern_dp.skel_ext>

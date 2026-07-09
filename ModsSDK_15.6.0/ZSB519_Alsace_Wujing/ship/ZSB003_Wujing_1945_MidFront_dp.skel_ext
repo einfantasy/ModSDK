@@ -1,0 +1,43 @@
+<ZSB003_Wujing_1945_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.0692 0.9976 0.0085 0.0000	</row0>
+			<row1>	-0.9901 -0.0698 0.1216 0.0000	</row1>
+			<row2>	0.1219 0.0000 0.9925 0.0000	</row2>
+			<row3>	-0.8830 0.2209 3.9860 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0692 0.9976 0.0085 0.0000	</row0>
+			<row1>	0.9901 -0.0698 0.1216 0.0000	</row1>
+			<row2>	0.1219 0.0000 -0.9925 0.0000	</row2>
+			<row3>	0.8800 0.2210 3.9860 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.2903 0.9549 0.3276 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.2900 0.9550 0.3280 1.0000	</row3>
+		</transform>
+	</node>
+</ZSB003_Wujing_1945_MidFront_dp.skel_ext>

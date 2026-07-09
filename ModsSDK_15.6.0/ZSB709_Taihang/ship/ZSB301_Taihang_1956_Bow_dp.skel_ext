@@ -1,0 +1,23 @@
+<ZSB301_Taihang_1956_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.3420 0.9391 0.0331 0.0000	</row0>
+			<row1>	-1.8403 -0.6836 0.3820 0.0000	</row1>
+			<row2>	0.1907 0.0349 0.9810 0.0000	</row2>
+			<row3>	-0.8090 0.2370 4.2210 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.3420 0.9391 0.0331 0.0000	</row0>
+			<row1>	1.3802 -0.5127 0.2865 0.0000	</row1>
+			<row2>	0.1907 -0.0349 -0.9810 0.0000	</row2>
+			<row3>	0.8050 0.2370 4.2210 1.0000	</row3>
+		</transform>
+	</node>
+</ZSB301_Taihang_1956_Bow_dp.skel_ext>

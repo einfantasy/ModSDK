@@ -1,0 +1,133 @@
+<IGM2007_203mm_55_quadruple_dead.skel_ext>
+	<exported>	true	</exported>
+	<node>
+		<identifier>	SP_YMS100_YGBS_M_1	</identifier>
+		<parent>	Turret_dead	</parent>
+		<transform>
+			<row0>	0.8113 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.8113 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 0.9234 0.0000	</row2>
+			<row3>	0.0533 0.0639 0.0648 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS100_YGBS_M_1.001	</identifier>
+		<parent>	Turret_dead	</parent>
+		<transform>
+			<row0>	0.8113 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.8102 0.0432 0.0000	</row1>
+			<row2>	0.0000 -0.0492 0.9221 0.0000	</row2>
+			<row3>	0.1600 0.0639 0.0787 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS101_YGCS_M_1	</identifier>
+		<parent>	Turret_dead	</parent>
+		<transform>
+			<row0>	0.8055 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.9076 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 0.8055 0.0000	</row2>
+			<row3>	-0.1600 0.0136 0.2466 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS101_YGCS_M_1.001	</identifier>
+		<parent>	Turret_dead	</parent>
+		<transform>
+			<row0>	0.8055 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.9076 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 0.8055 0.0000	</row2>
+			<row3>	0.0533 0.0136 0.2466 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS101_YGCS_M_1.002	</identifier>
+		<parent>	Turret_dead	</parent>
+		<transform>
+			<row0>	0.8055 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.9076 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 0.8055 0.0000	</row2>
+			<row3>	-0.0533 0.0136 0.2466 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS102_YGFL_M_1	</identifier>
+		<parent>	Turret_dead	</parent>
+		<transform>
+			<row0>	1.0460 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0616 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.1210 0.0000	</row2>
+			<row3>	-0.2405 0.1664 -0.2543 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS103_YGFR_M_1	</identifier>
+		<parent>	Turret_dead	</parent>
+		<transform>
+			<row0>	1.0458 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0614 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.1213 0.0000	</row2>
+			<row3>	0.2405 0.1664 -0.2543 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS104_YGRS_M_1	</identifier>
+		<parent>	Turret_dead	</parent>
+		<transform>
+			<row0>	0.7580 0.0000 0.0975 0.0000	</row0>
+			<row1>	0.0115 0.7589 -0.0894 0.0000	</row1>
+			<row2>	-0.1123 0.1045 0.8726 0.0000	</row2>
+			<row3>	-0.2343 0.1311 0.6788 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS104_YGRS_M_1.001	</identifier>
+		<parent>	Turret_dead	</parent>
+		<transform>
+			<row0>	0.7567 0.0000 0.1073 0.0000	</row0>
+			<row1>	0.0000 0.7642 0.0000 0.0000	</row1>
+			<row2>	-0.1243 0.0000 0.8772 0.0000	</row2>
+			<row3>	-0.1300 0.0639 0.6765 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS104_YGRS_M_1.002	</identifier>
+		<parent>	Turret_dead	</parent>
+		<transform>
+			<row0>	0.7642 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.7642 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 0.8860 0.0000	</row2>
+			<row3>	0.0533 0.0639 0.6819 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS104_YGRS_M_1.003	</identifier>
+		<parent>	Turret_dead	</parent>
+		<transform>
+			<row0>	0.7642 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.7630 0.0437 0.0000	</row1>
+			<row2>	0.0000 -0.0507 0.8845 0.0000	</row2>
+			<row3>	0.1600 0.0303 0.6819 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS105_YGLC_M_1	</identifier>
+		<parent>	Turret_dead	</parent>
+		<transform>
+			<row0>	0.7773 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.7773 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 0.7773 0.0000	</row2>
+			<row3>	0.0000 0.1654 -0.2899 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS106_YGLL_M_1	</identifier>
+		<parent>	Turret_dead	</parent>
+		<transform>
+			<row0>	0.9586 -0.1992 -0.2035 0.0000	</row0>
+			<row1>	0.1948 0.9800 -0.0414 0.0000	</row1>
+			<row2>	0.2077 0.0000 0.9782 0.0000	</row2>
+			<row3>	-0.2662 0.1030 0.0189 1.0000	</row3>
+		</transform>
+	</node>
+</IGM2007_203mm_55_quadruple_dead.skel_ext>

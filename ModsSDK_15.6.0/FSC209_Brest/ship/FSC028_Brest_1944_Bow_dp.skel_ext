@@ -1,0 +1,23 @@
+<FSC028_Brest_1944_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.2104 0.9770 0.0332 0.0000	</row0>
+			<row1>	-2.8954 -0.6390 0.4564 0.0000	</row1>
+			<row2>	0.1557 0.0000 0.9878 0.0000	</row2>
+			<row3>	-0.5904 0.2052 3.5000 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.1405 0.9898 0.0240 0.0000	</row0>
+			<row1>	2.9271 -0.4277 0.4990 0.0000	</row1>
+			<row2>	0.1680 0.0000 -0.9858 0.0000	</row2>
+			<row3>	0.5915 0.2052 3.5000 1.0000	</row3>
+		</transform>
+	</node>
+</FSC028_Brest_1944_Bow_dp.skel_ext>

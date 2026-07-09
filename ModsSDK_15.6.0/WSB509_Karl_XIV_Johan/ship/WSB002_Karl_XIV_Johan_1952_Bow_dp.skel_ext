@@ -1,0 +1,23 @@
+<WSB002_Karl_XIV_Johan_1952_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.2563 0.9659 0.0360 0.0000	</row0>
+			<row1>	-0.9565 -0.2588 0.1344 0.0000	</row1>
+			<row2>	0.1392 0.0000 0.9903 0.0000	</row2>
+			<row3>	-0.5550 0.2250 5.4170 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.3425 0.9391 0.0271 0.0000	</row0>
+			<row1>	1.8467 -0.6836 0.3499 0.0000	</row1>
+			<row2>	0.1735 -0.0349 -0.9842 0.0000	</row2>
+			<row3>	0.5420 0.2250 5.4170 1.0000	</row3>
+		</transform>
+	</node>
+</WSB002_Karl_XIV_Johan_1952_Bow_dp.skel_ext>

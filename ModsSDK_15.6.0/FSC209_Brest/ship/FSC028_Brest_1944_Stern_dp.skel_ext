@@ -1,0 +1,23 @@
+<FSC028_Brest_1944_Stern_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	-0.0735 0.9973 -0.0111 0.0000	</row0>
+			<row1>	-1.9719 -0.1487 -0.2990 0.0000	</row1>
+			<row2>	-0.1499 0.0000 0.9887 0.0000	</row2>
+			<row3>	-0.4783 0.2162 -5.5138 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	0.0735 0.9973 -0.0111 0.0000	</row0>
+			<row1>	1.9719 -0.1487 -0.2990 0.0000	</row1>
+			<row2>	-0.1499 0.0000 -0.9887 0.0000	</row2>
+			<row3>	0.4842 0.2162 -5.5138 1.0000	</row3>
+		</transform>
+	</node>
+</FSC028_Brest_1944_Stern_dp.skel_ext>

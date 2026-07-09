@@ -1,0 +1,10 @@
+<ISS302_Pietro_Micca_1935_MidFront.model>
+	<visual>	PnFMods/ModsSDK.zip/ISS108_Pietro_Micca/ship/ISS302_Pietro_Micca_1935_MidFront.visual	</visual>
+	<animations />
+	<dyes />
+	<skeletonExtenders>
+		<skeletonExtender>	PnFMods/ModsSDK.zip/ISS108_Pietro_Micca/ship/ISS302_Pietro_Micca_1935_MidFront.skel_ext	</skeletonExtender>
+		<skeletonExtender>	PnFMods/ModsSDK.zip/ISS108_Pietro_Micca/ship/ISS302_Pietro_Micca_1935_MidFront_ep.skel_ext	</skeletonExtender>
+	</skeletonExtenders>
+	<metaData>	Wargaming.net	</metaData>
+</ISS302_Pietro_Micca_1935_MidFront.model>

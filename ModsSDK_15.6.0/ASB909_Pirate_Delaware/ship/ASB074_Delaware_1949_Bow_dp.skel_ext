@@ -1,0 +1,23 @@
+<ASB074_Delaware_1949_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.1572 0.9873 -0.0222 0.0000	</row0>
+			<row1>	-2.9070 -0.4495 0.5892 0.0000	</row1>
+			<row2>	0.1906 0.0523 0.9803 0.0000	</row2>
+			<row3>	-0.4170 0.2112 5.7780 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.1603 0.9868 -0.0216 0.0000	</row0>
+			<row1>	2.9058 -0.4592 0.5876 0.0000	</row1>
+			<row2>	0.1900 -0.0523 -0.9804 0.0000	</row2>
+			<row3>	0.4260 0.2112 5.7780 1.0000	</row3>
+		</transform>
+	</node>
+</ASB074_Delaware_1949_Bow_dp.skel_ext>

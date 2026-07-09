@@ -1,0 +1,43 @@
+<JSB056_Iwami_1944_MidBack_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-5.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.2280 1.0250 1.8320 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	5.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.2430 1.0250 1.8320 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midback_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	-0.1381 0.9904 0.0048 0.0000	</row0>
+			<row1>	-2.9694 -0.4146 0.1037 0.0000	</row1>
+			<row2>	0.0349 0.0000 0.9994 0.0000	</row2>
+			<row3>	-1.2201 0.2007 1.0569 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midback_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.1391 0.9903 0.0049 0.0000	</row0>
+			<row1>	2.9690 -0.4175 0.1038 0.0000	</row1>
+			<row2>	0.0349 0.0000 -0.9994 0.0000	</row2>
+			<row3>	1.2099 0.2007 1.0746 1.0000	</row3>
+		</transform>
+	</node>
+</JSB056_Iwami_1944_MidBack_dp.skel_ext>

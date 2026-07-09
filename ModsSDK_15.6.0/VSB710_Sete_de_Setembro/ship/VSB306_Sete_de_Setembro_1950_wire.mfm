@@ -1,0 +1,10 @@
+<VSB306_Sete_de_Setembro_1950_wire.mfm>
+	<fx>	PnFMods/ModsSDK.zip/VSB710_Sete_de_Setembro/ship/wire_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/ModsSDK.zip/VSB710_Sete_de_Setembro/ship/VSB306_Sete_de_Setembro_1950_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/ModsSDK.zip/VSB710_Sete_de_Setembro/ship/default_wires_mg.dds	</Texture>
+	</property>
+</VSB306_Sete_de_Setembro_1950_wire.mfm>

@@ -1,0 +1,43 @@
+<ISC304_Messina_1944_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-0.9690 0.0000 0.2470 0.0000	</row1>
+			<row2>	0.2470 0.0000 0.9690 0.0000	</row2>
+			<row3>	-0.1870 0.7380 1.4265 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.1890 0.7380 1.4265 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.0698 0.9976 0.0000 0.0000	</row0>
+			<row1>	-1.2968 -0.0907 0.0005 0.0000	</row1>
+			<row2>	0.0004 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.7430 0.1660 0.1010 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.3000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.7420 0.1660 0.1290 1.0000	</row3>
+		</transform>
+	</node>
+</ISC304_Messina_1944_MidFront_dp.skel_ext>

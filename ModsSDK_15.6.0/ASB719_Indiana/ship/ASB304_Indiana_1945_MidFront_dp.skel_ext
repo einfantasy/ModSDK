@@ -1,0 +1,23 @@
+<ASB304_Indiana_1945_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.1787 0.9839 -0.0090 0.0000	</row0>
+			<row1>	-1.1583 -0.2082 0.2344 0.0000	</row1>
+			<row2>	0.1906 0.0436 0.9807 0.0000	</row2>
+			<row3>	-0.6450 0.1670 3.7110 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.2288 0.9734 0.0072 0.0000	</row0>
+			<row1>	1.1390 -0.2697 0.2646 0.0000	</row1>
+			<row2>	0.2162 -0.0436 -0.9754 0.0000	</row2>
+			<row3>	0.6360 0.1670 3.7110 1.0000	</row3>
+		</transform>
+	</node>
+</ASB304_Indiana_1945_MidFront_dp.skel_ext>

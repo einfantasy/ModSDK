@@ -1,0 +1,23 @@
+<RSD023_Neustrashimy_1948_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.4106 0.9075 0.0883 0.0000	</row0>
+			<row1>	-0.8872 -0.4200 0.1909 0.0000	</row1>
+			<row2>	0.2103 0.0000 0.9776 0.0000	</row2>
+			<row3>	-0.1365 0.1905 3.7980 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.4106 0.9075 0.0883 0.0000	</row0>
+			<row1>	0.8872 -0.4200 0.1909 0.0000	</row1>
+			<row2>	0.2103 0.0000 -0.9776 0.0000	</row2>
+			<row3>	0.1542 0.1905 3.7980 1.0000	</row3>
+		</transform>
+	</node>
+</RSD023_Neustrashimy_1948_Bow_dp.skel_ext>

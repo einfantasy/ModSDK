@@ -1,0 +1,23 @@
+<ASC304_Fort_Worth_1944_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.2145 0.9763 -0.0283 0.0000	</row0>
+			<row1>	-1.9311 -0.4150 0.3143 0.0000	</row1>
+			<row2>	0.1475 0.0610 0.9872 0.0000	</row2>
+			<row3>	-0.2350 0.2362 6.2190 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.2132 0.9768 -0.0199 0.0000	</row0>
+			<row1>	0.9658 -0.2076 0.1553 0.0000	</row1>
+			<row2>	0.1476 -0.0523 -0.9877 0.0000	</row2>
+			<row3>	0.2518 0.2362 6.2190 1.0000	</row3>
+		</transform>
+	</node>
+</ASC304_Fort_Worth_1944_MidFront_dp.skel_ext>

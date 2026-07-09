@@ -1,0 +1,23 @@
+<JSB056_Iwami_1944_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.3368 0.9397 0.0597 0.0000	</row0>
+			<row1>	-1.3830 -0.5130 0.2720 0.0000	</row1>
+			<row2>	0.1908 0.0061 0.9816 0.0000	</row2>
+			<row3>	-0.7990 0.2210 4.2600 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.3420 0.9377 0.0606 0.0000	</row0>
+			<row1>	1.3802 -0.5209 0.2713 0.0000	</row1>
+			<row2>	0.1907 -0.0061 -0.9816 0.0000	</row2>
+			<row3>	0.7850 0.2210 4.2600 1.0000	</row3>
+		</transform>
+	</node>
+</JSB056_Iwami_1944_Bow_dp.skel_ext>

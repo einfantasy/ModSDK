@@ -1,0 +1,23 @@
+<ASC072_Vallejo_1948_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.1720 0.9848 0.0242 0.0000	</row0>
+			<row1>	-1.9504 -0.3473 0.2741 0.0000	</row1>
+			<row2>	0.1392 0.0000 0.9903 0.0000	</row2>
+			<row3>	-0.4220 0.2070 3.9530 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.1720 0.9848 0.0242 0.0000	</row0>
+			<row1>	2.9257 -0.5209 0.4112 0.0000	</row1>
+			<row2>	0.1392 0.0000 -0.9903 0.0000	</row2>
+			<row3>	0.4080 0.2070 3.9530 1.0000	</row3>
+		</transform>
+	</node>
+</ASC072_Vallejo_1948_Bow_dp.skel_ext>

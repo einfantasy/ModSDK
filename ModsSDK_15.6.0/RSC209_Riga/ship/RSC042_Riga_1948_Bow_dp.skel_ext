@@ -1,0 +1,23 @@
+<RSC042_Riga_1948_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.2686 0.9624 0.0411 0.0000	</row0>
+			<row1>	-2.8540 -0.8151 0.4364 0.0000	</row1>
+			<row2>	0.1512 0.0000 0.9885 0.0000	</row2>
+			<row3>	-0.4559 0.1654 4.4695 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.3224 0.9453 0.0493 0.0000	</row0>
+			<row1>	2.8033 -0.9786 0.4286 0.0000	</row1>
+			<row2>	0.1511 0.0000 -0.9885 0.0000	</row2>
+			<row3>	0.4594 0.1654 4.4695 1.0000	</row3>
+		</transform>
+	</node>
+</RSC042_Riga_1948_Bow_dp.skel_ext>

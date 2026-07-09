@@ -1,0 +1,23 @@
+<VSC011_Santander_1948_Stern_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	-0.2205 0.9751 -0.0245 0.0000	</row0>
+			<row1>	-1.9382 -0.4436 -0.2156 0.0000	</row1>
+			<row2>	-0.1106 0.0000 0.9939 0.0000	</row2>
+			<row3>	-0.6149 0.1718 -4.2022 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	0.2205 0.9751 -0.0245 0.0000	</row0>
+			<row1>	1.9382 -0.4436 -0.2156 0.0000	</row1>
+			<row2>	-0.1106 0.0000 -0.9939 0.0000	</row2>
+			<row3>	0.6159 0.1718 -4.2022 1.0000	</row3>
+		</transform>
+	</node>
+</VSC011_Santander_1948_Stern_dp.skel_ext>

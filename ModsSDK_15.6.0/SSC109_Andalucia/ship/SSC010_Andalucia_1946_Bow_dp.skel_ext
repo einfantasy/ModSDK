@@ -1,0 +1,23 @@
+<SSC010_Andalucia_1946_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.4923 0.8699 0.0295 0.0000	</row0>
+			<row1>	-2.5713 -1.4713 0.4732 0.0000	</row1>
+			<row2>	0.1517 0.0523 0.9870 0.0000	</row2>
+			<row3>	-0.3840 0.2550 5.6820 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.4996 0.8650 0.0470 0.0000	</row0>
+			<row1>	2.5401 -1.4972 0.5534 0.0000	</row1>
+			<row2>	0.1830 -0.0523 -0.9817 0.0000	</row2>
+			<row3>	0.3360 0.2550 5.6820 1.0000	</row3>
+		</transform>
+	</node>
+</SSC010_Andalucia_1946_Bow_dp.skel_ext>

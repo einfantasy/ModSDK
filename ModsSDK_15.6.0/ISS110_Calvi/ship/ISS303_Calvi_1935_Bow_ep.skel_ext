@@ -1,0 +1,93 @@
+<ISS303_Calvi_1935_Bow_ep.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	EP_Death_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0000 1.8601 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Descent_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.5244 -0.8515 0.0000 0.0000	</row0>
+			<row1>	0.8515 0.5244 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.1062 0.1147 1.8968 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Descent_6	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.5161 -0.8566 0.0000 0.0000	</row0>
+			<row1>	-0.8566 0.5161 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	-0.1043 0.1149 1.8969 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Flood_steam_2	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9996 -0.0283 0.0000 0.0000	</row0>
+			<row1>	0.0283 0.9996 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.1770 2.2700 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Hydrophone	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.1830 2.7023 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_RepairLight_right_2	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.0060 0.0000 -1.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	1.0000 0.0000 0.0060 0.0000	</row2>
+			<row3>	0.1311 0.1556 1.6303 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Runoff_up_left	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.9980 0.0018 0.0614 0.0000	</row0>
+			<row1>	0.0003 0.9998 -0.0225 0.0000	</row1>
+			<row2>	-0.0614 -0.0225 -0.9979 0.0000	</row2>
+			<row3>	-0.0703 0.1741 2.0897 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Runoff_up_right	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0017 -0.0035 0.0000	</row0>
+			<row1>	-0.0017 0.9999 -0.0132 0.0000	</row1>
+			<row2>	0.0035 0.0132 0.9999 0.0000	</row2>
+			<row3>	0.0700 0.1740 2.0900 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_WakeTrace	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0000 2.6349 1.0000	</row3>
+		</transform>
+	</node>
+</ISS303_Calvi_1935_Bow_ep.skel_ext>

@@ -1,0 +1,43 @@
+<ISS302_Pietro_Micca_1935_Bow_ep.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	EP_Flood_steam_2	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.0055 0.1573 2.3173 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Runoff_up_left	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.9999 0.0017 -0.0037 0.0000	</row0>
+			<row1>	0.0018 0.9988 -0.0507 0.0000	</row1>
+			<row2>	0.0036 -0.0507 -0.9987 0.0000	</row2>
+			<row3>	-0.0703 0.1463 2.0897 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Runoff_up_right	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0015 -0.0036 0.0000	</row0>
+			<row1>	-0.0017 0.9984 -0.0567 0.0000	</row1>
+			<row2>	0.0035 0.0567 0.9984 0.0000	</row2>
+			<row3>	0.0700 0.1472 2.0900 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_WakeTrace	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0000 2.9784 1.0000	</row3>
+		</transform>
+	</node>
+</ISS302_Pietro_Micca_1935_Bow_ep.skel_ext>

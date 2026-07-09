@@ -1,0 +1,43 @@
+<VSC011_Santander_1948_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-3.0000 0.0000 0.0006 0.0000	</row1>
+			<row2>	0.0002 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.2065 0.8165 0.0326 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	3.0000 0.0000 0.0006 0.0000	</row1>
+			<row2>	0.0002 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.2065 0.8165 0.0326 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.9973 0.0000 0.1047 0.0000	</row1>
+			<row2>	0.0523 0.0000 0.9986 0.0000	</row2>
+			<row3>	-0.6600 0.2052 0.6030 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.9973 0.0000 0.1047 0.0000	</row1>
+			<row2>	0.0523 0.0000 -0.9986 0.0000	</row2>
+			<row3>	0.6600 0.2052 0.6030 1.0000	</row3>
+		</transform>
+	</node>
+</VSC011_Santander_1948_MidFront_dp.skel_ext>

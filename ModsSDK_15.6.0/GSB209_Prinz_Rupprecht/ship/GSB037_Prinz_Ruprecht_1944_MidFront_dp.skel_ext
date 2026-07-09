@@ -1,0 +1,43 @@
+<GSB037_Prinz_Ruprecht_1944_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-3.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.4990 0.7870 2.1295 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	3.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.4990 0.7870 2.1295 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.0647 0.9979 0.0080 0.0000	</row0>
+			<row1>	-0.9903 -0.0652 0.1231 0.0000	</row1>
+			<row2>	0.1234 0.0000 0.9924 0.0000	</row2>
+			<row3>	-0.8450 0.1790 3.0790 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.1135 0.9935 0.0153 0.0000	</row0>
+			<row1>	0.9845 -0.1145 0.1329 0.0000	</row1>
+			<row2>	0.1338 0.0000 -0.9910 0.0000	</row2>
+			<row3>	0.8302 0.1790 3.0790 1.0000	</row3>
+		</transform>
+	</node>
+</GSB037_Prinz_Ruprecht_1944_MidFront_dp.skel_ext>

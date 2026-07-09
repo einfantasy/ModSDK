@@ -1,0 +1,23 @@
+<RSC042_Riga_1948_Stern_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	-0.2373 0.9711 -0.0276 0.0000	</row0>
+			<row1>	-1.9290 -0.4777 -0.2246 0.0000	</row1>
+			<row2>	-0.1156 0.0000 0.9933 0.0000	</row2>
+			<row3>	-0.5320 0.1603 -5.1514 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	0.2373 0.9711 -0.0276 0.0000	</row0>
+			<row1>	1.9290 -0.4777 -0.2246 0.0000	</row1>
+			<row2>	-0.1156 0.0000 -0.9933 0.0000	</row2>
+			<row3>	0.5310 0.1603 -5.1514 1.0000	</row3>
+		</transform>
+	</node>
+</RSC042_Riga_1948_Stern_dp.skel_ext>

@@ -1,0 +1,18 @@
+<ISS301_Foca_1937_Bow.model>
+	<visual>	PnFMods/ModsSDK.zip/ISS106_Foca/ship/ISS301_Foca_1937_Bow.visual	</visual>
+	<animations>
+		<animation>	content/animation_state_machines/gameplay/italy/ship/submarine/ISS301_Foca_1937/ISS301_Foca_1937_track1.ssm	</animation>
+		<animation>	content/animation_state_machines/gameplay/italy/ship/submarine/ISS301_Foca_1937/ISS301_Foca_1937_track2.ssm	</animation>
+		<animation>	content/animation_state_machines/gameplay/italy/ship/submarine/ISS301_Foca_1937/ISS301_Foca_1937_track3.ssm	</animation>
+		<animation>	content/animation_state_machines/gameplay/italy/ship/submarine/ISS301_Foca_1937/ISS301_Foca_1937_track4.ssm	</animation>
+		<animation>	content/animation_state_machines/gameplay/italy/ship/submarine/ISS301_Foca_1937/ISS301_Foca_1937_track5.ssm	</animation>
+		<animation>	content/animation_state_machines/gameplay/italy/ship/submarine/ISS301_Foca_1937/ISS301_Foca_1937_track6.ssm	</animation>
+		<animation>	content/animation_state_machines/gameplay/italy/ship/submarine/ISS301_Foca_1937/ISS301_Foca_1937_track7.ssm	</animation>
+	</animations>
+	<dyes />
+	<skeletonExtenders>
+		<skeletonExtender>	PnFMods/ModsSDK.zip/ISS106_Foca/ship/ISS301_Foca_1937_Bow.skel_ext	</skeletonExtender>
+		<skeletonExtender>	PnFMods/ModsSDK.zip/ISS106_Foca/ship/ISS301_Foca_1937_Bow_ep.skel_ext	</skeletonExtender>
+	</skeletonExtenders>
+	<metaData>	Wargaming.net	</metaData>
+</ISS301_Foca_1937_Bow.model>

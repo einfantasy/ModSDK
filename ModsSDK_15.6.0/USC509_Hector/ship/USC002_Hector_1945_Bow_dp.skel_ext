@@ -1,0 +1,23 @@
+<USC002_Hector_1945_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.4534 0.8907 0.0322 0.0000	</row0>
+			<row1>	-1.0595 -0.5446 0.1445 0.0000	</row1>
+			<row2>	0.1218 0.0262 0.9922 0.0000	</row2>
+			<row3>	-0.4140 0.2510 4.3100 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.4534 0.8907 0.0322 0.0000	</row0>
+			<row1>	1.0595 -0.5446 0.1445 0.0000	</row1>
+			<row2>	0.1218 -0.0262 -0.9922 0.0000	</row2>
+			<row3>	0.4140 0.2510 4.3100 1.0000	</row3>
+		</transform>
+	</node>
+</USC002_Hector_1945_Bow_dp.skel_ext>

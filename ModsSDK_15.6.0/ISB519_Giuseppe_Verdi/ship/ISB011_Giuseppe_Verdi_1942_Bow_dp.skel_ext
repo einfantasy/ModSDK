@@ -1,0 +1,23 @@
+<ISB011_Giuseppe_Verdi_1942_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.1722 0.9848 0.0227 0.0000	</row0>
+			<row1>	-4.8819 -0.8682 0.6427 0.0000	</row1>
+			<row2>	0.1305 0.0000 0.9914 0.0000	</row2>
+			<row3>	-0.8200 0.2640 3.9410 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.3383 0.9397 0.0506 0.0000	</row0>
+			<row1>	4.6469 -1.7101 0.6945 0.0000	</row1>
+			<row2>	0.1478 0.0000 -0.9890 0.0000	</row2>
+			<row3>	0.8210 0.2640 3.9410 1.0000	</row3>
+		</transform>
+	</node>
+</ISB011_Giuseppe_Verdi_1942_Bow_dp.skel_ext>

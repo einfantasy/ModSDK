@@ -1,0 +1,43 @@
+<ZSB005_Sun_Yat_Sen_1955_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.1848 1.1412 0.3479 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.1840 1.1410 0.3480 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.1720 0.9848 0.0242 0.0000	</row0>
+			<row1>	-1.9504 -0.3473 0.2741 0.0000	</row1>
+			<row2>	0.1392 0.0000 0.9903 0.0000	</row2>
+			<row3>	-0.9890 0.2270 4.2200 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.1720 0.9848 0.0242 0.0000	</row0>
+			<row1>	1.9504 -0.3473 0.2741 0.0000	</row1>
+			<row2>	0.1392 0.0000 -0.9903 0.0000	</row2>
+			<row3>	0.9690 0.2270 4.2200 1.0000	</row3>
+		</transform>
+	</node>
+</ZSB005_Sun_Yat_Sen_1955_MidFront_dp.skel_ext>

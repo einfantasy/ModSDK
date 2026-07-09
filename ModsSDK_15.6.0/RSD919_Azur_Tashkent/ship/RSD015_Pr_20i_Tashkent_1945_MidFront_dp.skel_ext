@@ -1,0 +1,43 @@
+<RSD015_Pr_20i_Tashkent_1945_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0993 0.9951 0.0025 0.0000	</row0>
+			<row1>	-0.9947 0.0993 -0.0250 0.0000	</row1>
+			<row2>	-0.0251 0.0000 0.9997 0.0000	</row2>
+			<row3>	-0.2028 0.6338 1.8771 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.0993 0.9951 0.0025 0.0000	</row0>
+			<row1>	0.9947 0.0993 -0.0250 0.0000	</row1>
+			<row2>	-0.0251 0.0000 -0.9997 0.0000	</row2>
+			<row3>	0.2022 0.6338 1.8771 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.3106 0.9502 0.0268 0.0000	</row0>
+			<row1>	-0.9467 -0.3118 0.0817 0.0000	</row1>
+			<row2>	0.0860 0.0000 0.9963 0.0000	</row2>
+			<row3>	-0.3485 0.2004 2.5000 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.3519 0.9354 0.0360 0.0000	</row0>
+			<row1>	0.9305 -0.3537 0.0953 0.0000	</row1>
+			<row2>	0.1018 0.0000 -0.9948 0.0000	</row2>
+			<row3>	0.3376 0.2004 2.5000 1.0000	</row3>
+		</transform>
+	</node>
+</RSD015_Pr_20i_Tashkent_1945_MidFront_dp.skel_ext>

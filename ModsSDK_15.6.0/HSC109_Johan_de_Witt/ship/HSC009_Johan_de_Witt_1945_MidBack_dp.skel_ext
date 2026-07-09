@@ -1,0 +1,43 @@
+<HSC009_Johan_de_Witt_1945_MidBack_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.8460 0.1200 -1.7630 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0053 1.0000 -0.0002 0.0000	</row0>
+			<row1>	0.9989 -0.0053 -0.0460 0.0000	</row1>
+			<row2>	-0.0460 0.0000 -0.9989 0.0000	</row2>
+			<row3>	0.8450 0.1200 -1.7630 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	-0.0346 0.9994 -0.0043 0.0000	</row0>
+			<row1>	-1.9839 -0.0698 -0.2436 0.0000	</row1>
+			<row2>	-0.1219 0.0000 0.9925 0.0000	</row2>
+			<row3>	-0.6480 0.1430 -3.7850 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0346 0.9994 -0.0043 0.0000	</row0>
+			<row1>	1.9839 -0.0698 -0.2436 0.0000	</row1>
+			<row2>	-0.1219 0.0000 -0.9925 0.0000	</row2>
+			<row3>	0.6420 0.1430 -3.7850 1.0000	</row3>
+		</transform>
+	</node>
+</HSC009_Johan_de_Witt_1945_MidBack_dp.skel_ext>

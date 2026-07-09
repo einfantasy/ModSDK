@@ -1,0 +1,43 @@
+<SSC010_Andalucia_1946_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-0.7931 0.0000 0.6091 0.0000	</row1>
+			<row2>	0.6091 0.0000 0.7931 0.0000	</row2>
+			<row3>	-0.2358 0.8657 2.7266 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	0.7931 0.0000 0.6091 0.0000	</row1>
+			<row2>	0.6091 0.0000 -0.7931 0.0000	</row2>
+			<row3>	0.2173 0.8657 2.7266 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.1519 0.9884 0.0063 0.0000	</row0>
+			<row1>	-2.4688 -0.3801 0.1026 0.0000	</row1>
+			<row2>	0.0415 0.0000 0.9991 0.0000	</row2>
+			<row3>	-0.7020 0.2158 2.8740 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.1519 0.9884 0.0063 0.0000	</row0>
+			<row1>	2.4688 -0.3802 0.1026 0.0000	</row1>
+			<row2>	0.0415 0.0000 -0.9991 0.0000	</row2>
+			<row3>	0.7020 0.2158 2.8744 1.0000	</row3>
+		</transform>
+	</node>
+</SSC010_Andalucia_1946_MidFront_dp.skel_ext>

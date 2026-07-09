@@ -1,0 +1,43 @@
+<RSD011_Pr_35_Udaloy_1945_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-0.9972 0.0000 0.0754 0.0000	</row1>
+			<row2>	0.0754 0.0000 0.9972 0.0000	</row2>
+			<row3>	-0.2080 0.6821 1.3281 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	0.9972 0.0000 0.0754 0.0000	</row1>
+			<row2>	0.0754 0.0000 -0.9972 0.0000	</row2>
+			<row3>	0.2077 0.6821 1.3281 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.2578 0.9659 0.0225 0.0000	</row0>
+			<row1>	-1.4434 -0.3882 0.1263 0.0000	</row1>
+			<row2>	0.0872 0.0000 0.9962 0.0000	</row2>
+			<row3>	-0.3400 0.1448 1.3050 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.2578 0.9659 0.0226 0.0000	</row0>
+			<row1>	0.9623 -0.2588 0.0842 0.0000	</row1>
+			<row2>	0.0872 0.0000 -0.9962 0.0000	</row2>
+			<row3>	0.3397 0.1448 1.3050 1.0000	</row3>
+		</transform>
+	</node>
+</RSD011_Pr_35_Udaloy_1945_MidFront_dp.skel_ext>

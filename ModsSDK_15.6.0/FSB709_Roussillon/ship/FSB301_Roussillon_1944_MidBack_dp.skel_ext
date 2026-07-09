@@ -1,0 +1,43 @@
+<FSB301_Roussillon_1944_MidBack_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.1838 1.4192 -1.8897 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.1839 1.4190 -1.8900 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midback_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	-0.0174 0.9998 -0.0003 0.0000	</row0>
+			<row1>	-0.9997 -0.0175 -0.0174 0.0000	</row1>
+			<row2>	-0.0175 0.0000 0.9998 0.0000	</row2>
+			<row3>	-0.9779 0.1930 -4.7040 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midback_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0521 0.9986 -0.0046 0.0000	</row0>
+			<row1>	0.9948 -0.0523 -0.0870 0.0000	</row1>
+			<row2>	-0.0872 0.0000 -0.9962 0.0000	</row2>
+			<row3>	0.9611 0.1930 -4.7040 1.0000	</row3>
+		</transform>
+	</node>
+</FSB301_Roussillon_1944_MidBack_dp.skel_ext>

@@ -1,0 +1,43 @@
+<BSC016_Neptune_1947_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-2.9728 0.0000 0.4028 0.0000	</row1>
+			<row2>	0.1343 0.0000 0.9909 0.0000	</row2>
+			<row3>	-0.1949 1.0409 2.4945 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	2.9729 0.0002 0.4025 0.0000	</row1>
+			<row2>	0.1342 0.0000 -0.9910 0.0000	</row2>
+			<row3>	0.1913 1.0409 2.4945 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.2594 0.9658 0.0012 0.0000	</row0>
+			<row1>	-0.9633 -0.2588 0.0719 0.0000	</row1>
+			<row2>	0.0697 0.0175 0.9974 0.0000	</row2>
+			<row3>	-0.6750 0.2820 2.9150 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.2594 0.9658 0.0012 0.0000	</row0>
+			<row1>	1.2522 -0.3364 0.0935 0.0000	</row1>
+			<row2>	0.0697 -0.0175 -0.9974 0.0000	</row2>
+			<row3>	0.6640 0.2820 2.9150 1.0000	</row3>
+		</transform>
+	</node>
+</BSC016_Neptune_1947_MidFront_dp.skel_ext>

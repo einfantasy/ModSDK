@@ -1,0 +1,20 @@
+<ISS303_Calvi_1935_Bow.model>
+	<visual>	PnFMods/ModsSDK.zip/ISS110_Calvi/ship/ISS303_Calvi_1935_Bow.visual	</visual>
+	<animations>
+		<animation>	content/animation_state_machines/gameplay/italy/ship/submarine/ISS303_Calvi_1935/ISS303_Calvi_1935_track1.ssm	</animation>
+		<animation>	content/animation_state_machines/gameplay/italy/ship/submarine/ISS303_Calvi_1935/ISS303_Calvi_1935_track2.ssm	</animation>
+		<animation>	content/animation_state_machines/gameplay/italy/ship/submarine/ISS303_Calvi_1935/ISS303_Calvi_1935_track3.ssm	</animation>
+		<animation>	content/animation_state_machines/gameplay/italy/ship/submarine/ISS303_Calvi_1935/ISS303_Calvi_1935_track4.ssm	</animation>
+		<animation>	content/animation_state_machines/gameplay/italy/ship/submarine/ISS303_Calvi_1935/ISS303_Calvi_1935_track5.ssm	</animation>
+		<animation>	content/animation_state_machines/gameplay/italy/ship/submarine/ISS303_Calvi_1935/ISS303_Calvi_1935_track6.ssm	</animation>
+		<animation>	content/animation_state_machines/gameplay/italy/ship/submarine/ISS303_Calvi_1935/ISS303_Calvi_1935_track7.ssm	</animation>
+		<animation>	content/animation_state_machines/gameplay/italy/ship/submarine/ISS303_Calvi_1935/ISS303_Calvi_1935_track8.ssm	</animation>
+		<animation>	content/animation_state_machines/gameplay/italy/ship/submarine/ISS303_Calvi_1935/ISS303_Calvi_1935_track9.ssm	</animation>
+	</animations>
+	<dyes />
+	<skeletonExtenders>
+		<skeletonExtender>	PnFMods/ModsSDK.zip/ISS110_Calvi/ship/ISS303_Calvi_1935_Bow.skel_ext	</skeletonExtender>
+		<skeletonExtender>	PnFMods/ModsSDK.zip/ISS110_Calvi/ship/ISS303_Calvi_1935_Bow_ep.skel_ext	</skeletonExtender>
+	</skeletonExtenders>
+	<metaData>	Wargaming.net	</metaData>
+</ISS303_Calvi_1935_Bow.model>

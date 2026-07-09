@@ -1,0 +1,173 @@
+<ISS302_Pietro_Micca_1935_Stern_ep.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	EP_Flood_steam_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.0003 0.1116 -2.3020 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_RepairLight_left_2	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+			<row3>	-0.0837 0.1093 -2.1379 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Runoff_deluge_left_18	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.9998 0.0000 -0.0175 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0175 0.0000 -0.9998 0.0000	</row2>
+			<row3>	-0.0881 0.1069 -2.0479 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Runoff_deluge_left_19	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.9995 0.0000 -0.0320 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0320 0.0000 -0.9995 0.0000	</row2>
+			<row3>	-0.0774 0.1071 -2.2408 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Runoff_deluge_left_20	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.9995 0.0000 -0.0320 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0320 0.0000 -0.9995 0.0000	</row2>
+			<row3>	-0.0507 0.1042 -2.6037 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Runoff_deluge_left_21	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.9995 -0.0022 -0.0319 0.0000	</row0>
+			<row1>	0.0000 0.9976 -0.0696 0.0000	</row1>
+			<row2>	0.0320 -0.0696 -0.9971 0.0000	</row2>
+			<row3>	-0.0284 0.0980 -2.8190 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Runoff_deluge_left_22	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.9995 0.0000 -0.0320 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0320 0.0000 -0.9995 0.0000	</row2>
+			<row3>	-0.1195 0.0132 -2.0731 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Runoff_deluge_right_18	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9998 0.0000 -0.0175 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0175 0.0000 0.9998 0.0000	</row2>
+			<row3>	0.0880 0.1070 -2.0480 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Runoff_deluge_right_19	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9998 0.0000 -0.0175 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0175 0.0000 0.9998 0.0000	</row2>
+			<row3>	0.0770 0.1070 -2.2410 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Runoff_deluge_right_20	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9995 0.0000 -0.0323 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0323 0.0000 0.9995 0.0000	</row2>
+			<row3>	0.0510 0.1040 -2.6040 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Runoff_deluge_right_21	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9995 0.0000 -0.0323 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0323 0.0000 0.9995 0.0000	</row2>
+			<row3>	0.0280 0.0980 -2.8190 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Runoff_deluge_right_22	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9995 0.0000 -0.0323 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0323 0.0000 0.9995 0.0000	</row2>
+			<row3>	0.1190 0.0130 -2.0730 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Runoff_left_3	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.9364 0.3451 -0.0637 0.0000	</row0>
+			<row1>	0.3446 0.9385 0.0190 0.0000	</row1>
+			<row2>	0.0664 -0.0041 -0.9978 0.0000	</row2>
+			<row3>	-0.0684 0.1042 -2.3897 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Runoff_right_3	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9380 0.3451 -0.0338 0.0000	</row0>
+			<row1>	-0.3447 0.9386 0.0168 0.0000	</row1>
+			<row2>	0.0375 -0.0041 0.9993 0.0000	</row2>
+			<row3>	0.0680 0.1040 -2.3900 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_WakeTraceBack	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0000 -2.9497 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_WakeTrace_screw_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0858 -0.1618 -2.5052 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_WakeTrace_screw_2	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.0876 -0.1579 -2.5074 1.0000	</row3>
+		</transform>
+	</node>
+</ISS302_Pietro_Micca_1935_Stern_ep.skel_ext>

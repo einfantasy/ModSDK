@@ -1,0 +1,63 @@
+<HSD001_Friesland_1956_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.3395 0.9397 0.0417 0.0000	</row0>
+			<row1>	-1.8654 -0.6840 0.2290 0.0000	</row1>
+			<row2>	0.1219 0.0000 0.9925 0.0000	</row2>
+			<row3>	-0.2710 0.1460 2.6170 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.3395 0.9397 0.0417 0.0000	</row0>
+			<row1>	1.8654 -0.6840 0.2290 0.0000	</row1>
+			<row2>	0.1219 0.0000 -0.9925 0.0000	</row2>
+			<row3>	0.2690 0.1460 2.6170 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.3826 0.5819 1.2479 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.3830 0.5820 1.2480 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-0.9994 0.0000 0.0349 0.0000	</row1>
+			<row2>	0.0349 0.0000 0.9994 0.0000	</row2>
+			<row3>	-0.3897 0.1760 1.0870 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	0.9994 0.0000 0.0349 0.0000	</row1>
+			<row2>	0.0349 0.0000 -0.9994 0.0000	</row2>
+			<row3>	0.3900 0.1760 1.0870 1.0000	</row3>
+		</transform>
+	</node>
+</HSD001_Friesland_1956_MidFront_dp.skel_ext>

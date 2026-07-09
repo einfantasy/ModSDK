@@ -1,0 +1,23 @@
+<ISC015_Torino_1943_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.3044 0.9517 0.0387 0.0000	</row0>
+			<row1>	-2.8325 -0.9205 0.3598 0.0000	</row1>
+			<row2>	0.1260 0.0000 0.9920 0.0000	</row2>
+			<row3>	-0.4335 0.2701 4.4668 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.3047 0.9517 0.0373 0.0000	</row0>
+			<row1>	2.8340 -0.9209 0.3468 0.0000	</row1>
+			<row2>	0.1215 0.0000 -0.9926 0.0000	</row2>
+			<row3>	0.4383 0.2701 4.4668 1.0000	</row3>
+		</transform>
+	</node>
+</ISC015_Torino_1943_Bow_dp.skel_ext>

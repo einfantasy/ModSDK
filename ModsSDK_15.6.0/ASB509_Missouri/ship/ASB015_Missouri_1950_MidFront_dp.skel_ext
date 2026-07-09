@@ -1,0 +1,43 @@
+<ASB015_Missouri_1950_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.3000 0.0000 0.0020 0.0000	</row1>
+			<row2>	0.0016 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.1660 1.4740 0.4130 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.3000 0.0000 0.0020 0.0000	</row1>
+			<row2>	0.0016 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.1660 1.4740 0.4040 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.2000 0.0000 0.0097 0.0000	</row1>
+			<row2>	0.0081 0.0000 1.0000 0.0000	</row2>
+			<row3>	-1.0890 0.2268 -0.2170 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.0002 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.2000 0.0002 0.0099 0.0000	</row1>
+			<row2>	0.0082 0.0000 -1.0000 0.0000	</row2>
+			<row3>	1.0870 0.2268 0.0350 1.0000	</row3>
+		</transform>
+	</node>
+</ASB015_Missouri_1950_MidFront_dp.skel_ext>

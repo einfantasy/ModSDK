@@ -1,0 +1,23 @@
+<JSD015_Yugumo_1941_Stern_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	0.0027 1.0000 0.0002 0.0000	</row0>
+			<row1>	-1.9965 0.0054 -0.1182 0.0000	</row1>
+			<row2>	-0.0591 0.0000 0.9983 0.0000	</row2>
+			<row3>	-0.3086 0.0764 -2.5560 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	-0.0027 1.0000 0.0002 0.0000	</row0>
+			<row1>	1.9965 0.0054 -0.1182 0.0000	</row1>
+			<row2>	-0.0591 0.0000 -0.9983 0.0000	</row2>
+			<row3>	0.3092 0.0764 -2.5560 1.0000	</row3>
+		</transform>
+	</node>
+</JSD015_Yugumo_1941_Stern_dp.skel_ext>

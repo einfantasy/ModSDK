@@ -1,0 +1,43 @@
+<ZSD011_Chung_Mu_1943_MidFront_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	-0.1731 0.9848 0.0136 0.0000	</row0>
+			<row1>	-1.9636 -0.3472 0.1546 0.0000	</row1>
+			<row2>	0.0785 0.0000 0.9969 0.0000	</row2>
+			<row3>	-0.1550 0.1893 3.1067 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.1731 0.9848 0.0136 0.0000	</row0>
+			<row1>	1.9636 -0.3472 0.1546 0.0000	</row1>
+			<row2>	0.0785 0.0000 -0.9969 0.0000	</row2>
+			<row3>	0.1470 0.1893 3.1067 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_left	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-2.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.1660 0.5670 1.3650 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_deckhouse_right	</identifier>
+		<parent>	MidFront	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	2.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.1660 0.5670 1.3650 1.0000	</row3>
+		</transform>
+	</node>
+</ZSD011_Chung_Mu_1943_MidFront_dp.skel_ext>

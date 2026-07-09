@@ -1,0 +1,23 @@
+<JSB014_Musashi_1942_Stern_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	-0.1045 0.9945 0.0000 0.0000	</row0>
+			<row1>	-1.9890 -0.2091 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-1.2800 0.4208 -4.1050 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	2.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	1.2770 0.4210 -4.1050 1.0000	</row3>
+		</transform>
+	</node>
+</JSB014_Musashi_1942_Stern_dp.skel_ext>

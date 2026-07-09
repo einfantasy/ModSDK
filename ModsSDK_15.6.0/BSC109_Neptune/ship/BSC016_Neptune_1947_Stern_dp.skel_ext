@@ -1,0 +1,23 @@
+<BSC016_Neptune_1947_Stern_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	-0.0992 0.9950 -0.0099 0.0000	</row0>
+			<row1>	-1.9801 -0.1994 -0.1982 0.0000	</row1>
+			<row2>	-0.0996 0.0000 0.9950 0.0000	</row2>
+			<row3>	-0.5528 0.1616 -4.9171 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	0.0992 0.9950 -0.0099 0.0000	</row0>
+			<row1>	1.9801 -0.1994 -0.1982 0.0000	</row1>
+			<row2>	-0.0996 0.0000 -0.9950 0.0000	</row2>
+			<row3>	0.5505 0.1616 -4.9171 1.0000	</row3>
+		</transform>
+	</node>
+</BSC016_Neptune_1947_Stern_dp.skel_ext>

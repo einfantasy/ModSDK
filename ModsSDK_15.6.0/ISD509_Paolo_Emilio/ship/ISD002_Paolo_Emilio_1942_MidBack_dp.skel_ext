@@ -1,0 +1,43 @@
+<ISD002_Paolo_Emilio_1942_MidBack_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_midfront_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	-1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	-0.4538 0.1601 -0.7188 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midfront_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
+			<row1>	1.0000 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	0.4535 0.1601 -0.7245 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	-0.1730 0.9848 -0.0151 0.0000	</row0>
+			<row1>	-1.9621 -0.3473 -0.1717 0.0000	</row1>
+			<row2>	-0.0872 0.0000 0.9962 0.0000	</row2>
+			<row3>	-0.3320 0.1420 -3.3460 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.1730 0.9848 -0.0151 0.0000	</row0>
+			<row1>	1.9621 -0.3473 -0.1717 0.0000	</row1>
+			<row2>	-0.0872 0.0000 -0.9962 0.0000	</row2>
+			<row3>	0.3420 0.1420 -3.3460 1.0000	</row3>
+		</transform>
+	</node>
+</ISD002_Paolo_Emilio_1942_MidBack_dp.skel_ext>

@@ -1,0 +1,23 @@
+<JSB066_Daisen_1944_Stern_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	-0.0363 0.9992 0.0143 0.0000	</row0>
+			<row1>	-0.9955 -0.0349 -0.0877 0.0000	</row1>
+			<row2>	-0.0871 -0.0175 0.9960 0.0000	</row2>
+			<row3>	-0.6690 0.1420 -6.1570 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	0.0363 0.9992 0.0143 0.0000	</row0>
+			<row1>	0.9955 -0.0349 -0.0877 0.0000	</row1>
+			<row2>	-0.0871 0.0175 -0.9960 0.0000	</row2>
+			<row3>	0.6750 0.1420 -6.1570 1.0000	</row3>
+		</transform>
+	</node>
+</JSB066_Daisen_1944_Stern_dp.skel_ext>

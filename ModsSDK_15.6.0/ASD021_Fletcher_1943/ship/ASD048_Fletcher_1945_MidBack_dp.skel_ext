@@ -1,0 +1,23 @@
+<ASD048_Fletcher_1945_MidBack_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	-0.1421 0.9898 -0.0103 0.0000	</row0>
+			<row1>	-1.9744 -0.2848 -0.1427 0.0000	</row1>
+			<row2>	-0.0721 0.0000 0.9974 0.0000	</row2>
+			<row3>	-0.3237 0.0662 -2.9222 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.1421 0.9898 -0.0103 0.0000	</row0>
+			<row1>	1.9744 -0.2848 -0.1427 0.0000	</row1>
+			<row2>	-0.0721 0.0000 -0.9974 0.0000	</row2>
+			<row3>	0.3245 0.0662 -2.9222 1.0000	</row3>
+		</transform>
+	</node>
+</ASD048_Fletcher_1945_MidBack_dp.skel_ext>

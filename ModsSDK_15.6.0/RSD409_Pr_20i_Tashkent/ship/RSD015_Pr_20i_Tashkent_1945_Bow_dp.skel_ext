@@ -1,0 +1,23 @@
+<RSD015_Pr_20i_Tashkent_1945_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.4481 0.8907 0.0765 0.0000	</row0>
+			<row1>	-0.8780 -0.4546 0.1499 0.0000	</row1>
+			<row2>	0.1683 0.0000 0.9857 0.0000	</row2>
+			<row3>	-0.2080 0.2490 3.6470 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.4481 0.8907 0.0765 0.0000	</row0>
+			<row1>	0.8780 -0.4546 0.1499 0.0000	</row1>
+			<row2>	0.1683 0.0000 -0.9857 0.0000	</row2>
+			<row3>	0.2220 0.2490 3.6470 1.0000	</row3>
+		</transform>
+	</node>
+</RSD015_Pr_20i_Tashkent_1945_Bow_dp.skel_ext>

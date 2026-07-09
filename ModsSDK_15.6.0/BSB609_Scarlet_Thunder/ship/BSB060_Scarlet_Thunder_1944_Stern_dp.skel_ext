@@ -1,0 +1,23 @@
+<BSB060_Scarlet_Thunder_1944_Stern_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_stern_left	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	-0.0866 0.9962 -0.0099 0.0000	</row0>
+			<row1>	-0.9898 -0.0872 -0.1128 0.0000	</row1>
+			<row2>	-0.1132 0.0000 0.9936 0.0000	</row2>
+			<row3>	-0.8340 0.2900 -5.2840 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_stern_right	</identifier>
+		<parent>	Stern	</parent>
+		<transform>
+			<row0>	0.0866 0.9962 -0.0099 0.0000	</row0>
+			<row1>	0.9898 -0.0872 -0.1128 0.0000	</row1>
+			<row2>	-0.1132 0.0000 -0.9936 0.0000	</row2>
+			<row3>	0.8300 0.2900 -5.2840 1.0000	</row3>
+		</transform>
+	</node>
+</BSB060_Scarlet_Thunder_1944_Stern_dp.skel_ext>

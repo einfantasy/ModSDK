@@ -1,0 +1,23 @@
+<WSB301_Niord_1948_MidBack_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_midback_left	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	-0.0863 0.9962 -0.0121 0.0000	</row0>
+			<row1>	-0.9865 -0.0872 -0.1386 0.0000	</row1>
+			<row2>	-0.1392 0.0000 0.9903 0.0000	</row2>
+			<row3>	-0.7950 0.1970 -4.8570 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_midback_right	</identifier>
+		<parent>	MidBack	</parent>
+		<transform>
+			<row0>	0.0863 0.9962 -0.0121 0.0000	</row0>
+			<row1>	0.9865 -0.0872 -0.1386 0.0000	</row1>
+			<row2>	-0.1392 0.0000 -0.9903 0.0000	</row2>
+			<row3>	0.8040 0.1970 -4.8570 1.0000	</row3>
+		</transform>
+	</node>
+</WSB301_Niord_1948_MidBack_dp.skel_ext>
