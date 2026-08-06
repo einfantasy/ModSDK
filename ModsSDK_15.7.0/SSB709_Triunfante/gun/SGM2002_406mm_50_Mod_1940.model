@@ -1,0 +1,9 @@
+<SGM2002_406mm_50_Mod_1940.model>
+	<visual>	PnFMods/ModsSDK.zip/SSB709_Triunfante/gun/SGM2002_406mm_50_Mod_1940.visual	</visual>
+	<animations />
+	<dyes />
+	<skeletonExtenders>
+		<skeletonExtender>	PnFMods/ModsSDK.zip/SSB709_Triunfante/gun/SGM2002_406mm_50_Mod_1940.skel_ext	</skeletonExtender>
+	</skeletonExtenders>
+	<metaData>	Wargaming.net	</metaData>
+</SGM2002_406mm_50_Mod_1940.model>

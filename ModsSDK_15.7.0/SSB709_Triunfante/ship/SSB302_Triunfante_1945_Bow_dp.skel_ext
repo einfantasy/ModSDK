@@ -1,0 +1,23 @@
+<SSB302_Triunfante_1945_Bow_dp.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	DP_bow_left	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	-0.3809 0.9229 0.0567 0.0000	</row0>
+			<row1>	-1.8139 -0.7697 0.3427 0.0000	</row1>
+			<row2>	0.1799 0.0139 0.9836 0.0000	</row2>
+			<row3>	-0.5090 0.1778 6.2890 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	DP_bow_right	</identifier>
+		<parent>	Bow	</parent>
+		<transform>
+			<row0>	0.4048 0.9118 0.0687 0.0000	</row0>
+			<row1>	1.7979 -0.8212 0.3052 0.0000	</row1>
+			<row2>	0.1674 0.0000 -0.9859 0.0000	</row2>
+			<row3>	0.5229 0.1778 6.2488 1.0000	</row3>
+		</transform>
+	</node>
+</SSB302_Triunfante_1945_Bow_dp.skel_ext>

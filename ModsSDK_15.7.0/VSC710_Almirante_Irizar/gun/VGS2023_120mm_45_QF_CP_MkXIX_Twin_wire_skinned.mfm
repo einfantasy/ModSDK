@@ -1,0 +1,10 @@
+<VGS2023_120mm_45_QF_CP_MkXIX_Twin_wire_skinned.mfm>
+	<fx>	PnFMods/ModsSDK.zip/VSC710_Almirante_Irizar/gun/wire_material_skinned.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/ModsSDK.zip/VSC710_Almirante_Irizar/gun/VGS2023_120mm_45_QF_CP_MkXIX_Twin_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/ModsSDK.zip/VSC710_Almirante_Irizar/gun/default_wires_mg.dds	</Texture>
+	</property>
+</VGS2023_120mm_45_QF_CP_MkXIX_Twin_wire_skinned.mfm>

@@ -1,0 +1,139 @@
+<VD2015_Director_Mk54.visual>
+	<skeleton>
+		<node>
+			<identifier>	Scene Root	</identifier>
+			<transform>
+				<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+				<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+				<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+			</transform>
+			<node>
+				<identifier>	VD2015_Director_Mk54	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+				<node>
+					<identifier>	VD2015_Director_Mk54_wires	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+					</transform>
+				</node>
+			</node>
+		</node>
+	</skeleton>
+	<properties>
+		<underwaterModel>	false	</underwaterModel>
+		<abovewaterModel>	true	</abovewaterModel>
+	</properties>
+	<boundingBox>
+		<min>	-0.1781 -0.0665 -0.1255	</min>
+		<max>	0.1781 0.1747 0.0979	</max>
+	</boundingBox>
+	<renderSets>
+		<renderSet>
+			<name>	VD2015_Director_Mk54Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	VD2015_Director_Mk54	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Director	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/VSC710_Almirante_Irizar/director/VD2015_Director_Mk54.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	VD2015_Director_Mk54_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	VD2015_Director_Mk54	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Director	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/VSC710_Almirante_Irizar/director/VD2015_Director_Mk54.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	VD2015_Director_Mk54_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	VD2015_Director_Mk54	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Director	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/VSC710_Almirante_Irizar/director/VD2015_Director_Mk54.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	VD2015_Director_Mk54_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	VD2015_Director_Mk54	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Director	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/VSC710_Almirante_Irizar/director/VD2015_Director_Mk54.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	VD2015_Director_Mk54_wiresShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	VD2015_Director_Mk54_wires	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPWIRE_PBS_Director	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/VSC710_Almirante_Irizar/director/VD2015_Director_Mk54_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	VD2015_Director_Mk54_wires_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	VD2015_Director_Mk54_wires	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPWIRE_PBS_Director	</identifier>
+				<mfm>	PnFMods/ModsSDK.zip/VSC710_Almirante_Irizar/director/VD2015_Director_Mk54_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+	</renderSets>
+	<lods>
+		<lod>
+			<extent>	12.0000	</extent>
+			<castsShadow>	true	</castsShadow>
+			<renderSets>
+				<renderSet>	VD2015_Director_Mk54Shape	</renderSet>
+				<renderSet>	VD2015_Director_Mk54_wiresShape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	20.0000	</extent>
+			<castsShadow>	true	</castsShadow>
+			<renderSets>
+				<renderSet>	VD2015_Director_Mk54_lod1Shape	</renderSet>
+				<renderSet>	VD2015_Director_Mk54_wires_lod1Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	40.0000	</extent>
+			<castsShadow>	true	</castsShadow>
+			<renderSets>
+				<renderSet>	VD2015_Director_Mk54_lod2Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	200.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	VD2015_Director_Mk54_lod3Shape	</renderSet>
+			</renderSets>
+		</lod>
+	</lods>
+</VD2015_Director_Mk54.visual>

@@ -1,0 +1,43 @@
+<VD2015_Director_Mk54.skel_ext>
+	<exported>	true	</exported>
+	<node>
+		<identifier>	MP_VM431_Radar_type_274_on_DCT	</identifier>
+		<parent>	VD2015_Director_Mk54	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0426 -0.0382 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS200_YDCS_M_1	</identifier>
+		<parent>	VD2015_Director_Mk54	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0002 0.0313 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS206_YDSS_S_1	</identifier>
+		<parent>	VD2015_Director_Mk54	</parent>
+		<transform>
+			<row0>	0.0000 -1.0217 0.0000 0.0000	</row0>
+			<row1>	1.0217 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0217 0.0000	</row2>
+			<row3>	0.0200 0.0250 -0.0380 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS206_YDSS_S_1.001	</identifier>
+		<parent>	VD2015_Director_Mk54	</parent>
+		<transform>
+			<row0>	0.0000 1.0217 0.0000 0.0000	</row0>
+			<row1>	-1.0217 0.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0217 0.0000	</row2>
+			<row3>	-0.0200 0.0250 -0.0380 1.0000	</row3>
+		</transform>
+	</node>
+</VD2015_Director_Mk54.skel_ext>

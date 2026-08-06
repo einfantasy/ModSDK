@@ -1,0 +1,93 @@
+<USD301_Cayuga_1947_MidBack_ep.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	EP_Fire_3	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.3371 -1.7520 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Fire_3_side_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.2822 0.2117 -1.1938 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_FloodLight_left_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	-0.2446 0.3152 -1.9870 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_FloodLight_right_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.2457 0.2732 -2.0231 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Flood_steam_right	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.3551 0.1294 -1.8319 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Flood_water_left	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	-0.3620 0.0140 -1.7480 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Flood_water_right	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9999 0.0000 -0.0155 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0155 0.0000 0.9999 0.0000	</row2>
+			<row3>	0.3639 0.0157 -1.6763 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_RepairLight_Right_2	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+			<row3>	0.3474 0.1975 -2.2538 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_RepairLight_left_2	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+			<row3>	-0.3491 0.1969 -2.0137 1.0000	</row3>
+		</transform>
+	</node>
+</USD301_Cayuga_1947_MidBack_ep.skel_ext>

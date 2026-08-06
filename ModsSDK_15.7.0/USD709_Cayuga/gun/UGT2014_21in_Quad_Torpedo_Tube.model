@@ -1,0 +1,9 @@
+<UGT2014_21in_Quad_Torpedo_Tube.model>
+	<visual>	PnFMods/ModsSDK.zip/USD709_Cayuga/gun/UGT2014_21in_Quad_Torpedo_Tube.visual	</visual>
+	<animations />
+	<dyes />
+	<skeletonExtenders>
+		<skeletonExtender>	PnFMods/ModsSDK.zip/USD709_Cayuga/gun/UGT2014_21in_Quad_Torpedo_Tube.skel_ext	</skeletonExtender>
+	</skeletonExtenders>
+	<metaData>	Wargaming.net	</metaData>
+</UGT2014_21in_Quad_Torpedo_Tube.model>

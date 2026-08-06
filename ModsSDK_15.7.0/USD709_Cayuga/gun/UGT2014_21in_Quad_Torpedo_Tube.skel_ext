@@ -1,0 +1,13 @@
+<UGT2014_21in_Quad_Torpedo_Tube.skel_ext>
+	<exported>	true	</exported>
+	<node>
+		<identifier>	MP_UM5013_Gunner_post	</identifier>
+		<parent>	BGT005_21in_Quad_Torpedo_Tube	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0656 0.0653 1.0000	</row3>
+		</transform>
+	</node>
+</UGT2014_21in_Quad_Torpedo_Tube.skel_ext>

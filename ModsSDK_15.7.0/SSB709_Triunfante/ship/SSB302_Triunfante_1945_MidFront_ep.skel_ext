@@ -1,0 +1,113 @@
+<SSB302_Triunfante_1945_MidFront_ep.skel_ext>
+	<exported>	false	</exported>
+	<node>
+		<identifier>	EP_Death_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0000 4.2048 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Death_2	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Fire_2	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 1.0786 2.1842 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Fire_2_side_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.7274 0.0000 0.6862 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	-0.6862 0.0000 0.7274 0.0000	</row2>
+			<row3>	0.6949 0.4039 1.7736 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_FloodLight_left_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+			<row3>	-0.4021 1.3429 1.7011 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_FloodLight_right_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.3999 1.3522 1.7107 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Flood_steam_left	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.9944 0.0000 0.1060 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	-0.1060 0.0000 -0.9944 0.0000	</row2>
+			<row3>	-0.9951 0.3003 2.8618 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Flood_water_left_3	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	-0.9945 0.0000 -0.1050 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.1050 0.0000 -0.9945 0.0000	</row2>
+			<row3>	-1.0405 0.0504 2.0243 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_Flood_water_right_3	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.9951 0.0000 0.0991 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	-0.0991 0.0000 0.9951 0.0000	</row2>
+			<row3>	1.0390 0.0526 2.0238 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_RepairLight_left_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.0867 0.0000 0.9962 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	-0.9962 0.0000 0.0867 0.0000	</row2>
+			<row3>	-0.9588 0.3811 3.4589 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	EP_RepairLight_right_1	</identifier>
+		<parent>	Scene Root	</parent>
+		<transform>
+			<row0>	0.0560 0.0000 -0.9984 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.9984 0.0000 0.0560 0.0000	</row2>
+			<row3>	1.0762 0.3802 1.6032 1.0000	</row3>
+		</transform>
+	</node>
+</SSB302_Triunfante_1945_MidFront_ep.skel_ext>

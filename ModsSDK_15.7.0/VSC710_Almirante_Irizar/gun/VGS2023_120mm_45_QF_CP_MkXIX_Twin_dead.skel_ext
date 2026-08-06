@@ -1,0 +1,63 @@
+<VGS2023_120mm_45_QF_CP_MkXIX_Twin_dead.skel_ext>
+	<exported>	true	</exported>
+	<node>
+		<identifier>	SP_YMS100_YGBS_M_1	</identifier>
+		<parent>	Turret_dead	</parent>
+		<transform>
+			<row0>	0.2820 0.0000 0.0022 0.0000	</row0>
+			<row1>	0.0000 0.2820 0.0000 0.0000	</row1>
+			<row2>	-0.0022 0.0000 0.2820 0.0000	</row2>
+			<row3>	0.0300 0.1536 0.0878 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS100_YGBS_M_1.001	</identifier>
+		<parent>	Turret_dead	</parent>
+		<transform>
+			<row0>	0.2805 -0.0083 -0.0270 0.0000	</row0>
+			<row1>	0.0053 0.2802 -0.0310 0.0000	</row1>
+			<row2>	0.0278 0.0303 0.2790 0.0000	</row2>
+			<row3>	-0.0283 0.1606 0.0863 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS101_YGCS_M_1	</identifier>
+		<parent>	Turret_dead	</parent>
+		<transform>
+			<row0>	0.4362 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.6223 0.0607 0.0000	</row1>
+			<row2>	0.0000 -0.0533 0.5457 0.0000	</row2>
+			<row3>	0.0322 0.1064 0.1011 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS101_YGCS_M_1.001	</identifier>
+		<parent>	Turret_dead	</parent>
+		<transform>
+			<row0>	0.4362 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 0.6223 0.0607 0.0000	</row1>
+			<row2>	0.0000 -0.0533 0.5457 0.0000	</row2>
+			<row3>	-0.0322 0.1064 0.1011 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS104_YGRS_M_1	</identifier>
+		<parent>	Turret_dead	</parent>
+		<transform>
+			<row0>	0.2495 0.0001 0.0133 0.0000	</row0>
+			<row1>	-0.0001 0.2499 0.0000 0.0000	</row1>
+			<row2>	-0.0133 0.0000 0.2495 0.0000	</row2>
+			<row3>	0.0222 0.1533 0.2920 1.0000	</row3>
+		</transform>
+	</node>
+	<node>
+		<identifier>	SP_YMS104_YGRS_M_1.001	</identifier>
+		<parent>	Turret_dead	</parent>
+		<transform>
+			<row0>	0.2491 -0.0004 -0.0202 0.0000	</row0>
+			<row1>	-0.0023 0.2476 -0.0338 0.0000	</row1>
+			<row2>	0.0201 0.0339 0.2468 0.0000	</row2>
+			<row3>	-0.0106 0.1866 0.2889 1.0000	</row3>
+		</transform>
+	</node>
+</VGS2023_120mm_45_QF_CP_MkXIX_Twin_dead.skel_ext>
